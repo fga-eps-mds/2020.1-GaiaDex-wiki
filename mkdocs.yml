@@ -1,1 +1,62 @@
-site_name: My Docs
+# Project information
+site_name: Grupo 02
+site_description: Artefatos de MDS e EPS, 2020.1
+site_author: Grupo 02
+site_url: https://fga-eps-mds.github.io/2020.1-Grupo2-wiki/
+
+# Repository
+repo_name: Grupo 02
+repo_url: https://github.com/fga-eps-mds/2020.1-Grupo2-wiki
+
+# Copyright
+# copyright: 'Copyright &copy; 2019 A Monitoria'
+
+# Theme settings
+theme:
+#   logo: assets/img/logo/logo_icon.png
+  # favicon:
+  font:
+    text: Roboto
+    code: Roboto Mono
+  feature:
+    tabs: true
+  language: 'pt'
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'purple'
+
+# Content Menu
+pages:
+  - Início: index.md
+nav:
+  - Artefatos:
+    - RoadMap: roadmap/roadmap.md
+
+# Style
+extra_css:
+  - assets/style/extra.css
+
+# Markdown extensions
+# markdown_extensions:
+#   - admonition
+#   - codehilite:
+#       linenums: true
+#   - footnotes
+#   - meta
+#   - pymdownx.arithmatex
+#   - pymdownx.betterem:
+#       smart_enable: all
+#   - pymdownx.caret
+#   - pymdownx.critic
+#   - pymdownx.details
+#   - pymdownx.emoji:
+#       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#   - pymdownx.inlinehilite
+#   - pymdownx.magiclink
+#   - pymdownx.mark
+#   - pymdownx.smartsymbols
+#   - pymdownx.superfences
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - pymdownx.tilde

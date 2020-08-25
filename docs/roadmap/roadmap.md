@@ -4,7 +4,7 @@ Este documento tem por finalidade armazenar o planejamento do RoadMap seguido no
 
 ## RoadMap do Produto
 
-![ProductRoadMap](../img/ProductRoadmap.png)
+![ProductRoadMap](./ProductRoadmap.png)
 
 ## RoadMap de papéis
 
@@ -42,4 +42,4 @@ O(A) DevOps será responśavel por:
 * Preparar ambientes Docker;
 * Configurar ferramentas de qualidade de código;
 * Configurar integração contínua;
-* COnfigurar éntrega conítnua.
+* Configurar éntrega conítnua.
