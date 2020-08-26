@@ -1,11 +1,3 @@
-# RoadMap
-
-Este documento tem por finalidade armazenar o planejamento do RoadMap seguido no desenvolvimento do projeto.
-
-## RoadMap do Produto
-
-![ProductRoadMap](./roadmap.png)
-
 ## RoadMap de papéis
 
 Esta secção apresentará as responsabilidades de cada papel do scrum neste projeto.
