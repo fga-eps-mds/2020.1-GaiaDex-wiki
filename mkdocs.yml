@@ -31,6 +31,7 @@ pages:
   - Inicio: index.md
 nav:
   - Inicio: index.md
+  - Product Backlog: product_backlog/product_backlog.md
   - RoadMap: roadmap/roadmap.md
   - Política de Repositório: repository_politics/repository_politics.md
 
