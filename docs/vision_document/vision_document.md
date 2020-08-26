@@ -63,8 +63,11 @@
 
 ### 3.2 Equipe de Desenvolvimento
 
-[<img src="https://avatars1.githubusercontent.com/u/49957403?s=460&u=170776941473671902ffee948e33b4a012829359&v=4" width=115 > <br> <sub> Arthur Sena </sub>](https://github.com/senaarth) | [<img src="https://avatars3.githubusercontent.com/u/50213514?s=460&u=9b36991005026e3b3131bf87e89354e55b323682&v=4" width=115 > <br> <sub> Victor Costa </sub>](https://github.com/V100k) | [<img src="https://avatars1.githubusercontent.com/u/52058094?s=460&u=7a8909576cb173c2fd1c4b83ad3ccb36348b6f9d&v=4" width=115 > <br> <sub> Victor Santos </sub>](https://github.com/victordsantoss) |
-| :---: | :---: | :---: |  
+[<img src="https://avatars1.githubusercontent.com/u/49957403?s=460&u=170776941473671902ffee948e33b4a012829359&v=4" width=115 > <br> <sub> Arthur Sena </sub>](https://github.com/senaarth) | [<img src="https://avatars3.githubusercontent.com/u/50213514?s=460&u=9b36991005026e3b3131bf87e89354e55b323682&v=4" width=115 > <br> <sub> Victor Costa </sub>](https://github.com/V100k) | [<img src="https://avatars1.githubusercontent.com/u/52058094?s=460&u=7a8909576cb173c2fd1c4b83ad3ccb36348b6f9d&v=4" width=115 > <br> <sub> Victor Santos </sub>](https://github.com/victordsantoss) | [<img src="https://avatars2.githubusercontent.com/u/49957412?s=460&u=e00cf30e0bc8a0931c7fb736eff5f751cc3a5181&v=4" width=115 > <br> <sub> Vinicius Souza </sub>](https://github.com/faco400) | 
+| :---: | :---: | :---: |  :---: |
+
+[<img src="https://avatars1.githubusercontent.com/u/42779015?s=460&u=23417272f4f68c9b439c151af03799fdd16021b9&v=4" width=115 > <br> <sub> Marcos Tavares </sub>](https://github.com/marcosgtavares) | [<img src="https://avatars2.githubusercontent.com/u/40834597?s=460&u=f4f3b8839567fb6967b08b548cd6d1a28865e374&v=4" width=115 > <br> <sub> Marcos Souza </sub>](https://github.com/marcosgtavares) |
+| :---: | :---: | 
 
 ## 4. Visão Geral do Produto
 
