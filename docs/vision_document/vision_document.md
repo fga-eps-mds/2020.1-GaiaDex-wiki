@@ -33,10 +33,16 @@
 [6. Referências](#6-referências)
 
 ## 1. Introdução
+O propósito deste documento é descrever o escopo do projeto.
 
 ### 1.1 Objetivos
+Nosso objetivo neste projeto é facilitar a experiência no cuidado com plantas. 
 
 ### 1.2 Visão Geral da Solução
+A aplicação tem como principal caracteristica o reconhecimento de imagem de plantas
+ em geral, onde o usuário será, a partir de uma foto pelo celular, encaminhado para
+ uma sessão onde irá poder ver registros de outros na comunidade de como cuidar daquela
+ determinada planta.
 
 ## 2. Descrição do Usuário
 
