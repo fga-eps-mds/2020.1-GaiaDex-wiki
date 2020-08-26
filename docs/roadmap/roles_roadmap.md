@@ -2,10 +2,21 @@
 
 Esta secção apresentará as responsabilidades de cada papel do scrum neste projeto.
 
-### Scrum Master
+### Product Owner (Guilherme de Lyra)
+
+O Product Owner será responsável por:
+
+* Definir requisitos;
+* Priorização de requisitos;
+* Roadmap;
+* Gerar histórias no Backlog do produto;
+* [Termo de Abertura do Projeto] ();
+
+### Scrum Master (Makaha)
 
 O(A) Scrum Master será responsável por:
 
+* Gerenciamento de entregas da sprint;
 * Documentar o [Product Backlog]();
 * Priorizar o [Product Backlog]();
 * Gerar e atualizar a [Tabela de Conhecimentos]();
@@ -13,9 +24,9 @@ O(A) Scrum Master será responsável por:
 * Gerar documentação de [Velocity]();
 * Registrar [dailies]();
 * Gerar e atualizar o [Burndown de Risco]();
-* Realizar o planejamento das [sprints]() seguintes.
+* Realizar o planejamento das [sprints](./product_roadmap.md) seguintes.
 
-### Arquiteto(a)
+### Arquiteto(a) (João Vitor Morandi)
 
 O(A) arquiteto(a) será responsável por:
 
@@ -24,7 +35,7 @@ O(A) arquiteto(a) será responsável por:
 * Gerar [Diagrama de Classes]();
 * Configurar o Banco de Dados.
 
-### DevOps
+### DevOps (Time EPS)
 
 O(A) DevOps será responśavel por:
 
