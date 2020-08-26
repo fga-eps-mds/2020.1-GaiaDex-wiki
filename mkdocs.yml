@@ -31,8 +31,8 @@ pages:
   - Inicio: index.md
 nav:
   - Inicio: index.md
-  - Artefatos:
-    - RoadMap: roadmap/roadmap.md
+  - RoadMap: roadmap/roadmap.md
+  - Política de Repositório: repository_politics/repository_politics.md
 
 # Style
 extra_css:
