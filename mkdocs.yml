@@ -27,9 +27,8 @@ theme:
     accent: 'purple'
 
 # Content Menu
-pages:
-  - Início: index.md
 nav:
+  - Home: index.md
   - Artefatos:
     - RoadMap: roadmap/roadmap.md
 

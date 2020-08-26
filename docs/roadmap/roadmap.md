@@ -4,7 +4,7 @@ Este documento tem por finalidade armazenar o planejamento do RoadMap seguido no
 
 ## RoadMap do Produto
 
-![ProductRoadMap](./ProductRoadmap.png)
+![ProductRoadMap](./roadmap.png)
 
 ## RoadMap de papéis
 
