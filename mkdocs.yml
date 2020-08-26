@@ -30,6 +30,7 @@ theme:
 pages:
   - Inicio: index.md
 nav:
+  - Inicio: index.md
   - Artefatos:
     - RoadMap: roadmap/roadmap.md
 
