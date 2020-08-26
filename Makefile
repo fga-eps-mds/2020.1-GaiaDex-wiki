@@ -10,7 +10,7 @@ help:
 		@echo "pull        Pull the latest Mkdocs image"
 		@echo "build       Build the documentation site"
 		@echo "run      Start the live docs run"
-#		@echo "deploy      Deploy to GitHub Pages"
+		# @echo "deploy      Deploy to GitHub Pages"
 		@echo ""
 
 all: run
@@ -23,6 +23,9 @@ pull:
 
 build:
 	sudo docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+
+deploy:
+	sudo docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy --ignore-version
 
 #deploy: build
 #	sudo docker run --rm -it -v ~/.ssh:/root/.ssh -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
