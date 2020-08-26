@@ -33,6 +33,7 @@ nav:
   - Inicio: index.md
   - Artefatos:
     - RoadMap: roadmap/roadmap.md
+  - Documento de Visão: vision_document/vision_document.md
 
 # Style
 extra_css:
