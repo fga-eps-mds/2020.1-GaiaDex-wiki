@@ -4,17 +4,18 @@
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 26/08/2020 | 1.0 | Criação e Formatação do Documento  | Arthur Sena |
-| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4 e 1,5  | Victor Samuel e Arthur Sena|
+| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4 e 1.5  | Victor Samuel e Arthur Sena|
+| 26/08/2020 | 1.0 | Adição tópico 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena|
 
 
 ## Sumário
 [1. Introdução](#1-introdução)
 
-* [1.1 Objetivos](#11-objetivos)
+* [1.1 Objetivo](#11-objetivo)
 * [1.2 Escopo](#12-escopo)
-* [1.3 Referências](#12-referências)
-* [1.4 Definições, Acrônimos e Abreviações](#12-definições-acrônimos-e-abreviações)
-* [1.5 Visão Geral](#12-visão-geral)
+* [1.3 Referências](#13-referências)
+* [1.4 Definições, Acrônimos e Abreviações](#14-definições-acrônimos-e-abreviações)
+* [1.5 Visão Geral](#15-visão-geral)
 
 
 [2. Descrição do Usuário](#2-descrição-do-usuário)
@@ -28,14 +29,9 @@
 * [3.1 Equipe de Gerência](#31-equipe-de-gerência)
 * [3.2 Equipe de Desenvolvimento](#32-equipe-de-desenvolvimento)
 
-[4. Visão Geral do Produto](#4-visão-geral-do-produto)
-
-* [4.1 Perspectiva do Produto](#41-perspectiva-do-produto)
-* [4.2 Resumo das Capacidades](#42-declaração-de-posição-do-produto)
+[4. Perspectiva do Produto](#4-perspectiva-do-produto)
 
 [5. Recursos do Produto](#5-recursos-do-produto)
-
-[6. Referências](#6-referências)
 
 ## **1. Introdução**
 
@@ -71,16 +67,17 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 
 | Tipo | Descrição | Restrição de Acesso |
 | :--- | :--- | :--- |
-| Novatos | xxxxx | xxxxx |
-| Cadastrados | xxxxx | xxxxx |
+| Novatos | Ainda não se registrou, apenas pesquisa sobre plantas que encontra. | Não pode comentar no fórum, apenas visualiza posts. |
+| Cadastrados | Sobem de nível conforme interagem com a comunidade e cuidam de suas plantas. | Podem registrar cuidados com plantas as quais já conhecem. |
 
 ### 2.2 Principais Necessidades do Usuário
 
 | Necessidade | Prioridade | Interesses | Solução Atual | Solução Proposta |
 | :--- | :--- | :--- | :--- | :--- |
-| xxxxx | xxxxx | xxxxx | xxxxx | xxxxx |
+| Descobrir como cuidar de uma planta. | Alta | Manter planta saudável. | Pesquisa generalizada em sites de busca. | Aplicação onde possa identificar espécie e receber informação de usuários que já previamente registrados. |
 
 ### 2.3 Ambiente do Usuário
+O aplicativo será desenvolvido para aumentar a praticidade no cuidado com plantas e também a dinamicidade já que a proposta é a gamificação. A proposta é que esteja disponível tanto para Android quanto para iOS, necessitando de acesso a internet.
 
 ## 3. Envolvidos
 
@@ -97,11 +94,8 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 [<img src="https://avatars1.githubusercontent.com/u/42779015?s=460&u=23417272f4f68c9b439c151af03799fdd16021b9&v=4" width=115 > <br> <sub> Marcos Tavares </sub>](https://github.com/marcosgtavares) | [<img src="https://avatars2.githubusercontent.com/u/40834597?s=460&u=f4f3b8839567fb6967b08b548cd6d1a28865e374&v=4" width=115 > <br> <sub> Marcos Souza </sub>](https://github.com/marcosgtavares) |
 | :---: | :---: | 
 
-## 4. Visão Geral do Produto
-
-### 4.1 Perspectiva do Produto
-
-### 4.1 Resumos das Capacidades
+## 4. Perspectiva do Produto
+O esperado do produto é que com a facilidade de encontro de informações específicas sobre determinadas plantas sejam aumentados ambos, tanto o número de pessoas que plantam quanto a interação da população que partilha deste hobbie. Também tentando manter a dinâmica do plantio trazendo a gamificação do mesmo.
 
 ## 5. Recursos do Produto
 
