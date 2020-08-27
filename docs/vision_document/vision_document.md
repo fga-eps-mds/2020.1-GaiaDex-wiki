@@ -3,14 +3,19 @@
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
-| xx/xx | x | xxxxx  | xxxx |
+| 26/08/2020 | 1.0 | Criação e Formatação do Documento  | Arthur Sena |
+| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4 e 1,5  | Victor Samuel e Arthur Sena|
 
 
 ## Sumário
 [1. Introdução](#1-introdução)
 
 * [1.1 Objetivos](#11-objetivos)
-* [1.2 Visão Geral](#12-visão-geral-da-solução)
+* [1.2 Escopo](#12-escopo)
+* [1.3 Referências](#12-referências)
+* [1.4 Definições, Acrônimos e Abreviações](#12-definições-acrônimos-e-abreviações)
+* [1.5 Visão Geral](#12-visão-geral)
+
 
 [2. Descrição do Usuário](#2-descrição-do-usuário)
 
@@ -32,25 +37,42 @@
 
 [6. Referências](#6-referências)
 
-## 1. Introdução
-O propósito deste documento é descrever o escopo do projeto.
+## **1. Introdução**
 
-### 1.1 Objetivos
-Nosso objetivo neste projeto é facilitar a experiência no cuidado com plantas. 
+### 1.1. Objetivo
+Este documento tem como propósito principal, apresentar uma visão geral sobre o desenvolvimento mobile do nome_do_aplicativo, sendo organizado em tópicos que abordam desde o seu contexto de aplicação à suas funcionalidades e público alvo.
 
-### 1.2 Visão Geral da Solução
-A aplicação tem como principal caracteristica o reconhecimento de imagem de plantas
- em geral, onde o usuário será, a partir de uma foto pelo celular, encaminhado para
- uma sessão onde irá poder ver registros de outros na comunidade de como cuidar daquela
- determinada planta.
+### 1.2. Escopo
+Este projeto, tem como principal objetivo ser um auxiliador ao usuário para a identificação automática de plantas ao seu redor, além de, registrar momentos e compartilha-los com a comunidade. Neste contexto, os resultados da identificação de determinada planta, permitem encontrar o seu nome botânico, sua origem, sua classificação e os respectivos cuidados que a mesma necessita para crescer de forma saudável e ter sua vida prolongada.  
 
-## 2. Descrição do Usuário
+### 1.3. Referências
+1. Laços de Alegria. MAKAHA, Rafael; SCHADT, Renan; ALMEIDA, Juliana. Documento de Visão. Disponível em: [Documento de Visão - Laços de Alegria](https://github.com/fga-eps-mds/2018.1-Lacos-da-Alegria/blob/develop/docs/vision_document.md). Acesso em: agosto/2020.
+2. Dashboard Ágil. ALVES, Ailamar; AMARAL, Matheus; SANTOS, Damarcones; VICTOR, João; Kalebe. Disponível em: [Documento de Visão - Dashboard Ágil](https://github.com/fga-eps-mds/2019.2-DashboardAgil-Wiki/blob/master/docs/produto/doc_visao.md). Acesso em: agosto/2020.
+3. IBM Knowledge Center - Documento de Visão: A estrutura de tópicos do documento de visão. Disponível em: [IBM Knowledge Center - Documento de Visão](https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html). Acesso em: agosto/2020.
+
+### 1.4. Definições, Acrônimos e Abreviações
+* APP - Aplicativo
+* MDS - Métodos de Desenvolvimento de Software
+
+### 1.5. Visão Geral
+
+O propósito da aplicação mobile a ser desenvolvida é de ser um gerenciador de identificação de plantas automatizado. Na qual ao usuário realizar uma fotografia de uma determinada espécie, o aplicativo deve fornecer todo conteúdo necessário a cerca da planta retratada.
+
+Além das funcionalidades já citadas, o app irá permitir o cadastro/login de usuários, notificando-os quando necessário, promovendo o gerenciamento das plantas catalogadas.
+
+| O Problema | Cujo Impacto é | Uma boa solução seria |
+| :--- | :--- | :--- |
+| Dificuldade na identificação de plantas | Cuidados ineficientes, resultando em vida abreviada | Um aplicativo de identificação de espécies e fornecedor de informações úteis |
+
+
+## **2. Descrição do Usuário**
 
 ### 2.1 Tipos de Usuário
 
 | Tipo | Descrição | Restrição de Acesso |
 | :--- | :--- | :--- |
-| xxxxx | xxxxx | xxxxx |
+| Novatos | xxxxx | xxxxx |
+| Cadastrados | xxxxx | xxxxx |
 
 ### 2.2 Principais Necessidades do Usuário
 
@@ -83,4 +105,3 @@ A aplicação tem como principal caracteristica o reconhecimento de imagem de pl
 
 ## 5. Recursos do Produto
 
-## 6. Referências
