@@ -4,8 +4,9 @@
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 26/08/2020 | 1.0 | Criação e Formatação do Documento  | Arthur Sena |
-| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4 e 1.5  | Victor Samuel e Arthur Sena|
+| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4  | Victor Samuel e Arthur Sena|
 | 26/08/2020 | 1.0 | Adição tópico 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena|
+| 28/08/2020 | 1.0 | Desenvolvimento Tópico 5 | Victor Samuel e Arthur Sena|
 
 
 ## Sumário
@@ -97,6 +98,25 @@ O aplicativo será desenvolvido para aumentar a praticidade no cuidado com plant
 O esperado do produto é que com a facilidade de encontro de informações específicas sobre determinadas plantas sejam aumentados ambos, tanto o número de pessoas que plantam quanto a interação da população que partilha deste hobbie. Também tentando manter a dinâmica do plantio trazendo a gamificação do mesmo.
 
 ## **5. Recursos do Produto**
+
+O aplicativo conterá, na atual versão do planejamento as seguintes funcionalidades:
+* Cadastrar Usuário;
+* Login/Logout;
+* Pesquisa por uma planta:
+    - Receber informações sobre esta espécie;
+    - Abrir tópico relacionado à espécie;
+    - Comentário em tópicos já abertos;
+    - Adicionar planta aos favoritos;
+* Dashboard com plantas já favoritadas;
+* Escaneio de planta:
+    - Adicionar planta à sua coleção (também podendo ser feito manualmente, caso scan não funcione);
+    - Receber informações e tópicos sobre planta scaneada.
+* Visualização de Feed:
+    - Trending topics dos seguidos;
+    - Atividade dos amigos;
+* Gamificação:
+    - Usuário possui level e xp;
+    - Usuário libera avatar por nível.
 
 ## **6. Referências**
 1. Laços de Alegria. MAKAHA, Rafael; SCHADT, Renan; ALMEIDA, Juliana. Documento de Visão. Disponível em: [Documento de Visão - Laços de Alegria](https://github.com/fga-eps-mds/2018.1-Lacos-da-Alegria/blob/develop/docs/vision_document.md). Acesso em: agosto/2020.
