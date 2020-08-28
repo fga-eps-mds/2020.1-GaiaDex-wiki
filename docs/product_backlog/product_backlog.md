@@ -1,37 +1,64 @@
-## Backlog de Produto
+# 1. Épicos
 
-| Eu como | Quero |
-|---------|-------|
-| Usuário | Scannear planta para adicionar à minha coleção e à coleção global |
-| Usuário | Visualizar minha coleção |
-| Usuário | Cadastrar minha conta no aplicativo |
-| Usuário | Fazer login no aplicativo |
-| Usuário | Fazer logout no aplicativo |
-| Usuário | Alterar os dados cadastrados na minha conta |
-| Usuário | Deletar minha conta |
-| Usuário | Entrar em uma comunidade |
-| Usuário | Sair de uma comunidade |
-| Usuário | Remover uma planta da minha coleção de favoritos |
-| Usuário | Criar tópico em um fórum de planta |
-| Usuário | Editar tópico criado por mim |
-| Usuário | Deletar o tópico criado por mim |
-| Usuário | Criar comentário em um tópico |
-| Usuário | Remover um comentário que fiz |
-| Usuário | Upvote e downvote em uma comentário |
-| Planta | Informar ao usuario que me coletou onde fui encontrada no mapa |
-| Planta | Informar a primeira pessoa no mundo que me coletou |
-| Planta | Informar dicas de como me cultivar |
-| Planta | Informar meu status de extinçao |
-| Planta | Informar dicas de receitas, caso seja cabível |
-| Planta | Informar meu nome científico |
-| Planta | Informar meu nome comum |
-| Planta | Mostrar uma imagem de “perfil” |
-| Dono de comunidade | Criar comunidade |
-| Dono de comunidade | Deletar comunidade |
-| Dono de comunidade | Alterar configurações da comunidade |
-| Dono de comunidade | Enviar convite para usuários ingressarem na comunidade |
-| Dono de comunidade | Expulsar membro da comunidade |
-| Desenvolvedor | Inserir uma nova aba no menu |
-| Mantenedor de fórum | Excluir tópicos |
-| Mantenedor de fórum | Excluir comentário
-| Mantenedor de fórum | Banir usuário do fórum |
+| ID   | Épico          | Descrição                                                                                                                                    |
+| ---- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP01 | Coleção        | Inventário, estilo Pokedex, indicando quais plantas o usuário já coletou                                                                     |
+| EP02 | Perfil         | Informações relativas ao usuário                                                                                                             |
+| EP03 | Card de Planta | Informações relativas à planta                                                                                                               |
+| EP05 | Fórum          | Cada planta terá um fórum unico (similar à um subreddit)                                                                                     |
+| EP04 | Tópico         | Threads que um usuário pode abrir dentro do fórum (único) de cada planta, onde haverá interações (comentários, respostas etc) entre usuários |
+| EP05 | Favoritos      | Coleção de plantas favoritadas                                                                                                               |
+| EP06 | Feed           | Feed de notícia onde o usuário visualizará os trending topics das plantas favoritadas, além de visualizar posts de suas conexões             |
+| EP07 | Comunidade     | Grupos criados e gerenciados por usuários                                                                                                    |
+| EP08 | Histórico/Log  | Listar todas as atividades que um usuário fez (comentarios em posts, scans etc)                                                              |
+| EP09 | Minha Planta   | Planta que fora adicionada à coleção do usuário e está sendo cultivada pelo mesmo                                                            |
+
+# 2. User Stories
+
+|  ID  |    Épico     |       eu como       |                                         quero                                          |                                        para                                         | Prioridade |
+| :--: | :----------: | :-----------------: | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------: |
+| US01 |   Coleção    |       Usuário       |                                    Scannear planta                                     |                              adicionar à minha coleção                              |    Must    |
+| US02 |   Coleção    |       Usuário       |                                Visualizar minha coleção                                |                                          -                                          |    Must    |
+| US03 | Minha Planta |       Usuário       |                            Adicionar apelido à minha planta                            | que eu possa distinguir uma planta de outra (caso tenha multiplas da mesma especie) |   Could    |
+| US04 | Minha Planta |       Usuário       |                   Visualizar a data de quando a planta foi coletada                    |                                          -                                          |   Could    |
+| US05 | Minha Planta |       Usuário       |              Visualizar, no mapa, onde a planta selecionada fora coletada              |                                          -                                          |   Could    |
+| US06 | Minha Planta |       Usuário       |                          Definir configurações de notificação                          |                      que eu me lembre de cultivar minha planta                      |   Could    |
+| US07 |    Perfil    |       Usuário       |                          Cadastrar minha conta no aplicativo                           |                                          -                                          |    Must    |
+| US08 |    Perfil    |       Usuário       |                               Fazer login no aplicativo                                |                                          -                                          |    Must    |
+| US09 |    Perfil    |       Usuário       |                               Fazer logout no aplicativo                               |                                          -                                          |    Must    |
+| US10 |    Perfil    |       Usuário       |                      Alterar os dados cadastrados na minha conta                       |                                          -                                          |    Must    |
+| US11 |    Perfil    |       Usuário       |                                  Deletar minha conta                                   |                                          -                                          |    Must    |
+| US12 |  Comunidade  |       Usuário       |                                Entrar em uma comunidade                                |                                          -                                          |   Could    |
+| US13 |  Comunidade  |       Usuário       |                                 Sair de uma comunidade                                 |                                          -                                          |   Could    |
+| US14 |  Comunidade  |       Usuário       |                                    Criar comunidade                                    |                                          -                                          |   Could    |
+| US15 |  Comunidade  | Dono de Comunidade  |                                   Deletar comunidade                                   |                                          -                                          |   Could    |
+| US16 |  Comunidade  | Dono de Comunidade  |                          Alterar configurações da comunidade                           |                                          -                                          |   Could    |
+| US17 |  Comunidade  | Dono de Comunidade  |                 Enviar convite para usuários ingressarem na comunidade                 |                                          -                                          |   Could    |
+| US18 |  Comunidade  | Dono de Comunidade  |                             Expulsar membro da comunidade                              |                                          -                                          |   Could    |
+| US19 |    Tópico    |       Usuário       |                           Criar tópico em um fórum de planta                           |                                          -                                          |    Must    |
+| US20 |    Tópico    |       Usuário       |                              Editar tópico criado por mim                              |                                          -                                          |    Must    |
+| US21 |    Tópico    |       Usuário       |                            Deletar o tópico criado por mim                             |                                          -                                          |    Must    |
+| US22 |    Tópico    |       Usuário       |                             Criar comentário em um tópico                              |                                          -                                          |    Must    |
+| US23 |    Tópico    |       Usuário       |                             Remover um comentário que fiz                              |                                          -                                          |    Must    |
+| US24 |    Tópico    |       Usuário       |                          Upvote e downvote em uma comentário                           |                                          -                                          |    Must    |
+| US25 |    Planta    |       Usuário       |        Visualizar, no card de planta, a primeira pessoa no mundo que a coletou         |                                          -                                          |   Could    |
+| US26 |    Planta    |       Usuário       |         Visualizar, no card de planta, quantas vezes a mesma ja fora coletada          |                                          -                                          |   Could    |
+| US27 |    Planta    |       Usuário       |                Visualizar, no card de planta, dicas de como cultiva-la                 |                                          -                                          |    Must    |
+| US28 |    Planta    |       Usuário       |              Visualizar, no card de planta, o status de extinçao da mesma              |                                          -                                          |    Want    |
+| US29 |    Planta    |       Usuário       | Visualizar, no card de planta, potenciais usos culinários da mesma (caso seja cabível) |                                          -                                          |   Could    |
+| US30 |    Planta    |       Usuário       |               Visualizar, no card de planta, o nome científico da mesma                |                                          -                                          |    Must    |
+| US31 |    Planta    |       Usuário       |                  Visualizar, no card de planta, o nome comum da mesma                  |                                          -                                          |    Must    |
+| US32 |    Planta    |       Usuário       |             Visualizar, no card de planta, uma imagem de “perfil” da mesma             |                                          -                                          |    Must    |
+| US33 |    Fórum     | Mantenedor de fórum |                                    Excluir tópicos                                     |                                          -                                          |    Must    |
+| US34 |    Fórum     | Mantenedor de fórum |                                   Excluir comentário                                   |                                          -                                          |    Must    |
+| US35 |    Fórum     | Mantenedor de fórum |                                 Banir usuário do fórum                                 |                                          -                                          |    Must    |
+| US36 |  Favoritos   |       Usuário       |                          Adicionar planta aos meus Favoritos                           |                                          -                                          |   Could    |
+| US37 |  Favoritos   |       Usuário       |                    Remover uma planta da minha coleção de favoritos                    |                                          -                                          |   Could    |
+| US38 |  Favoritos   |       Usuário       |                         Visualizar minha coleção de favoritos                          |                                          -                                          |   Could    |
+| US39 |     Feed     |       Usuário       |                                Publicar fotos & textos                                 |                                          -                                          |    Want    |
+| US40 |     Feed     |       Usuário       |                          Visualizar posts de minhas conexões                           |                                          -                                          |    Want    |
+| US41 |     Feed     |       Usuário       |              Visualizar trending topics sobre minhas plantas favoritadas               |                                          -                                          |    Want    |
+| US42 |     Feed     |       Usuário       |                 Curtir/descurtir posts que aparecem na minha timeline                  |                                          -                                          |    Want    |
+| US43 |     Feed     |       Usuário       |                    Salvar um post na minha coleção de Posts Salvos                     |                                          -                                          |    Want    |
+| US44 |     Feed     |       Usuário       |                         Comentar em um post na minha timeline                          |                                          -                                          |    Want    |
+| US45 |     Feed     |       Usuário       |                      Remover um comentario que fiz em algum post                       |                                          -                                          |    Want    |
