@@ -4,10 +4,11 @@
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 26/08/2020 | 1.0 | Criação e Formatação do Documento  | Arthur Sena |
-| 26/08/2020 | 1.0 | Adição tópico 1, 1.1, 1.2, 1.3, 1.4  | Victor Samuel e Arthur Sena|
-| 26/08/2020 | 1.0 | Adição tópico 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena|
-| 28/08/2020 | 1.0 | Desenvolvimento Tópico 5 | Victor Samuel e Arthur Sena|
-
+| 26/08/2020 | 1.0 | Adição tópicos 1, 1.1, 1.2, 1.3, 1.4  | Victor Samuel e Arthur Sena|
+| 27/08/2020 | 1.0 | Adição tópicos 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena|
+| 28/08/2020 | 1.0 | Revisão tópicos 1.2 e 1.4 | Victor Samuel e Arthur Sena|
+| 28/08/2020 | 1.0 | Desenvolvimento tópico 5 | Victor Samuel e Arthur Sena|
+| 28/08/2020 | 1.0 | Revisão tópicos 2.1 e 2.2 | Victor Samuel e Arthur Sena|
 
 ## Sumário
 [1. Introdução](#1-introdução)
@@ -67,14 +68,16 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 
 | Tipo | Descrição | Restrição de Acesso |
 | :--- | :--- | :--- |
-| Novatos | Ainda não se registrou. | Não pode gerenciar plantas nos favoritos, criar tópicos nos fóruns e comentar publicações, podendo somente, realizar pesquisas sobre determinada espécie encontrada. |
-| Cadastrados | Já está registrado. | Podem registrar cuidados com plantas as quais já conhecem. |
+| Novato | Ainda não se registrou. | Realizar pesquisas por espécies e visualizar tópicos. |
+| Cadastrado | Já está registrado. | Pode gerenciar plantas nos favoritos, criar tópicos nos fóruns, comentar publicações e subir de nível. |
 
 ### 2.2 Principais Necessidades do Usuário
 
 | Necessidade | Prioridade | Interesses | Solução Atual | Solução Proposta |
 | :--- | :--- | :--- | :--- | :--- |
+| Identificar determinada espécie de planta. | Alta | Encontrar informações sobre espécie. | Pesquisa com profissionais. | Scanner para identificação de espécies. |
 | Descobrir como cuidar de uma planta. | Alta | Manter planta saudável. | Pesquisa generalizada em sites de busca. | Aplicação onde possa identificar espécie e receber informação de usuários que já previamente registrados. |
+
 
 ### 2.3 Ambiente do Usuário
 O aplicativo será desenvolvido para aumentar a praticidade no cuidado com plantas e também a dinamicidade já que a proposta é a gamificação. A proposta é que esteja disponível tanto para Android quanto para iOS, necessitando de acesso a internet.
