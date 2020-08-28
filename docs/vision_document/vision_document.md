@@ -13,9 +13,8 @@
 
 * [1.1 Objetivo](#11-objetivo)
 * [1.2 Escopo](#12-escopo)
-* [1.3 Referências](#13-referências)
-* [1.4 Definições, Acrônimos e Abreviações](#14-definições-acrônimos-e-abreviações)
-* [1.5 Visão Geral](#15-visão-geral)
+* [1.3 Definições, Acrônimos e Abreviações](#13-definições-acrônimos-e-abreviações)
+* [1.4 Visão Geral](#14-visão-geral)
 
 
 [2. Descrição do Usuário](#2-descrição-do-usuário)
@@ -33,32 +32,32 @@
 
 [5. Recursos do Produto](#5-recursos-do-produto)
 
+[6. Referências](#6-referências)
+
+
 ## **1. Introdução**
 
 ### 1.1. Objetivo
 Este documento tem como propósito principal, apresentar uma visão geral sobre o desenvolvimento mobile do nome_do_aplicativo, sendo organizado em tópicos que abordam desde o seu contexto de aplicação à suas funcionalidades e público alvo.
 
 ### 1.2. Escopo
-Este projeto, tem como principal objetivo ser um auxiliador ao usuário para a identificação automática de plantas ao seu redor, além de, registrar momentos e compartilha-los com a comunidade. Neste contexto, os resultados da identificação de determinada planta, permitem encontrar o seu nome botânico, sua origem, sua classificação e os respectivos cuidados que a mesma necessita para crescer de forma saudável e ter sua vida prolongada.  
+Este projeto, tem como principal objetivo ser um auxiliador ao usuário para a identificação automática de plantas ao seu redor, além de, registrar momentos e compartilha-los com a comunidade. Neste contexto, os resultados da identificação de determinada planta, permitem encontrar o seu nome botânico, sua origem, sua classificação e os respectivos cuidados que a mesma necessita para crescer de forma saudável e ter sua vida prolongada. Além disso, o usuário poderá realizar a pesquisa de determinada espécie, abrir tópicos relacionados a mesma, fazer comentários e se for atrativo, adicioná-la aos seus grupos de plantas favoritos. 
 
-### 1.3. Referências
-1. Laços de Alegria. MAKAHA, Rafael; SCHADT, Renan; ALMEIDA, Juliana. Documento de Visão. Disponível em: [Documento de Visão - Laços de Alegria](https://github.com/fga-eps-mds/2018.1-Lacos-da-Alegria/blob/develop/docs/vision_document.md). Acesso em: agosto/2020.
-2. Dashboard Ágil. ALVES, Ailamar; AMARAL, Matheus; SANTOS, Damarcones; VICTOR, João; Kalebe. Disponível em: [Documento de Visão - Dashboard Ágil](https://github.com/fga-eps-mds/2019.2-DashboardAgil-Wiki/blob/master/docs/produto/doc_visao.md). Acesso em: agosto/2020.
-3. IBM Knowledge Center - Documento de Visão: A estrutura de tópicos do documento de visão. Disponível em: [IBM Knowledge Center - Documento de Visão](https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html). Acesso em: agosto/2020.
-
-### 1.4. Definições, Acrônimos e Abreviações
+### 1.3. Definições, Acrônimos e Abreviações
 * APP - Aplicativo
 * MDS - Métodos de Desenvolvimento de Software
 
-### 1.5. Visão Geral
+### 1.4. Visão Geral
 
-O propósito da aplicação mobile a ser desenvolvida é de ser um gerenciador de identificação de plantas automatizado. Na qual ao usuário realizar uma fotografia de uma determinada espécie, o aplicativo deve fornecer todo conteúdo necessário a cerca da planta retratada.
+O propósito da aplicação mobile a ser desenvolvida é de ser um gerenciador de identificação de plantas automatizado e um auxiliador na busca de informações para determinada espécie. Na qual ao usuário realizar uma fotografia de uma determinada espécie ou procurá-la no menu de busca, o aplicativo deve fornecer todo conteúdo necessário a cerca da planta retratada. Aumentando o interesse e o conhecimento do usuário no cultivo e preservação de plantas domésticas e silvestres.
 
-Além das funcionalidades já citadas, o app irá permitir o cadastro/login de usuários, notificando-os quando necessário, promovendo o gerenciamento das plantas catalogadas.
+Além das funcionalidades já citadas, o app irá permitir o cadastro/login de usuários, notificando-os quando necessário e promovendo o gerenciamento das plantas catalogadas.
 
 | O Problema | Cujo Impacto é | Uma boa solução seria |
 | :--- | :--- | :--- |
-| Dificuldade na identificação de plantas | Cuidados ineficientes, resultando em vida abreviada | Um aplicativo de identificação de espécies e fornecedor de informações úteis |
+| Dificuldade na identificação de espécies. | Estudos ineficientes e falta de informações. | Mecanismos de identificação automatizada. |
+| Falta de Informações sobre determinada espécie. | Cuidados ineficazes que resultam em uma vida abreviada. | Fórum de tópicos, comentários de outros usuários e um mecanismo de busca eficiente. |
+| Falta de organização. | Esquecimento de cuidados como regação de plantas, banhos de sol e aplicação de pesticidas. | Cadastro de informações que resultam em lembretes específicos para cada horário ou data. |
 
 
 ## **2. Descrição do Usuário**
@@ -67,8 +66,8 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 
 | Tipo | Descrição | Restrição de Acesso |
 | :--- | :--- | :--- |
-| Novatos | Ainda não se registrou, apenas pesquisa sobre plantas que encontra. | Não pode comentar no fórum, apenas visualiza posts. |
-| Cadastrados | Sobem de nível conforme interagem com a comunidade e cuidam de suas plantas. | Podem registrar cuidados com plantas as quais já conhecem. |
+| Novatos | Ainda não se registrou. | Não pode gerenciar plantas nos favoritos, criar tópicos nos fóruns e comentar publicações, podendo somente, realizar pesquisas sobre determinada espécie encontrada. |
+| Cadastrados | Já está registrado. | Podem registrar cuidados com plantas as quais já conhecem. |
 
 ### 2.2 Principais Necessidades do Usuário
 
@@ -79,7 +78,7 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 ### 2.3 Ambiente do Usuário
 O aplicativo será desenvolvido para aumentar a praticidade no cuidado com plantas e também a dinamicidade já que a proposta é a gamificação. A proposta é que esteja disponível tanto para Android quanto para iOS, necessitando de acesso a internet.
 
-## 3. Envolvidos
+## **3. Envolvidos**
 
 ### 3.1 Equipe de Gerência
 
@@ -94,8 +93,13 @@ O aplicativo será desenvolvido para aumentar a praticidade no cuidado com plant
 [<img src="https://avatars1.githubusercontent.com/u/42779015?s=460&u=23417272f4f68c9b439c151af03799fdd16021b9&v=4" width=115 > <br> <sub> Marcos Tavares </sub>](https://github.com/marcosgtavares) | [<img src="https://avatars2.githubusercontent.com/u/40834597?s=460&u=f4f3b8839567fb6967b08b548cd6d1a28865e374&v=4" width=115 > <br> <sub> Marcos Souza </sub>](https://github.com/marcosgtavares) | [<img src="https://avatars0.githubusercontent.com/u/49329964?s=460&u=7cafcbed0315ec5d97550d00a01c9c1ac5abe1b3&v=4" width=115 > <br> <sub> Ruan Moura </sub>](https://github.com/RuanMoura) |
 | :---: | :---: | :---: | 
 
-## 4. Perspectiva do Produto
+## **4. Perspectiva do Produto**
 O esperado do produto é que com a facilidade de encontro de informações específicas sobre determinadas plantas sejam aumentados ambos, tanto o número de pessoas que plantam quanto a interação da população que partilha deste hobbie. Também tentando manter a dinâmica do plantio trazendo a gamificação do mesmo.
 
-## 5. Recursos do Produto
+## **5. Recursos do Produto**
+
+## **6. Referências**
+1. Laços de Alegria. MAKAHA, Rafael; SCHADT, Renan; ALMEIDA, Juliana. Documento de Visão. Disponível em: [Documento de Visão - Laços de Alegria](https://github.com/fga-eps-mds/2018.1-Lacos-da-Alegria/blob/develop/docs/vision_document.md). Acesso em: agosto/2020.
+2. Dashboard Ágil. ALVES, Ailamar; AMARAL, Matheus; SANTOS, Damarcones; VICTOR, João; Kalebe. Disponível em: [Documento de Visão - Dashboard Ágil](https://github.com/fga-eps-mds/2019.2-DashboardAgil-Wiki/blob/master/docs/produto/doc_visao.md). Acesso em: agosto/2020.
+3. IBM Knowledge Center - Documento de Visão: A estrutura de tópicos do documento de visão. Disponível em: [IBM Knowledge Center - Documento de Visão](https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html). Acesso em: agosto/2020.
 
