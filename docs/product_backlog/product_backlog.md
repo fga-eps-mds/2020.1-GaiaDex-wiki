@@ -62,3 +62,4 @@
 | US43 |     Feed     |       Usuário       |                    Salvar um post na minha coleção de Posts Salvos                     |                                          -                                          |    Want    |
 | US44 |     Feed     |       Usuário       |                         Comentar em um post na minha timeline                          |                                          -                                          |    Want    |
 | US45 |     Feed     |       Usuário       |                      Remover um comentario que fiz em algum post                       |                                          -                                          |    Want    |
+| US46 |     -     |       Desenvolvedor       |                      Um ambiente estável                       |                                          desenvolver meu código                                               |    Must    |
