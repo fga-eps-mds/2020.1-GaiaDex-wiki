@@ -1,3 +1,9 @@
+# Histórico de Versões
+
+|Data           |Versão     |Descrição          |Autor                   |
+| ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
+|27/08/2020|0.1| Adição tópicos 1 e 2 |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Guilherme de Lyra](http://github.com/guilhermedlyra) |
+
 ## RoadMap de produto
 
 ### Sprint 0
@@ -6,26 +12,24 @@
 * Definir tecnologias
 * Definir produto
 * Elaborar Roadmap
-* Definir croograma de sprint
+* Definir cronograma de sprint
 * Backlog do produto
 * Quadro de conhecimentos
 * Documento de visão
 * Template de issues
 * Template de Pull Request
 * Política de commit/branches/pull request
+* Treinamento Git
+* Avaliar API PlantNet
   
 ### Sprint 1
 
-* Avaliar API PlantNet
 * Elaborar termo de abertura de projeto
-* Definir critérios de aceitação
+* Definir critérios de aceitação por issue
 * Burndown de risco
-* EVM
-* Protótipo
-* Treinamento Git
-* Treinamento Docker
-* Treinamento Flutter
-* Treinamento Django
+* Iniciar Protótipo (Marvel)
+* Treinamento Node
+* Treinamento React Native
 * Treinamento de testes
 * Documento de arquitetura
 * Configurar ambiente Docker
@@ -35,6 +39,7 @@
 ### Sprint 2
 
 * Deploy contínuo
+* EVM
 * Evolução do Protótipo
 * crud usuário
 * crud planta *informação
