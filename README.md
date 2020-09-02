@@ -7,7 +7,7 @@ Repositório responsável por armazenar a documentação referente ao projeto da
 ## Instalação
 
 1. Instale o Docker [neste link](https://docs.docker.com/engine/install/)
-2. Na raíz do projeto, instale a imagem Docker do mkdocs-material: `make pull`
+2. Na raíz do projeto, instale a imagem Docker do mkdocs-material: `make pull` (só precisa fazer uma vez)
 3. Rode localmente: `make run`
 4. Acesse a url local: http://0.0.0.0:8000/
 
