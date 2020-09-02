@@ -30,7 +30,7 @@
 * Definido horário de Review e Planing de sprints para todas as quintas as 18h. Iniciando-se a partir da sprint 2.
 * Aumento da interação entre EPS e MDS.
 
-## 3. Features da _Sprint_ e Pontuação
+## 3. Issues da _Sprint_ e Pontuação
 
 [Issue 21 - Treinamento de Node](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/21) - Votação
 
@@ -75,9 +75,6 @@ Resultado Final - 3
 * Marcos Gabriel - X
 
 Resultado Final - 8
-
-
-
 
 [Issue 20 - Iniciar Protótipo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/20) - Votação
 
@@ -124,7 +121,6 @@ Resultado Final - 1
 
 Resultado Final - 1
 
-
 [Issue 24 - Architecture Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/24) - Votação
 
 * João Vítor - 3
@@ -169,7 +165,6 @@ Resultado Final - 2
 * Marcos Gabriel - 5
 
 Resultado Final - 5
-
 
 [Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17) - Votação
 
