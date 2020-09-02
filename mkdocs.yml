@@ -34,6 +34,8 @@ nav:
   - Product Backlog: product_backlog/product_backlog.md
   - RoadMap: roadmap/roadmap.md
   - Política de Repositório: repository_politics/repository_politics.md
+  - Documento de Visão: vision_document/vision_document.md
+
 
 # Style
 extra_css:
