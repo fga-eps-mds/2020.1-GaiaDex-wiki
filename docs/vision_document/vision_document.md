@@ -4,11 +4,12 @@
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 26/08/2020 | 1.0 | Criação e Formatação do Documento  | Arthur Sena |
-| 26/08/2020 | 1.0 | Adição tópicos 1, 1.1, 1.2, 1.3, 1.4  | Victor Samuel e Arthur Sena|
-| 27/08/2020 | 1.0 | Adição tópicos 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena|
-| 28/08/2020 | 1.0 | Revisão tópicos 1.2 e 1.4 | Victor Samuel e Arthur Sena|
-| 28/08/2020 | 1.0 | Desenvolvimento tópico 5 | Victor Samuel e Arthur Sena|
-| 28/08/2020 | 1.0 | Revisão tópicos 2.1 e 2.2 | Victor Samuel e Arthur Sena|
+| 26/08/2020 | 1.0 | Adição tópicos 1, 1.1, 1.2, 1.3, 1.4  | Victor Samuel e Arthur Sena |
+| 27/08/2020 | 1.0 | Adição tópicos 2.1, 2.2, 2.3 e 4  | Victor Samuel e Arthur Sena |
+| 28/08/2020 | 1.0 | Revisão tópicos 1.2 e 1.4 | Victor Samuel e Arthur Sena | 
+| 28/08/2020 | 1.0 | Desenvolvimento tópico 5 | Victor Samuel e Arthur Sena |
+| 28/08/2020 | 1.0 | Revisão tópicos 2.1 e 2.2 | Victor Samuel e Arthur Sena |
+| 02/09/2020 | 1.0 | Revisão tópico 1.4 | Arthur Sena |
 
 ## Sumário
 [1. Introdução](#1-introdução)
@@ -57,9 +58,9 @@ Além das funcionalidades já citadas, o app irá permitir o cadastro/login de u
 
 | O Problema | Cujo Impacto é | Uma boa solução seria |
 | :--- | :--- | :--- |
-| Dificuldade na identificação de espécies. | Estudos ineficientes e falta de informações. | Mecanismos de identificação automatizada. |
+| Dificuldade na identificação de espécies. | Problemas na manutenção/cuidado com espécime | Mecanismos de identificação visual para substituir necessidade de um profissional que saiba informar nome da espécie. |
 | Falta de Informações sobre determinada espécie. | Cuidados ineficazes que resultam em uma vida abreviada. | Fórum de tópicos, comentários de outros usuários e um mecanismo de busca eficiente. |
-| Falta de organização. | Esquecimento de cuidados como regação de plantas, banhos de sol e aplicação de pesticidas. | Cadastro de informações que resultam em lembretes específicos para cada horário ou data. |
+| Falta de organização. | Falta de cuidado com o regar da planta, banhos de sol e aplicação de pesticidas. | Cadastro de informações que resultam em lembretes específicos para cada horário ou data. |
 
 
 ## **2. Descrição do Usuário**
