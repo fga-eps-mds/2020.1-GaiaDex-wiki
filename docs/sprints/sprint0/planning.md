@@ -53,6 +53,6 @@ Não há dívidas técnicas.
 
 [Vision Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/4)
 
-[Roles Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12)
+[Roles Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/32)
 
 [Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12)
