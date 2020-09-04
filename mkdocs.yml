@@ -34,6 +34,12 @@ nav:
   - Product Backlog: product_backlog/product_backlog.md
   - RoadMap: roadmap/roadmap.md
   - Política de Repositório: repository_politics/repository_politics.md
+  - Sprints:
+    - Sprint 0:
+      - Planning: sprints/sprint0/planning.md
+      - Results:  sprints/sprint0/results.md
+    - Sprint 1:
+      - Planning: sprints/sprint1/planning.md
 
 # Style
 extra_css:
