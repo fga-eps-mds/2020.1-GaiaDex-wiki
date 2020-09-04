@@ -6,11 +6,11 @@
 
 **Duração:** Duas semanas
 
-**Pontos Planejados**: 30
+**Pontos Planejados**: 26
 
 **Pontos Adicionados**: 0
 
-**Pontos Totais**: 30
+**Pontos Totais**: 26
 
 -------
 
@@ -41,18 +41,18 @@ Não há dívidas técnicas.
 
 ### 3.2 Novas issues
 
-[Dockerize Repository](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/1)
+[Issue 1 - Dockerize Repository](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/1) - 1
 
-[Create Mkdoc Wiki](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/3)
+[Issue 3 - Create Mkdoc Wiki](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/3) - 5
 
-[Create repository Politics](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/6)
+[Issue 4 - Vision Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/4) - 5
 
-[Product Backlog](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/8)
+[Issue 6 - Create repository Politics](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/6) - 2
 
-[Update Branch politics](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/11)
+[Issue 8 - Product Backlog](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/8) - 5
 
-[Vision Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/4)
+[Issue 11 - Update Branch politics](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/11) - 2
 
-[Roles Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/32)
+[Issue 12 - Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) - 5
 
-[Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12)
+[Issue 32 - Roles Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/32) - 1
