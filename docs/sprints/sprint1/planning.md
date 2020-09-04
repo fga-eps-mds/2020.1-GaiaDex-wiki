@@ -32,6 +32,12 @@
 
 ## 3. Issues da _Sprint_ e Pontuação
 
+### 3.1 Dívidas técnicas
+
+[Issue 4 - Vision Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/4)
+
+### 3.2 Novas issues
+
 [Issue 21 - Treinamento de Node](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/21) - Votação
 
 * João Vítor - 5
