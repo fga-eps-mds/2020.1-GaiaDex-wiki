@@ -31,9 +31,10 @@ pages:
   - Inicio: index.md
 nav:
   - Inicio: index.md
+  - Documento de Visão: vision_document/vision_document.md
+  - Política de Repositório: repository_politics/repository_politics.md
   - Product Backlog: product_backlog/product_backlog.md
   - RoadMap: roadmap/roadmap.md
-  - Política de Repositório: repository_politics/repository_politics.md
   - Sprints:
     - Sprint 0:
       - Planning: sprints/sprint0/planning.md
