@@ -1,20 +1,16 @@
 # Resultados da Sprint 0
-------
-[1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
 
-- [# Resultados da Sprint 0](#h1-idresultados-da-sprint-0-722resultados-da-sprint-0h1)
-- [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
+[1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
   - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
   - [1.2 _Burndown_](#12-burndown)
   - [1.3 Gráfico de _commits_](#13-gráfico-de-commits)
   - [1.4 _Velocity_](#14-velocity)
   - [1.5 Quadro de Horas](#15-quadro-de-horas)
   - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
-  - [1.9 Revisão da _Sprint_](#19-revisão-da-sprint)
-  - [2 Retrospectiva](#2-retrospectiva)
-  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
-
-[2. Análise do _Scrum Master_](#2-análise-do-scrum-master)  
+  - [1.7 Revisão da _Sprint_](#17-revisão-da-sprint)
+  
+[2 Retrospectiva](#2-retrospectiva)
+  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
 
 ------
 
@@ -36,7 +32,7 @@
 
 <br/>
 
-Dos 30 pontos planejados, 20 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 26 pontos planejados, 21 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 
@@ -61,15 +57,13 @@ Ainda não há controle de horas nessa sprint.
 ![](img/quadroConhecimento.jpg)
 
 
-### 1.9 Revisão da _Sprint_
+### 1.7 Revisão da _Sprint_
 
-Nessa _Sprint_ houve dois problemas:
+Nessa _Sprint_ houve um problema:
 
-* O Travis, no backend, não estava funcionando corretamente, pois não conseguia rodas as migrations e isso atrasou a análise dos PRs. Porém o Luis conseguiu arrumar.
-* Dificuldades para gerar o APK que atrasou a história do Rômulo e da Sara, pois eles não conseguiram testar a aplicação no celular. O Luis conseguiu gerar o APK e os ajudou a gerá-lo.
+* Product Roadmap não foi finalizado nessa _Sprint_ como planejado.
 
-
-### 2 Retrospectiva
+## 2 Retrospectiva
 
 | Pontos Positivos | Pontos Negativos |
 | :------------- | :----------: |
