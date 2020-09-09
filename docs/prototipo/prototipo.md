@@ -17,7 +17,7 @@ Na versão 0.3, após outras pesquisas, foi decidido migrar para o [BuilderX](ht
 
 ## 0.2
 
-![img](./../img/prototipo/print4.png)
+![img](./../img/prototipo/print5.png)
 ![img](./../img/prototipo/print3.png)
 
 ## 0.3
