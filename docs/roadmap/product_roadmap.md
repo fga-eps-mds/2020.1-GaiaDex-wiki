@@ -41,29 +41,32 @@
 * Deploy contínuo
 * EVM
 * Evolução do Protótipo
-* crud usuário
-* crud planta *informação
-* crud planta *do usuário
-* crud comunidade
+* US07 - Cadastrar conta no aplicativo
+* US10 - Editar dados da conta
+* US11 - Deletar conta no aplicativo
+* US08 - Login de usuário
+* US09 - Logout de usuário
   
 ### Sprint 3
 
-* seção geral das plantas
-* tópicos sobre as plantas
-* seção de comentários (nos tópicos)
+* US33 - Visualizar a primeira pessoa no mundo que coletou-a
+* US34 - Visualizar quantas vezes a planta ja fora coletada
+* US35 - Visualizar instruções de como cultiva-la
+* US36 - Visualizar o status de extinçao da planta
+* US37 - Visualizar potenciais usos culinários da planta (caso seja cabível)
+* US38 - Visualizar o nome científico da planta
+* US39 - Visualizar o nome comum da planta
+* US40 - Visualizar uma imagem de “perfil” da planta
+* US41 - Visualizar ícone indicando quanta exposição à luz (pouca/média/muita) a planta necessita
+* US42 - Visualizar ícone indicando quantas vezes há de se regar a planta em média semanalmente
+* US43 - Visualizar ícone indicando o tamanho/porte da planta (pequena...grande)
   
 ### Sprint 4
 
-* Menu pesquisa (encontrar plantas)
-* Menu inicial (sugestões/dicas do dia, notícias,etc)
-* menu minhas plantas (onde pode ir atualizando-as etc)
+
 
 ### Sprint 5
 
-* feed do usuário(onde posta e ve o que os amigos postaram)
-* sistema de pontuação/gameficação
-* menu camera (conexao com plantanet)
 
 ### Sprint 6
 
-* sistema de notificações (estilo facebook/twitter)
