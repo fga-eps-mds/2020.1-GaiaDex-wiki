@@ -6,11 +6,11 @@
 
 **Duração:** * 10 dias
 
-**Pontos Planejados**: 40
+**Pontos Planejados**: 45
 
 **Pontos Adicionados**: 0
 
-**Pontos Totais**: 40
+**Pontos Totais**: 45
 
 -------
 

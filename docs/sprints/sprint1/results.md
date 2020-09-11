@@ -19,10 +19,10 @@
 ### 1.1 Fechamento da _Sprint_
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue 12* - Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) | 5 | <p style="backgroundColor:green">Concluído<p> |
-[Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17) | 5 | Não Concluído 
+| [Issue 15 - Update Product Backlog](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/15)| 5 | Não Concluído
+|[Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17) | 5 | Não Concluído 
 [Issue 18 - Burndown](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/18) | 5 | Concluído |
-[Issue 19 - Start Frontend Project](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/19) | 1 | Concluído |
+[Issue 3 (frontend) - Start Frontend Project](https://github.com/fga-eps-mds/2020.1-Grupo2-frontend/issues/3) | 1 | Concluído |
 [Issue 20 - Start Prototype](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/20) | 3 | Concluído |
 [Issue 21 - Training Node](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/21) | 5 | Concluído |
 [Issue 22 - Training React Native](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/22) | 8 | Em andamento |
@@ -31,8 +31,8 @@
 [Issue 25 - Dockerize](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/25) | 2 | Concluído |
 [Issue 26 - Start Backend Project](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/26) | 1 | Concluído |
 [Issue 27 - Velocity Template](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) | 2 | Concluído |
-| Pontos Totais | 40 | |
-| Pontos entregues |  |  |
+| Pontos Totais | 45 | |
+| Pontos entregues | 19 |  |
 
 <br/>
 
@@ -40,7 +40,7 @@ Dos 40 pontos planejados, x foram entregues. Algumas issues não foram fechadas,
 
 ### 1.2 _Burndown_
 
-![](img/burndown.png)
+![](img/burndown.jpg)
 
 ### 1.3 Gráfico de _commits_
 
@@ -50,15 +50,15 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ### 1.4 _Velocity_
 
-Por ser a sprint inicial, não há comparativos.
+![](img/velocity.jpg)
 
 ### 1.5 Quadro de Horas
 
-Ainda não há controle de horas nessa sprint.
+![](img/hours.jpg)
 
 ### 1.6 Quadro de Conhecimento
 
-![](img/quadroConhecimento.jpg)
+![](img/knowledge_box.jpg)
 
 
 ### 1.7 Revisão da _Sprint_
@@ -84,3 +84,21 @@ Nessa _Sprint_ houveram os problemas:
 <br>
 
 ### 2.1 Análise do _Scrum Master_
+
+Esta sprint não foi tão produtiva quanto a anterior 
+devido ao planejamento de muitos pontos, onde quase 
+metade dos mesmo não foram entregues.
+
+EPS e MDS não mantiveram uma comunicação muito contínua 
+devido ao pouco que se programou para ser realizado em 
+conjunto.
+
+O product backlog ainda não foi fechado. Isto está deixando o 
+escopo muito em aberto e gerando muitas dúvidas a respeito do 
+caminho que se deve tomar para o andamento do projeto. O 
+documento de arquitetura também foi um ponto em que se deixou 
+a desejar.
+
+Na reunião de resultado da sprint e planejamento, MDS se demonstrou 
+ainda muito tímido e pouco conversativo. EPS está tentando fazer uma 
+melhor comunicação, mas o resultado depende de ambas as partes.

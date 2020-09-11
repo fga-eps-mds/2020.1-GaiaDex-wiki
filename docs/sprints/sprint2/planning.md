@@ -6,11 +6,11 @@
 
 **Duração:** 6 dias
 
-**Pontos Planejados**: 
+**Pontos Planejados**: 59
 
-**Pontos Adicionados**: 
+**Pontos Adicionados**: 26
 
-**Pontos Totais**: 
+**Pontos Totais**: 85
 
 -------
 
@@ -43,7 +43,6 @@ EPS:
 
 Todos
 * Evolução do Protótipo
-* Popular banco com PlantNet
 
 MDS
 
@@ -61,187 +60,192 @@ Dupla 2: Marcos Gabriel e Vinicius
 Dupla 3: Marcos Felipe e Antonio Ruan
 
 * US28 - Visualizar informações sobre a planta
-* US29 - Adicionar planta aos meus Favoritos
+* Popular banco com PlantNet
 
 Extra: Victor Hugo
 
 ### 3.1 Dívidas técnicas
 
-[Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17)
+[Issue 15 - Update Product Backlog](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/15) - 5 
 
-[Issue 23 - Treinamento de teste](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/23)
+[Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17) - 5
 
-[Issue 24 - Architecture Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/24) 
+[Issue 23 - Treinamento de teste](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/23) - 3
 
-Treinamento react-native
+[Issue 24 - Architecture Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/24) - 5
+
+[Treinamento react-native](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/22) - 8
 
 
 ### 3.2 Novas issues
 
 Critérios de Aceitação
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
+* João Vítor - 8
+* Makaha - 5
+* Lyra - 8
+* Ruan - 5
+* Victor Hugo - X
+* Vinícius - 3
 * Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
+* Marcos Felipe - 8
+* Victor Santos - 3
+* Marcos Gabriel - 8
 
 Resultado Final - 8
 
 Plano de gerenciamento de riscos
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
+Não houve votação para essa issue. Assumimos a pontuação. 
 
-Resultado Final - 
+Resultado Final - 5
 
 Plano de comunicação
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 2
+* Makaha - 1
+* Lyra - 1
+* Ruan - 2
+* Victor Hugo - X
+* Vinícius - 3
+* Arthur - 2
+* Marcos Felipe - 2
+* Victor Santos - 5 
+* Marcos Gabriel - 2
+* 
 Resultado Final - 2
 
 Documento Suplementar
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 5
+* Makaha - 2
+* Lyra - 3
+* Ruan - 8
+* Victor Hugo - X
+* Vinícius - 3
+* Arthur - 3
+* Marcos Felipe - 3
+* Victor Santos - 3
+* Marcos Gabriel - 8
+  
 Resultado Final - 3
 
 Evolução do Protótipo
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 13
+* Makaha - 5
+* Lyra - 13
+* Ruan - 5
+* Victor Hugo - X
+* Vinícius - 5
+* Arthur - 8
+* Marcos Felipe - 8
+* Victor Santos - 8
+* Marcos Gabriel - 8
+  
 Resultado Final - 8
 
 US05 - Cadastrar minha conta no aplicativo
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 5
+* Makaha - 5
+* Lyra - 13
+* Ruan - 5
+* Victor Hugo - X
+* Vinícius - 5
+* Arthur - 5
+* Marcos Felipe - 5
+* Victor Santos - 5
+* Marcos Gabriel - 8
+  
 Resultado Final - 5
 
 US06 - Fazer login no aplicativo
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 3
+* Makaha - 3
+* Lyra - 8
+* Ruan - 5
+* Victor Hugo - X 
+* Vinícius - 5
+* Arthur - 5
+* Marcos Felipe - 5
+* Victor Santos - 5
+* Marcos Gabriel - 5
+  
 Resultado Final - 5
 
 US07 - Fazer logout no aplicativo
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 2
+* Makaha - 2
+* Lyra - 1
+* Ruan - 2
+* Victor Hugo - X
+* Vinícius - 5
+* Arthur - 3
+* Marcos Felipe - 3
+* Victor Santos - 3
+* Marcos Gabriel - 5
+  
 Resultado Final - 3
 
 US08 - Alterar os dados cadastrados na minha conta
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 3
+* Makaha - 2
+* Lyra - 1
+* Ruan - 2
+* Victor Hugo - X
+* Vinícius - 3
+* Arthur - 2
+* Marcos Felipe - 2
+* Victor Santos - 3
+* Marcos Gabriel - 5
+  
 Resultado Final - 2
 
 US09 - Deletar minha conta
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
-* Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
-
+* João Vítor - 2
+* Makaha - 2
+* Lyra - 1
+* Ruan - 2
+* Victor Hugo - X
+* Vinícius - 2
+* Arthur - 2
+* Marcos Felipe - 1
+* Victor Santos - 2
+* Marcos Gabriel - 3
+  
 Resultado Final - 2
 
 US28 - Visualizar informações sobre a planta
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
+* João Vítor - 8
+* Makaha - 8
+* Lyra - 21
+* Ruan - 5
 * Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
+* Vinícius - 5
+* Arthur - 8
+* Marcos Felipe - 8
+* Victor Santos - 8
+* Marcos Gabriel - 8
 
 Resultado Final - 8
 
 Popular banco com PlantNet
 
-* João Vítor - 
-* Makaha - 
-* Lyra - 
-* Ruan - 
+* João Vítor - 8
+* Makaha - 5
+* Lyra - 8
+* Ruan - 5
 * Victor Hugo - 
-* Vinícius - 
-* Arthur - 
-* Marcos Felipe - 
-* Victor Santos - 
+* Vinícius - 5
+* Arthur - 8
+* Marcos Felipe - 5
+* Victor Santos - 8
+* Marcos Gabriel - 8
 
 Resultado Final - 8
