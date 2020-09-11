@@ -68,9 +68,7 @@
   
 ### Sprint 4 (Release 1)
 
-* Menu pesquisa (encontrar plantas)
-* Menu inicial (sugestões/dicas do dia, notícias,etc)
-* menu minhas plantas (onde pode ir atualizando-as etc)
+
 
 ### Sprint 5
 
