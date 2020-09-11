@@ -39,6 +39,10 @@
   
 ### Sprint 2
 
+* Critérios de Aceitação
+* Plano de gerenciamento de riscos
+* Plano de comunicação
+* Documento Suplementar
 * Evolução do Protótipo
 * US05 - Cadastrar minha conta no aplicativo
 * US06 - Fazer login no aplicativo
@@ -51,6 +55,7 @@
 
 ### Sprint 3
 
+* EAP
 * EVM
 * Deploy contínuo
 * seção geral das plantas
@@ -68,7 +73,7 @@
   
 ### Sprint 4 (Release 1)
 
-
+****
 
 ### Sprint 5
 
