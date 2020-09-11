@@ -1,0 +1,86 @@
+# Resultados da Sprint 1
+
+[1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
+  - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
+  - [1.2 _Burndown_](#12-burndown)
+  - [1.3 Gráfico de _commits_](#13-gráfico-de-commits)
+  - [1.4 _Velocity_](#14-velocity)
+  - [1.5 Quadro de Horas](#15-quadro-de-horas)
+  - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
+  - [1.7 Revisão da _Sprint_](#17-revisão-da-sprint)
+  
+[2 Retrospectiva](#2-retrospectiva)
+  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
+
+------
+
+## 1. Indicadores de Qualidade do Processo
+
+### 1.1 Fechamento da _Sprint_
+| Issue       | Pontos     | Status     |
+| :------------- | :----------: | -----------: |
+| [Issue 12* - Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) | 5 | <p style="backgroundColor:green">Concluído<p> |
+[Issue 17 - Project Opening Term](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/17) | 5 | Não Concluído 
+[Issue 18 - Burndown](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/18) | 5 | Concluído |
+[Issue 19 - Start Frontend Project](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/19) | 1 | Concluído |
+[Issue 20 - Start Prototype](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/20) | 3 | Concluído |
+[Issue 21 - Training Node](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/21) | 5 | Concluído |
+[Issue 22 - Training React Native](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/22) | 8 | Em andamento |
+[Issue 23 - Training Tests](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/23) | 3 | Não Concluído |
+[Issue 24 - Architecture Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) | 5 | Não Concluído |
+[Issue 25 - Dockerize](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/25) | 2 | Concluído |
+[Issue 26 - Start Backend Project](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/26) | 1 | Concluído |
+[Issue 27 - Velocity Template](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12) | 2 | Concluído |
+| Pontos Totais | 40 | |
+| Pontos entregues |  |  |
+
+<br/>
+
+Dos 40 pontos planejados, x foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+
+### 1.2 _Burndown_
+
+![](img/burndown.png)
+
+### 1.3 Gráfico de _commits_
+
+Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
+
+![](img/commits.png)
+
+### 1.4 _Velocity_
+
+Por ser a sprint inicial, não há comparativos.
+
+### 1.5 Quadro de Horas
+
+Ainda não há controle de horas nessa sprint.
+
+### 1.6 Quadro de Conhecimento
+
+![](img/quadroConhecimento.jpg)
+
+
+### 1.7 Revisão da _Sprint_
+
+Nessa _Sprint_ houveram os problemas:
+
+* Não houve verificação de atividades durante a sprint dos membros. Ex: houve teste de outras disciplinas 
+* Computador de um dos membros estragou 
+* Dificuldade em conciliar outas disciplinas
+* Demora para encerramento do Backlog
+* Não fechamento dos treinos de testes e react-native
+* Iniciar projeto de Front-end levou bem mais tempo do que o planejado
+
+## 2 Retrospectiva
+
+| Pontos Positivos | Pontos Negativos |
+| :------------- | :----------: |
+| Animação de MDS | Mal planejamento de pontos |
+| Inicio das dailies | Pouca comunicação entre EPS e MDS |
+| Avanço do protótipo |  |
+| Esclarecimento sobre a visão do produto |  |
+
+<br>
+
+### 2.1 Análise do _Scrum Master_

@@ -74,6 +74,7 @@ Nessa _Sprint_ houve um problema:
 | Sem dificuldades para usar o Discord |  |
 
 <br>
+
 ### 2.1 Análise do _Scrum Master_
 
 Essa _Sprint_ foi bem lenta no começo, mas com muito trabalho ao final, devido a demora para ser iniciada realmente. Foram organizados diversos pontos para a mesma e, quase todos foram entregues.

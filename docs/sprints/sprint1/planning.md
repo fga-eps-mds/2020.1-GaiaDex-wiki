@@ -2,15 +2,15 @@
 
 **Data de Início:** 1/09/2020  
 
-**Data de Término:** 10/09/2020
+**Data de Término:** 11/09/2020
 
-**Duração:** Uma semana
+**Duração:** * 10 dias
 
-**Pontos Planejados**: 38
+**Pontos Planejados**: 40
 
 **Pontos Adicionados**: 0
 
-**Pontos Totais**: 38
+**Pontos Totais**: 40
 
 -------
 
@@ -34,9 +34,13 @@
 
 ### 3.1 Dívidas técnicas
 
-[Issue 4 - Vision Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/4)
+[Issue 12 - Product Roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/12)
 
 ### 3.2 Novas issues
+
+[Issue 15 - Update Product Backlog](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/15)
+
+* Sem votação, assumimos pontuação 5
 
 [Issue 21 - Treinamento de Node](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/21) - Votação
 
