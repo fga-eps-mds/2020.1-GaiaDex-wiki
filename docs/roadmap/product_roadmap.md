@@ -3,6 +3,7 @@
 |Data           |Versão     |Descrição          |Autor                   |
 | ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
 |27/08/2020|0.1| Adição tópicos 1 e 2 |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Guilherme de Lyra](http://github.com/guilhermedlyra) |
+|11/09/2020|1.0| Primeira versão do documento |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 
 ## RoadMap de produto
 
@@ -27,7 +28,7 @@
 * Elaborar termo de abertura de projeto
 * Definir critérios de aceitação por issue
 * Burndown de risco
-* Iniciar Protótipo (Marvel)
+* Iniciar Protótipo
 * Treinamento Node
 * Treinamento React Native
 * Treinamento de testes
@@ -38,21 +39,34 @@
   
 ### Sprint 2
 
-* Deploy contínuo
-* EVM
 * Evolução do Protótipo
-* crud usuário
-* crud planta *informação
-* crud planta *do usuário
-* crud comunidade
-  
+* US05 - Cadastrar minha conta no aplicativo
+* US06 - Fazer login no aplicativo
+* US07 - Fazer logout no aplicativo
+* US08 - Alterar os dados cadastrados na minha conta
+* US09 - Deletar minha conta
+* US28 - Visualizar informações sobre a planta
+* US29 - Adicionar planta aos meus Favoritos
+* Popular banco com PlantNet
+
 ### Sprint 3
 
+* EVM
+* Deploy contínuo
 * seção geral das plantas
 * tópicos sobre as plantas
 * seção de comentários (nos tópicos)
+* US01 - Scannear planta
+* US20 - Criar tópico em um fórum de planta
+* US21 - Editar tópico criado por mim
+* US22 - Deletar o tópico criado por mim
+* US23 - Upvote e downvote em um tópico
+* US24 - Criar comentário em um tópico
+* US25 - Editar comentário que fiz em um tópico
+* US26 - Remover um comentário que fiz em um tópico
+* US27 - Upvote e downvote em um comentário	julgar
   
-### Sprint 4
+### Sprint 4 (Release 1)
 
 * Menu pesquisa (encontrar plantas)
 * Menu inicial (sugestões/dicas do dia, notícias,etc)
@@ -62,8 +76,3 @@
 
 * feed do usuário(onde posta e ve o que os amigos postaram)
 * sistema de pontuação/gameficação
-* menu camera (conexao com plantanet)
-
-### Sprint 6
-
-* sistema de notificações (estilo facebook/twitter)
