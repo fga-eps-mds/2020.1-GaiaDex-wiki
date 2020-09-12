@@ -74,12 +74,12 @@ Extra: Victor Hugo
 
 [Issue 24 - Architecture Document](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/24) - 5
 
-[Treinamento react-native](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/22) - 8
+[Issue 22 -Treinamento react-native](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/22) - 8
 
 
 ### 3.2 Novas issues
 
-Critérios de Aceitação
+[Issue 36 - Critérios de Aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/36)
 
 * João Vítor - 8
 * Makaha - 5
@@ -94,13 +94,13 @@ Critérios de Aceitação
 
 Resultado Final - 8
 
-Plano de gerenciamento de riscos
+[issue 37 - Plano de gerenciamento de riscos](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/37)
 
 Não houve votação para essa issue. Assumimos a pontuação. 
 
 Resultado Final - 5
 
-Plano de comunicação
+[Issue 38 - Plano de comunicação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/38)
 
 * João Vítor - 2
 * Makaha - 1
@@ -115,7 +115,7 @@ Plano de comunicação
 * 
 Resultado Final - 2
 
-Documento Suplementar
+[Issue 39 - Documento Suplementar](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/39)
 
 * João Vítor - 5
 * Makaha - 2
@@ -130,7 +130,7 @@ Documento Suplementar
   
 Resultado Final - 3
 
-Evolução do Protótipo
+[Issue 40 - Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/40)
 
 * João Vítor - 13
 * Makaha - 5
@@ -145,7 +145,7 @@ Evolução do Protótipo
   
 Resultado Final - 8
 
-US05 - Cadastrar minha conta no aplicativo
+Issue 05 - US05 - Cadastrar minha conta no aplicativo[Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/5)[Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4)
 
 * João Vítor - 5
 * Makaha - 5
@@ -160,7 +160,7 @@ US05 - Cadastrar minha conta no aplicativo
   
 Resultado Final - 5
 
-US06 - Fazer login no aplicativo
+US06 - Fazer login no aplicativo [Backend](US06 - Fazer login no aplicativo) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5)
 
 * João Vítor - 3
 * Makaha - 3
@@ -175,7 +175,7 @@ US06 - Fazer login no aplicativo
   
 Resultado Final - 5
 
-US07 - Fazer logout no aplicativo
+US07 - Fazer logout no aplicativo [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7) [FrontEnd](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)
 
 * João Vítor - 2
 * Makaha - 2
@@ -190,7 +190,7 @@ US07 - Fazer logout no aplicativo
   
 Resultado Final - 3
 
-US08 - Alterar os dados cadastrados na minha conta
+US08 - Alterar os dados cadastrados na minha conta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) [FrontEnd](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9)
 
 * João Vítor - 3
 * Makaha - 2
@@ -205,7 +205,7 @@ US08 - Alterar os dados cadastrados na minha conta
   
 Resultado Final - 2
 
-US09 - Deletar minha conta
+US09 - Deletar minha conta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7)
 
 * João Vítor - 2
 * Makaha - 2
@@ -220,7 +220,7 @@ US09 - Deletar minha conta
   
 Resultado Final - 2
 
-US28 - Visualizar informações sobre a planta
+US28 - Visualizar informações sobre a planta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8)
 
 * João Vítor - 8
 * Makaha - 8
@@ -235,7 +235,7 @@ US28 - Visualizar informações sobre a planta
 
 Resultado Final - 8
 
-Popular banco com PlantNet
+[Issue 12 - Popular banco com PlantNet](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/12)
 
 * João Vítor - 8
 * Makaha - 5
