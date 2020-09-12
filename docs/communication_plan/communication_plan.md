@@ -31,8 +31,7 @@ Como o próprio nome diz, elas são feitas diariamente, por volta das 21h, com c
 * O que fiz hoje?
 * Quais foram os problemas que encontrei?
 * O que pretendo fazer amanhã?
-
-Exemplo:
+<br>
 
 ![](img/daily.jpg)
 
@@ -50,12 +49,18 @@ Também nessa reunião podemos planejar nossa próxima sprint, separando as tare
 
 Para pontuar as *issues* na reunião de planejamento, todos colocam a pontuação que acreditam justa para cada *issue* e debatemos até encontrarmos um consenso. Na falta do mesmo, escolhemos a pontuação que foi a mais votada.
 <br>
-Exemplo:
 ![](img/pontuacao.png)
 
 ### 2.4 Gerenciamento das *issues* e *pull requests*
 
-A comunicação acerca do cumprimento das *issues* e dos pedidos de revisão de *pull requests* é feito no repositório da equipe, sendo responsabilidade dos membros checarem o mesmo para se certificarem que suas tarefas estão atualizadas.
+A comunicação acerca do cumprimento das *issues* e dos pedidos de revisão de *pull requests* é feito no próprio repositório da equipe, sendo de responsabilidade dos membros checarem o mesmo para se certificarem que suas tarefas estão corretas e atualizadas.
 <br>
 
+
 ## **3. Ferramentas de comunicação**
+
+| Ferramenta | Utilização |
+|    :-:     |     :-:    |
+|   Github    |     Repositórios do projeto (Wiki, Frontend, Backend); Gerenciamento de *issues* e *pull requests*; Gerenciamento e versionamento  de documentos; Gerenciamento e versionamento do código   |
+|   Discord     |   Onde ocorrem as reuniões de review/retrospectiva/planejamento; Também é utilizado para pontuar as *issues* e como canal extra de comunicação         |
+|   Telegram    |   Canal principal de comunicação; Foram criados 3 grupos: um de comunicação apenas para membros EPS, um de comunicação geral para EPS e MDS e um apenas para as dailies   |
