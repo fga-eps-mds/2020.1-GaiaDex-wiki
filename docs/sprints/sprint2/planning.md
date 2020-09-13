@@ -25,7 +25,7 @@
 
 ## 1. Pareamentos
 
-![Pareamentos](pareamentos.jpg)
+![](img/pairing.jpg)
 
 ## 2. Mudanças
 
