@@ -6,7 +6,7 @@
 | :-:   |  :-:   |    :-:    |    :-:                              |
 | 12/09 |  0.1   |  Criação da estrutura do documento | [João Vítor](http://github.com/joaovitorml) |
 | 13/09 |  0.2   | Atualização do sumário |  [João Vítor](http://github.com/joaovitorml)           |
-| 13/09 |  0.3   |  | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
+| 13/09 |  1.0   |  | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
 
 ## Sumário
 
@@ -104,8 +104,26 @@ O desenvolvimento deverá estar de acordo as boas práticas de programação e r
 
 ### 4.1 Diagrama de Classes
 
+![](img/class_diagram.png)
+
 ### 4.2 Diagrama de Pacotes
+
+BackEnd:
+
+![Backend](img/pkg_back.png)
+
+FrontEnd:
+
+![Frontend](img/pkg_front.png)
 
 ## **5. Visão de Implementação**
 
+A proposta da arquitetura MVC( Model, View, Controller) é fazer uma divisão em 3 camadas sobrepostas, de uma forma que o usuário só irá interagir com uma delas, no caso a View. Cada parte tem um valor diferente:
+
+* Modelos (models) - Armazenamento de dados, definição dos estados das camadas e interpretação de requisições, que será controlada pelo Express.
+* Visão (views) - Controle de layout e definição de design, que será controlada pelo React-Native.
+* Controles (controllers) - Tráfego de informações entre todas as camadas, entre o Express e o React-Native.
+
 ## **6. Qualidade**
+
+O aplicativo seguirá o padrão de desenvolvimento definido nos frameworks utilizados que irá organizar as diversas camadas da aplicação sendo que cada camada tem sua função específica dentro do software. Onde será mantida uma boa organização do código facilitando a visualização, entendimento e implementação do código.
