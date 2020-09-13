@@ -9,21 +9,17 @@
 
 ## Sumário
 
-[1. Introdução](#1-introdução)
 
-[2. Gerenciamento da comunicação](#2-gerenciamento-da-comunicação)
-- [Plano de Comunicações](#plano-de-comunicações)
-  - [Histórico de versão](#histórico-de-versão)
-  - [Sumário](#sumário)
-  - [**1. Introdução**](#1-introdução)
-  - [**2. Gerenciamento da comunicação**](#2-gerenciamento-da-comunicação)
-    - [2.1 Daily](#21-daily)
-    - [2.2 Reuniões](#22-reuniões)
-    - [2.3 Sistema de pontuação](#23-sistema-de-pontuação)
-    - [2.4 Gerenciamento das *issues* e *pull requests*](#24-gerenciamento-das-issues-e-pull-requests)
-  - [**3. Ferramentas de comunicação**](#3-ferramentas-de-comunicação)
-
-[3. Ferramentas de comunicação](#3-ferramentas-de-comunicação)
+  [**1. Introdução**](#1-introdução)
+  
+  [**2. Gerenciamento da comunicação**](#2-gerenciamento-da-comunicação)
+  
+   * [2.1 Daily](#21-daily)
+   * [2.2 Reuniões](#22-reuniões)
+   * [2.3 Sistema de pontuação](#23-sistema-de-pontuação)
+   * [2.4 Gerenciamento das *issues* e *pull requests*](#24-gerenciamento-das-issues-e-pull-requests)
+    
+  [**3. Ferramentas de comunicação**](#3-ferramentas-de-comunicação)
 
 ## **1. Introdução**
 
