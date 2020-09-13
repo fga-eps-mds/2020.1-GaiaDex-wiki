@@ -57,10 +57,12 @@
 
 * EAP
 * EVM
+* Benchmark
 * Deploy contínuo
 * seção geral das plantas
 * tópicos sobre as plantas
 * seção de comentários (nos tópicos)
+* Criar estrutura do fórum
 * US01 - Scannear planta
 * US22 - Criar tópico em um fórum de planta
 * US23 - Editar tópico criado por mim
