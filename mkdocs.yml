@@ -35,6 +35,7 @@ nav:
   - Plano de Gerenciamento de Comunicação: communication_plan/communication_plan.md
   - Política de Repositório: repository_politics/repository_politics.md
   - Product Backlog: product_backlog/product_backlog.md
+  - Critérios de Aceitação: product_backlog/acceptance_criteria.md
   - RoadMap:
     - Roadmap de Produto: roadmap/product_roadmap.md
     - RoadMap de Papeis: roadmap/roles_roadmap.md
