@@ -32,6 +32,7 @@ pages:
 nav:
   - Inicio: index.md
   - Documento de Visão: vision_document/vision_document.md
+  - Documento de Arquitetura: architecture_document/architecture_document.md
   - Plano de Gerenciamento de Comunicação: communication_plan/communication_plan.md
   - Política de Repositório: repository_politics/repository_politics.md
   - Product Backlog: product_backlog/product_backlog.md
