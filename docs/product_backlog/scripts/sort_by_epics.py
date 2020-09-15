@@ -1,5 +1,7 @@
 import re
 from collections import defaultdict
+import os.path
+file_path = os.path.dirname(os.path.abspath(__file__)) + '/../product_backlog.md'
 
 is_user_story_line = re.compile('US\d{2}')
 
@@ -7,7 +9,7 @@ text = ''
 
 d = defaultdict(lambda: [])
 
-with open('product_backlog.md') as file:
+with open(file_path) as file:
     for line in file.readlines():
         found = is_user_story_line.findall(line)
         if found:
@@ -29,6 +31,6 @@ for line in text.split('\n'):
         idx += 1
     final_text += line+'\n'
 
-f = open('product_backlog.md', 'w')
+f = open(file_path, 'w')
 f.write(final_text)
 f.close()
