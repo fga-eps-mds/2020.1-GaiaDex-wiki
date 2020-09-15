@@ -6,6 +6,7 @@
 | :-:  | :-:    |    :-:    |   :-:    |
 | 12/09| 0.1    | Criação da estrutura do documento | [João Vítor](http://github.com/joaovitorml) |
 | 14/09| 1.0    | Adição dos tópicos 1 a 9 | [João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Victor Hugo](http://github.com/v100k) 
+|14/09| 1.1 | Alteração dos tópicos 3.1 e 7 | [Rafael Makaha](http://github.com/rafaelmakaha) |
 
 ## Sumário
 
@@ -95,27 +96,22 @@ O aplicativo deverá funcionar corretamente por pelo menos 95% do tempo, nos 7 d
 
 **Importância:** Relevante.
 
-**[RC02] Informações pessoais seguras**
-Como as posições das filas de espera e as informações pessoais do usuário não podem ser perdidas, as informações privadas do usuário devem ser inacessíveis por terceiros. Somente o nome, "nome de palhaço" e o telefone do usuário serão exibidos, para comunicação entre os participantes.
-
-**Importância:** Essencial.
-
-**[RC03] Confiabilidade das informações**
+**[RC02] Confiabilidade das informações**
 Os dados providos pelo aplicativo (informações da planta) devem ser confiáveis e corretos.
 
 **Importância:** Essencial.
 
-**[RC04] Tempo Médio Entre Falhas (MTBF)**
+**[RC03] Tempo Médio Entre Falhas (MTBF)**
 O tempo médio entre falhas, é um cálculo realizado utilizando o tempo total do funcionamento, o tempo total sem funcionamento e o número de falhas. Só é possível ter valores exatos quando a aplicação já está quase lançada. Atualizaremos com os dados no pré-lançamento.
 
 **Importância:** Relevante.
 
-**[RC05] Tempo Médio Para Reparo (MTTR)**
+**[RC04] Tempo Médio Para Reparo (MTTR)**
 O tempo médio para reparo se assemelha ao MTBF, porém o intuito é entender quanto tempo será necessário para reparar os erros encontrados no sistema. O cálculo utiliza o total de horas do sistema sem funcionamento e o número de falhas encontradas. Atualizaremos com os dados no pré-lançamento.
 
 **Importância:** Relevante.
 
-**[RC06] Taxa máxima de erros ou defeitos**
+**[RC05] Taxa máxima de erros ou defeitos**
 Todo o processo de desenvolvimento é testado para evitar qualquer falha e exterminar erros fatais para o maior número de aparelhos compatíveis com o sistema, apesar dos esforços para combatê-los, erros existem. A taxa máxima de erros no nosso projeto é de 5%, com uma margem de erro de 2%, possuindo assim, uma taxa máxima de 7% do tempo total de execução indisponível.
 
 **Importância:** Relevante.
@@ -149,7 +145,7 @@ A escolha de cores para aplicação tem o objetivo de proporcionar emoções pos
 A  disposição dos elementos e funcionalidades nas telas  do aplicativo foram feitas de uma forma que o usuário tenha facilidade de usá-lo e tenha clareza da utilidade de cada elemento.
 
 ## 7. Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
-O aplicativo terá ferramentas de ajuda ao usuário como cards ou mensagens auxiliares contendo instruções ou dicas de uso. Esse sistema de ajuda será critério de aceitação nas histórias de usuário.
+O aplicativo terá uma sessão de ajuda ao usuário contendo a documentação com as dúvidas frequentes.
 
 ## 8. Componentes Comprados
 Para o desenvolvimento do software não será adquirido nenhum componente.
