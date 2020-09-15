@@ -16,28 +16,38 @@
 
 [1. Pareamentos](#1-pareamentos)
 
-[2. Mudanças](#2-mudanças)
+[2. Objetivos da Sprint](#2-objetivos-da-sprint)
 
-[3. Features da Sprint e Pontuação](#3-features-da-sprint-e-pontuação)
-* [3.1 Dívidas técnicas](#31-dívidas-técnicas)
-* [3.2 Novas Issues](#32-novas-issues)
+[3. Mudanças](#3-mudanças)
+
+[4. Burndown de Risco](#4-burndown-de-risco)
+
+[5. Features da Sprint e Pontuação](#5-features-da-sprint-e-pontuação)
+* [5.1 Dívidas técnicas](#51-dívidas-técnicas)
+* [5.2 Novas Issues](#52-novas-issues)
 
 -------
 ## 1. Pareamentos
 
 ![Pareamentos](img/pairing.jpg)
 
-## 2. Mudanças
+## 2. Objetivos da _Sprint_
+
+## 3. Mudanças
 
 * Aqui há uma alteração que será feita durante a sprint
 
-## 3. Issues da _Sprint_ e Pontuação
+## 4. Burndown de Risco
 
-### 3.1 Dívidas técnicas
+![](img/burndown.jpg)
+
+## 5. Issues da _Sprint_ e Pontuação
+
+### 5.1 Dívidas técnicas
 
 [Issue N](#)
 
-### 3.2 Novas issues
+### 5.2 Novas issues
 
 [Issue N](#)
 
