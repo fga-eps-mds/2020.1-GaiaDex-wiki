@@ -1,9 +1,10 @@
-| versão |    data    |                                                autor(es)                                                |                                     descrição                                      |
-| :----: | :--------: | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-|  0.1   | 11/09/2020 | [@guilhermedelyra](https://github.com/guilhermedelyra) e [@joaovitorml](https://github.com/joaovitorml) |                                Criação do documento                                |
-|  0.2   | 13/09/2020 | [@guilhermedelyra](https://github.com/guilhermedelyra) e [@joaovitorml](https://github.com/joaovitorml) | Adição dos critérios das issues das sprints 2 e 3 (us01, us05, us08..11, us22..30) |
-
 # Critérios de Aceitação
+
+| versão |    data    |                                                                         autor(es)                                                                         |                                     descrição                                      |
+| :----: | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+|  0.1   | 11/09/2020 |                          [@guilhermedelyra](https://github.com/guilhermedelyra) e [@joaovitorml](https://github.com/joaovitorml)                          |                                Criação do documento                                |
+|  0.2   | 13/09/2020 |                          [@guilhermedelyra](https://github.com/guilhermedelyra) e [@joaovitorml](https://github.com/joaovitorml)                          | Adição dos critérios das issues das sprints 2 e 3 (us01, us05, us08..11, us22..30) |
+|  0.3   | 15/09/2020 | [@rafaelmakaha](https://github.com/rafaelmakaha), [@guilhermedelyra](https://github.com/guilhermedelyra) e [@joaovitorml](https://github.com/joaovitorml) |                     Remoção de [critérios extras](./extras.md)                     |
 
 Este artefato diz respeito a uma lista de critérios necessários para que as _histórias de usuário_ sejam consideradas concluídas.
 [Clique aqui para visualizar as histórias de usuário.](./product_backlog.md)
@@ -14,8 +15,8 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O usuário deve poder scannear a planta por meio da câmera do celular
 - [ ] O sistema deve identificar a planta scanneada
 - [ ] O sistema deve retornar ao usuário informações sobre a planta scanneada
-- [ ] O usuário deve poder decidir se deseja compartilhar com o app a foto que scanneou ou não (de forma que esta figuraria no Card daquela Planta)
-- [ ] O usuário deve poder compartilhar a foto tirada em suas comunidades e linha do tempo
+  <!-- - [ ] O usuário deve poder decidir se deseja compartilhar com o app a foto que scanneou ou não (de forma que esta figuraria no Card daquela Planta) -->
+  <!-- - [ ] O usuário deve poder compartilhar a foto tirada em suas comunidades e linha do tempo -->
 
 ### US02 - Visualizar minha coleção
 
@@ -44,14 +45,14 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US06 - Cadastrar/fazer login com conta Facebook
 
-- [ ] O usuário deve poder realizar login com Google.
-- [ ] O sistema deve pedir permissão ao usuário para acessar as informações do Google.
+- [ ] O usuário deve poder realizar login com Facebook.
+- [ ] O sistema deve pedir permissão ao usuário para acessar as informações do Facebook.
 - [ ] O sistema deve mostrar uma mensagem de erro caso o login não seja realizado.
 
 ### US07 - Cadastrar/fazer login com conta Google
 
-- [ ] O usuário deve poder realizar login com Facebook.
-- [ ] O sistema deve pedir permissão ao usuário para acessar as informações do Facebook.
+- [ ] O usuário deve poder realizar login com Google.
+- [ ] O sistema deve pedir permissão ao usuário para acessar as informações do Google.
 - [ ] O sistema deve mostrar uma mensagem de erro caso o login não seja realizado.
 
 ### US08 - Fazer login no aplicativo
@@ -79,8 +80,8 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar a conta ou não
 - [ ] O sistema deve invalidar a sessão do usuário
 - [ ] O sistema deve remover todos os dados pessoais do usuario do banco de dados
-- [ ] O sistema deve manter os tópicos e comentários nos fóruns (com a tag "usuario removido")
-- [ ] O sistema deve remover os posts, comentários em posts (tanto em comunidades como no próprio feed)
+  <!-- - [ ] O sistema deve manter os tópicos e comentários nos fóruns (com a tag "usuario removido") -->
+  <!-- - [ ] O sistema deve remover os posts, comentários em posts (tanto em comunidades como no próprio feed) -->
 
 ### US12 - Visualizar membros da comunidade
 
@@ -135,17 +136,18 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 ### US22 - Criar tópico em um fórum de planta
 
 - [ ] O usuário deve definir um titulo para o tópico
-- [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este realmente possui algum conteúdo
+- [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio
 - [ ] O usuário deve poder inserir uma descrição do tópico
-- [ ] O usuário deve poder editar o estilo da descrição (tipo de fonte (título, subtitulo ou normal), negrito, sublinhado, tachado, mono-espaçado, centralizado, justificado e/ou alinhado à esquerda)
-- [ ] O usuário deve poder adicionar imagens à descrição
-- [ ] O usuário deve poder adicionar hyperlinks à descrição
+  <!-- - [ ] O usuário deve poder editar o estilo da descrição (tipo de fonte (título, subtitulo ou normal), negrito, sublinhado, tachado, mono-espaçado, centralizado, justificado e/ou alinhado à esquerda) -->
+  <!-- - [ ] O usuário deve poder adicionar imagens à descrição -->
+  <!-- - [ ] O usuário deve poder adicionar hyperlinks à descrição -->
 
 ### US23 - Editar tópico criado por mim
 
 - [ ] O usuário deve poder editar o nome do tópico
 - [ ] O usuário deve poder editar o conteúdo do tópico
-- [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este realmente possui algum conteúdo
+- [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio
+<!-- - [ ] O sistema deve explicitar que aquele tópico foi editado (com tag '[editado]' por exemplo) -->
 
 ### US24 - Deletar o tópico criado por mim
 
@@ -160,21 +162,21 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US26 - Criar comentário em um tópico
 
-- [ ] O usuário deve poder adicionar hyperlinks ao comentário
-- [ ] O usuário deve poder adicionar imagens ao comentário
-- [ ] O usuário deve poder editar o estilo da descrição (negrito, sublinhado, tachado, mono-espaçado)
-- [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este realmente possui algum conteúdo
+- [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
+  <!-- - [ ] O usuário deve poder adicionar hyperlinks ao comentário -->
+  <!-- - [ ] O usuário deve poder adicionar imagens ao comentário -->
+  <!-- - [ ] O usuário deve poder editar o estilo da descrição (negrito, sublinhado, tachado, mono-espaçado) -->
 
 ### US27 - Editar comentário que fiz em um tópico
 
-- [ ] O sistema deve explicitar que aquele comentário foi editado (com tag '[editado]' por exemplo)
-- [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este realmente possui algum conteúdo
+- [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
+<!-- - [ ] O sistema deve explicitar que aquele comentário foi editado (com tag '[editado]' por exemplo) -->
 
 ### US28 - Remover um comentário que fiz em um tópico
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar o comentário ou não
-- [ ] O sistema deve manter a existencia das replicas (e subsequente replicas...)
 - [ ] O sistema deve trocar o conteudo da mensagem por algo explicativo (ex: "comentário removido pelo usuário")
+- [ ] O sistema deve manter a existência dos comentários em resposta ao comentário removido
 
 ### US29 - Upvote e downvote em um comentário
 
@@ -185,21 +187,21 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 ### US30 - Visualizar informações sobre a planta
 
 - [ ] O usuário deve poder visualizar o nome da família desta planta
-- [ ] O usuário deve poder visualizar o nome do genero desta planta
+- [ ] O usuário deve poder visualizar o nome do gênero desta planta
 - [ ] O usuário deve poder visualizar o nome da espécie desta planta
 - [ ] O usuário deve poder visualizar o nome comum da planta
-- [ ] O usuário deve poder acessar links com informações complementares
-- [ ] O usuário deve poder visualizar os casos comuns de uso desta planta
-- [ ] O usuário deve poder visualizar a primeira pessoa no mundo que coletou-a
-- [ ] O usuário deve poder visualizar quantas vezes a planta ja fora "coletada" (no mundo, pelo app)
-- [ ] O usuário deve poder visualizar o status de extinçao da planta (possíveis referencias: https://www.iucnredlist.org/, https://explorer.natureserve.org)
-- [ ] O usuário deve poder visualizar potenciais usos culinários da planta (receitas), caso seja cabível
 - [ ] O usuário deve poder visualizar uma imagem de “perfil” da planta
-- [ ] O usuário deve poder visualizar instruções de como cultiva-la
-- [ ] O usuário deve poder visualizar ícone indicando quanta exposição à luz (pouca/média/muita) a planta necessita
-- [ ] O usuário deve poder visualizar ícone indicando quantas vezes há de se regar a planta em média semanalmente
-- [ ] O usuário deve poder visualizar ícone indicando o tamanho/porte da planta (pequena...grande)
-- [ ] O usuário deve poder visualizar fotos de outros usuários desta mesma planta
+  <!-- - [ ] O usuário deve poder acessar links com informações complementares -->
+  <!-- - [ ] O usuário deve poder visualizar os casos comuns de uso desta planta -->
+  <!-- - [ ] O usuário deve poder visualizar a primeira pessoa no mundo que coletou-a -->
+  <!-- - [ ] O usuário deve poder visualizar quantas vezes a planta ja fora "coletada" (no mundo, pelo app) -->
+  <!-- - [ ] O usuário deve poder visualizar o status de extinçao da planta (possíveis referencias: https://www.iucnredlist.org/, https://explorer.natureserve.org) -->
+  <!-- - [ ] O usuário deve poder visualizar potenciais usos culinários da planta (receitas), caso seja cabível -->
+  <!-- - [ ] O usuário deve poder visualizar instruções de como cultiva-la -->
+  <!-- - [ ] O usuário deve poder visualizar ícone indicando quanta exposição à luz (pouca/média/muita) a planta necessita -->
+  <!-- - [ ] O usuário deve poder visualizar ícone indicando quantas vezes há de se regar a planta em média semanalmente -->
+  <!-- - [ ] O usuário deve poder visualizar ícone indicando o tamanho/porte da planta (pequena...grande) -->
+  <!-- - [ ] O usuário deve poder visualizar fotos de outros usuários desta mesma planta -->
 
 ### US31 - Adicionar planta aos meus Favoritos
 
