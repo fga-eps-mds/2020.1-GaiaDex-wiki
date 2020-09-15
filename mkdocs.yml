@@ -31,6 +31,7 @@ pages:
   - Inicio: index.md
 nav:
   - Inicio: index.md
+  - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
   - Documento de Visão: vision_document/vision_document.md
   - Documento de Arquitetura: architecture_document/architecture_document.md
   - Plano de Gerenciamento de Comunicação: communication_plan/communication_plan.md
