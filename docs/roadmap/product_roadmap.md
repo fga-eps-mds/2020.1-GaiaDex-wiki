@@ -27,7 +27,6 @@
 ### Sprint 1
 
 * Elaborar termo de abertura de projeto
-* Definir critérios de aceitação por issue
 * Burndown de risco
 * Iniciar Protótipo
 * Treinamento Node
@@ -58,10 +57,9 @@
 * EAP
 * EVM
 * Benchmark
+* Guia de Estilo
+* Documento de Identidade Visual
 * Deploy contínuo
-* seção geral das plantas
-* tópicos sobre as plantas
-* seção de comentários (nos tópicos)
 * Criar estrutura do fórum
 * US01 - Scannear planta
 * US22 - Criar tópico em um fórum de planta
@@ -79,5 +77,5 @@
 
 ### Sprint 5
 
-* feed do usuário(onde posta e ve o que os amigos postaram)
+* feed do usuário(onde posta e visualiza o que os amigos postaram)
 * sistema de pontuação/gameficação
