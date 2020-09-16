@@ -256,8 +256,8 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US47 - Visualizar produtos por categorias (vegetais, ervas, etc)
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá navegar pelo marketplace por meio de abas de categorias
+- [ ] Os produtos deverão ser categorizados
 
 ### US48 - Pesquisar produtos por nome
 
