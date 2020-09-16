@@ -228,8 +228,8 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US41 - Adicionar apelido à minha planta
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário deverá adicionar um apelido a sua planta após o processo de scanneamento da mesma
+- [ ] O usuário poderá alterar o apelido da planta a qualquer momento em sua coleção
 
 ### US42 - Definir configurações de notificação
 
@@ -237,59 +237,56 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O usuário deverá receber notificação quando um amigo comentar em um posto do mesmo
 - [ ] O usuário poderá escolher se deseja receber ou não notificações
 
-### US43 - que o usuário seja obrigado a definir uma meta na criação de uma comunidade
+### US43 - Definir uma meta na criação de uma comunidade
+
+- [ ] O dono de comunidade deverá definir uma meta no processo de criação da comunidade
+- [ ] A barra de progresso da meta deverá ser atualizada pelo dono de comunidade
+
+### US44 - Definir o local de realização da meta
+
+- [ ] O dono de comunidade deverá definir um local existente
+
+### US45 - Visualizar comunidades que possuam metas definidas em locais próximos
+
+- [ ] O dono de comunidade, após definir sua meta, poderá ver outras comunidade com metas definidas no mesmo local que a sua
+
+### US46 - Informar acerca de outras comunidades com metas no mesmo local
+
+- [ ] O dono de comunidade deverá ser informado, no ato de criação de uma comunidade, caso haja outras comunidades com metas orientadas àquele local
+
+### US47 - Visualizar produtos por categorias (vegetais, ervas, etc)
 
 - [ ] criterio1
 - [ ] criterio2
 
-### US44 - que o usuário seja obrigado a definir o local onde dever-se-a realizar a tal meta
-
-- [ ] criterio1
-- [ ] criterio2
-
-### US45 - visualizar comunidades que possuam metas definidas em locais próximos ao que me localizo
-
-- [ ] criterio1
-- [ ] criterio2
-
-### US46 - ser informado, no ato de criação de uma comunidade, caso haja outras comunidades com metas orientadas àquele local
-
-- [ ] criterio1
-- [ ] criterio2
-
-### US47 - visualizar produtos por categorias (vegetais, ervas, etc)
-
-- [ ] criterio1
-- [ ] criterio2
-
-### US48 - pesquisar produtos por nome
+### US48 - Pesquisar produtos por nome
 
 - [ ] O usuário poderá digitar o nome do produto que está procurando
 - [ ] Se o produto não existe, o sistema deverá exibir uma mensagem: "Desculpe, mas não existem produtos com este nome"
 
-### US49 - filtrar produtos por avaliação, preço, categoria etc
+### US49 - Filtrar produtos por avaliação, preço, categoria etc
 
 - [ ] O usuário poderá utilizar filtros localizados no topo do marketplace
 - [ ] Quando pelo menos um filtro estiver selecionado, aparecerá um botão próximo aos filtros que permite ao usuário limpar todos os filtros
 
-### US50 - comprar produto pelo aplicativo (com cartão, por exemplo)
+### US50 - Comprar produto pelo aplicativo (com cartão, por exemplo)
 
 - [ ] O usuário poderá escolher entre compar com o aplicativo ou não durante o processo da compra
 
-### US51 - avaliar minha ultima compra
+### US51 - Avaliar minha ultima compra
 
 - [ ] Após finalizada a compra, deverá aparecer ao usuário uma mensagem pedindo que o mesmo avalie o produto quando ele chegar
 
-### US52 - fazer um anúncio
+### US52 - Fazer um anúncio
 
 - [ ] O vendedor poderá anunciar um produto por meio de um botão no marketplace
 - [ ] O vendedor deverá definir o nome, o preço e mais algumas informações acerca do produto
 
-### US53 - remover um anúncio
+### US53 - Remover um anúncio
 
 - [ ] O vendedor poderá retirar um anúncio feito anteriormente por ele a qualquer momento por meio de outro botão no marketplace
 
-### US54 - pausar um anúncio
+### US54 - Pausar um anúncio
 
 - [ ] O usuário poderá esconder/pausar um anúncio feito por ele anteiormente por meio de outro botão no marketplace
 
