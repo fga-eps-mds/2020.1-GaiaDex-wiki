@@ -54,6 +54,7 @@
 
 ### Sprint 3
 
+* Critérios Extras
 * EAP
 * EVM
 * Benchmark
