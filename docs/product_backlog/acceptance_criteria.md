@@ -85,8 +85,7 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US13 - Visualizar a privacidade (publica, privada) da comunidade
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário nã poderá ver o feed de uma comunidade privada da qual ele não faz parte
 
 ### US14 - Entrar em uma comunidade
 
