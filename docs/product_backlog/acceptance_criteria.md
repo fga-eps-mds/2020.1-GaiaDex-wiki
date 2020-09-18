@@ -62,13 +62,17 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US09 - Visualizar minha conta
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá visualizar o nome cadastrado
+- [ ] O usuário poderá visualizar o email cadastrado
+- [ ] O usuário poderá visualizar a foto de perfil utilizada
+- [ ] O usuário poderá visualizar o menu de configurações
 
 ### US10 - Visualizar configurações da conta
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá visualizar as Politicas de Privacidade do aplicativo
+- [ ] O usuário poderá visualizar os Termos de Uso
+- [ ] O usuário poderá visualizar botão de Ajuda
+- [ ] O usuário poderá visualizar o botão de Privacidade
 
 ### US11 - Alterar os dados cadastrados na minha conta
 
@@ -86,23 +90,27 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 ### US13 - Visualizar perfil de outro usuário
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá visualizar o nome do outro usuário
+- [ ] O usuário poderá visualizar a foto de perfil do outro usuário
+- [ ] O usuário poderá, de acordo com as configurações de privacidade do outro usuário, visualizar a lista de amigos do outro usuário
+- [ ] O usuário poderá, de acordo com as configurações de privacidade do outro usuário, visualizar as publicações deste usuário
 
 ### US14 - Bloquear outro usuário
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de bloquear o outro usuário
+- [ ] O sistema deverá adicionar o outro usuário à lista de bloqueio deste usuário
+- [ ] O sistema deverá garantir que o usuário nunca verá nada que dê indicios da existencia do outro usuário (perfil, comentarios, posts...), e vice-versa
 
 ### US15 - Adicionar amizade
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O sistema deverá notificar o usuário solicitado sobre o pedido.
+- [ ] O usuário poderá aceitar ou recusar uma solicitação de amizade.
+- [ ] O usuário poderá enviar uma solicitação de amizade à qualquer usuário.
 
 ### US16 - Remover amizade
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de remover a amizade ou não
+- [ ] O sistema deverá encerrar a conexão entre os dois usuários
 
 ### US17 - Visualizar membros da comunidade
 
@@ -319,4 +327,3 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 ### US60 - Pausar um anúncio
 
 - [ ] O usuário poderá esconder/pausar um anúncio feito por ele anteiormente por meio de outro botão no marketplace
-
