@@ -60,7 +60,17 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O sistema deve invalidar a sessão do usuário
 - [ ] O sistema deve redirecionar o usuário à tela de login
 
-### US09 - Alterar os dados cadastrados na minha conta
+### US09 - Visualizar minha conta
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US10 - Visualizar configurações da conta
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US11 - Alterar os dados cadastrados na minha conta
 
 - [ ] O usuário poderá alterar seu username
 - [ ] O usuário poderá alterar seu email
@@ -68,104 +78,124 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O usuário poderá alterar sua senha
 - [ ] O sistema deve validar as modificações fornecidas pelo usuário
 
-### US10 - Deletar minha conta
+### US12 - Deletar minha conta
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar a conta ou não
 - [ ] O sistema deve invalidar a sessão do usuário
 - [ ] O sistema deve remover todos os dados pessoais do usuario do banco de dados
 
-### US11 - Visualizar membros da comunidade
+### US13 - Visualizar perfil de outro usuário
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US14 - Bloquear outro usuário
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US15 - Adicionar amizade
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US16 - Remover amizade
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US17 - Visualizar membros da comunidade
 
 - [ ] Visualizar cargo de cada membro da comunidade
 
-### US12 - Visualizar feed da comunidade
+### US18 - Visualizar feed da comunidade
 
 - [ ] Visualizar posts de amigos no feed
 - [ ] Visualizar posts relacionados a uma planta favorita no feed
 
-### US13 - Visualizar a privacidade (publica, privada) da comunidade
+### US19 - Visualizar a privacidade (publica, privada) da comunidade
 
 - [ ] O usuário nã poderá ver o feed de uma comunidade privada da qual ele não faz parte
 
-### US14 - Entrar em uma comunidade
+### US20 - Entrar em uma comunidade
 
 - [ ] O usuário poderá apertar em um botão escrito "Entrar" no perfil da comunidade
 - [ ] O sistema deve enviar uma mensagem para o dono da comunidade avisando do interesse do usuário de entrar na comunidade
 
-### US15 - Sair de uma comunidade
+### US21 - Sair de uma comunidade
 
 - [ ] O usuário poderá apertar em um botão escrito "Sair" no perfil da comunidade
 - [ ] O sistema deve enviar uma mensagem perguntando se o usuário quer mesmo sair da comunidade
 
-### US16 - Criar comunidade
+### US22 - Criar comunidade
 
 - [ ] O usuário que criar uma comunidade será o dono da mesma
 - [ ] O usuário deverá definir a privacidade da comunidade
 - [ ] O sistema deverá criar as abas de perfil, membros e configurações da comunidade
 
-### US17 - Deletar comunidade
+### US23 - Deletar comunidade
 
 - [ ] O dono da comunidade poderá apertar um botão escrito "Deletar comunidade" nas configurações da comunidade para deletar a mesma
 - [ ] O sistema deverá retirar todos os membros da comunidade deletada
 
-### US18 - Alterar configurações da comunidade
+### US24 - Alterar configurações da comunidade
 
 - [ ] O dono da comunidade poderá alterar a privacidade da comunidade nas configurações da mesma
 
-### US19 - Enviar convite para usuários ingressarem na comunidade
+### US25 - Enviar convite para usuários ingressarem na comunidade
 
 - [ ] O dono de comunidade pode enviar convite para membros ingressarem em sua comunidade
 - [ ] Os membros convidados podem ingressar na comunidade apertando em um botão "Aceitar" localizado no convite
 
-### US20 - Expulsar membro da comunidade
+### US26 - Expulsar membro da comunidade
 
 - [ ] O dono de comunidade pode remover um membro da mesma apertando um botão do lado do username do membro desejado
 - [ ] O sistema deverá perguntar ao dono da comunidade se ele deseja realmente excluir o membro da mesma
 
-### US21 - Criar tópico em um fórum de planta
+### US27 - Criar tópico em um fórum de planta
 
 - [ ] O usuário deve definir um titulo para o tópico
 - [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio
 - [ ] O usuário poderá inserir uma descrição do tópico
 
-### US22 - Editar tópico criado por mim
+### US28 - Editar tópico criado por mim
 
 - [ ] O usuário poderá editar o nome do tópico
 - [ ] O usuário poderá editar o conteúdo do tópico
 - [ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio
 
-### US23 - Deletar o tópico criado por mim
+### US29 - Deletar o tópico criado por mim
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar o tópico ou não
 - [ ] O sistema deve deletar o tópico e todos os comentários realizados dentro do mesmo
 
-### US24 - Upvote e downvote em um tópico
+### US30 - Upvote e downvote em um tópico
 
 - [ ] O usuário, excetuando-se o criador do próprio tópico, poderá dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos
 - [ ] O usuário poderá desfazer qualquer uma das ações
 - [ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes
 
-### US25 - Criar comentário em um tópico
+### US31 - Criar comentário em um tópico
 
 - [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
 
-### US26 - Editar comentário que fiz em um tópico
+### US32 - Editar comentário que fiz em um tópico
 
 - [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
 
-### US27 - Remover um comentário que fiz em um tópico
+### US33 - Remover um comentário que fiz em um tópico
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar o comentário ou não
 - [ ] O sistema deve trocar o conteudo da mensagem por algo explicativo (ex: "comentário removido pelo usuário")
 - [ ] O sistema deve manter a existência dos comentários em resposta ao comentário removido
 
-### US28 - Upvote e downvote em um comentário
+### US34 - Upvote e downvote em um comentário
 
 - [ ] O usuário, excetuando-se o criador do próprio comentário, poderá dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos
 - [ ] O usuário poderá desfazer qualquer uma das ações
 - [ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes
 
-### US29 - Visualizar informações sobre a planta
+### US35 - Visualizar informações sobre a planta
 
 - [ ] O usuário poderá visualizar o nome da família desta planta
 - [ ] O usuário poderá visualizar o nome do gênero desta planta
@@ -173,25 +203,25 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O usuário poderá visualizar o nome comum da planta
 - [ ] O usuário poderá visualizar uma imagem de “perfil” da planta
 
-### US30 - Adicionar planta aos meus Favoritos
+### US36 - Adicionar planta aos meus Favoritos
 
 - [ ] O usuário deverá apertar em um botão no card de planta para adicionar a mesma aos favoritos
 - [ ] O sistema deverá enviar a referida planta a coleção de favoritos
 
-### US31 - Remover uma planta da minha coleção de favoritos
+### US37 - Remover uma planta da minha coleção de favoritos
 
 - [ ] O botão de enviar aos favoritos irá se transformar em botão de remover dos favoritos se a referida planta já estiver na coleção de favoritos
 - [ ] O sistema deverá remover a referida planta da coleção de favoritos
 
-### US32 - Visualizar minha coleção de favoritos
+### US38 - Visualizar minha coleção de favoritos
 
 - [ ] O usuário poderá abrir os cards de planta diretamente da aba de favoritos
 
-### US33 - Publicar fotos & textos
+### US39 - Publicar fotos & textos
 
 - [ ] O usuário poderá publicar fotos e textos apertando em um botão na timeline
 
-### US34 - Visualizar posts de minhas conexões
+### US40 - Visualizar posts de minhas conexões
 
 - [ ] O usuário poderá visualizar o nome de quem publicou o post
 - [ ] O usuário poderá visualizar a tag/username/apelido de quem publicou
@@ -199,93 +229,94 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [ ] O usuário poderá visualizar a foto publicada pelo usuário
 - [ ] O usuário poderá visualizar a legenda da foto publicada pelo usuário
 
-### US35 - Visualizar trending topics sobre minhas plantas favoritadas
+### US41 - Visualizar trending topics sobre minhas plantas favoritadas
 
 - [ ] O usuário poderá ver no seu feed os trending topics sobre as plantas favoritadas
 
-### US36 - Curtir/descurtir posts que aparecem na minha timeline
+### US42 - Curtir/descurtir posts que aparecem na minha timeline
 
 - [ ] O usuário poderá apertar em um botão curtir ou em um botão descutir nos posts que aparecem na timeline do mesmo
 
-### US37 - Salvar um post na minha coleção de Posts Salvos
+### US43 - Salvar um post na minha coleção de Posts Salvos
 
 - [ ] O usuário poderá apertar em um botão nas opções do post para adicioná-lo a coleção de posts salvos
 - [ ] O usuário poderá remover um post de sua coleção de posts salvos
 
-### US38 - Comentar em um post na minha timeline
+### US44 - Comentar em um post na minha timeline
 
 - [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
 - [ ] Outro usuário poderá responder ao seu comentário, que por sua vez poderá ser respondido também
 
-### US39 - Editar um comentário que fiz em algum post
+### US45 - Editar um comentário que fiz em algum post
 
 - [ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio
 
-### US40 - Remover um comentario que fiz em algum post
+### US46 - Remover um comentario que fiz em algum post
 
 - [ ] O sistema deverá remover todas as respostas a um comentário que foi removido de um post
 
-### US41 - Adicionar apelido à minha planta
+### US47 - Adicionar apelido à minha planta
 
 - [ ] O usuário deverá adicionar um apelido a sua planta após o processo de scanneamento da mesma
 - [ ] O usuário poderá alterar o apelido da planta a qualquer momento em sua coleção
 
-### US42 - Definir configurações de notificação
+### US48 - Definir configurações de notificação
 
 - [ ] O usuário deverá receber notificação quando um amigo publicar um post
 - [ ] O usuário deverá receber notificação quando um amigo comentar em um posto do mesmo
 - [ ] O usuário poderá escolher se deseja receber ou não notificações
 
-### US43 - Definir uma meta na criação de uma comunidade
+### US49 - Definir uma meta na criação de uma comunidade
 
 - [ ] O dono de comunidade deverá definir uma meta no processo de criação da comunidade
 - [ ] A barra de progresso da meta deverá ser atualizada pelo dono de comunidade
 
-### US44 - Definir o local de realização da meta
+### US50 - Definir o local de realização da meta
 
 - [ ] O dono de comunidade deverá definir um local existente
 
-### US45 - Visualizar comunidades que possuam metas definidas em locais próximos
+### US51 - Visualizar comunidades que possuam metas definidas em locais próximos ao que me localizo
 
-- [ ] O dono de comunidade, após definir sua meta, poderá ver outras comunidade com metas definidas no mesmo local que a sua
+- [ ] criterio1
+- [ ] criterio2
 
-### US46 - Informar acerca de outras comunidades com metas no mesmo local
+### US52 - Informar acerca de outras comunidades com metas no mesmo local
 
 - [ ] O dono de comunidade deverá ser informado, no ato de criação de uma comunidade, caso haja outras comunidades com metas orientadas àquele local
 
-### US47 - Visualizar produtos por categorias (vegetais, ervas, etc)
+### US53 - Visualizar produtos por categorias (vegetais, ervas, etc)
 
 - [ ] O usuário poderá navegar pelo marketplace por meio de abas de categorias
 - [ ] Os produtos deverão ser categorizados
 
-### US48 - Pesquisar produtos por nome
+### US54 - Pesquisar produtos por nome
 
 - [ ] O usuário poderá digitar o nome do produto que está procurando
 - [ ] Se o produto não existe, o sistema deverá exibir uma mensagem: "Desculpe, mas não existem produtos com este nome"
 
-### US49 - Filtrar produtos por avaliação, preço, categoria etc
+### US55 - Filtrar produtos por avaliação, preço, categoria etc
 
 - [ ] O usuário poderá utilizar filtros localizados no topo do marketplace
 - [ ] Quando pelo menos um filtro estiver selecionado, aparecerá um botão próximo aos filtros que permite ao usuário limpar todos os filtros
 
-### US50 - Comprar produto pelo aplicativo (com cartão, por exemplo)
+### US56 - Comprar produto pelo aplicativo (com cartão, por exemplo)
 
 - [ ] O usuário poderá escolher entre compar com o aplicativo ou não durante o processo da compra
 
-### US51 - Avaliar minha ultima compra
+### US57 - Avaliar minha ultima compra
 
 - [ ] Após finalizada a compra, deverá aparecer ao usuário uma mensagem pedindo que o mesmo avalie o produto quando ele chegar
 
-### US52 - Fazer um anúncio
+### US58 - Fazer um anúncio
 
 - [ ] O vendedor poderá anunciar um produto por meio de um botão no marketplace
 - [ ] O vendedor deverá definir o nome, o preço e mais algumas informações acerca do produto
 
-### US53 - Remover um anúncio
+### US59 - Remover um anúncio
 
 - [ ] O vendedor poderá retirar um anúncio feito anteriormente por ele a qualquer momento por meio de outro botão no marketplace
 
-### US54 - Pausar um anúncio
+### US60 - Pausar um anúncio
 
 - [ ] O usuário poderá esconder/pausar um anúncio feito por ele anteiormente por meio de outro botão no marketplace
 
