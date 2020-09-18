@@ -48,6 +48,14 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![](img/commits.png)
 
+Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
+
+![](img/commits_back.png)
+
+Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
+
+![](img/commits_front.png)
+
 ### 1.4 _Velocity_
 
 ![](img/velocity.jpg)

@@ -44,39 +44,54 @@
 * Plano de comunicação
 * Documento Suplementar
 * Evolução do Protótipo
-* US05 - Cadastrar minha conta no aplicativo
-* US08 - Fazer login no aplicativo
-* US09 - Fazer logout no aplicativo
-* US10 - Alterar os dados cadastrados na minha conta
-* US11 - Deletar minha conta
-* US30 - Visualizar informações sobre a planta
+* US04 - Cadastrar minha conta no aplicativo (BackEnd)
+* US07 - Fazer login no aplicativo (BackEnd)
+* US08 - Fazer logout no aplicativo (BackEnd)
+* US09 - Alterar os dados cadastrados na minha conta (BackEnd)
+* US10 - Deletar minha conta (BackEnd)
+* US29 - Visualizar informações sobre a planta (BackEnd)
 * Popular banco com PlantNet
 
 ### Sprint 3
 
+Documentos:
+
 * Critérios Extras
 * EAP
-* EVM
-* Benchmark
 * Guia de Estilo
 * Documento de Identidade Visual
-* Deploy contínuo
-* Criar estrutura do fórum
-* US01 - Scannear planta
-* US22 - Criar tópico em um fórum de planta
-* US23 - Editar tópico criado por mim
-* US24 - Deletar o tópico criado por mim
-* US25 - Upvote e downvote em um tópico
-* US26 - Criar comentário em um tópico
-* US27 - Editar comentário que fiz em um tópico
-* US28 - Remover um comentário que fiz em um tópico
-* US29 - Upvote e downvote em um comentário	julgar
-  
+* Atualizar arquitetura
+* Atualizar RoadMap (até Release 2)
+* Critérios Extras
+* Gerar todas as issues nos repositórios
+
+Backend:
+* US21 - Criar tópico em um fórum de planta (Backend)
+* US22 - Editar tópico criado por mim (Backend)
+* US23 - Deletar o tópico criado por mim (Backend)
+* US24 - Upvote e downvote em um tópico (Backend)
+* US25 - Criar comentário em um tópico (Backend)
+* US26 - Editar comentário que fiz em um tópico (Backend)
+* US27 - Remover um comentário que fiz em um tópico (Backend)
+* US28 - Upvote e downvote em um comentário (Backend)
+
+Frontend:
+* US04 - Cadastrar minha conta no aplicativo (FrontEnd)
+* US07 - Fazer login no aplicativo (FrontEnd)
+* US08 - Fazer logout no aplicativo (FrontEnd)
+* US09 - Alterar os dados cadastrados na minha conta (FrontEnd)
+* US10 - Deletar minha conta (FrontEnd)
+* US29 - Visualizar informações sobre a planta (FrontEnd)
+
 ### Sprint 4 (Release 1)
 
-****
+* US01 - Scannear planta
+* Deploy contínuo
+* EVM
+* Configurar Lint com Guia de Estilo
 
 ### Sprint 5
 
+* Benchmark
 * feed do usuário(onde posta e visualiza o que os amigos postaram)
 * sistema de pontuação/gameficação
