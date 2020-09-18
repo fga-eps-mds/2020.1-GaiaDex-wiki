@@ -49,13 +49,12 @@ Este artefato diz respeito a uma lista de critérios extras em relação às _hi
 
 ### US09 - Visualizar minha conta
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá visualizar quantos amigos possui adicionado
+- [ ] O usuário poderá ver um com as fotos dos scans realizados (com sucesso)
 
 ### US10 - Visualizar configurações da conta
 
-- [ ] criterio1
-- [ ] criterio2
+- [ ] O usuário poderá visualizar um botão de Definir Idioma
 
 ### US11 - Alterar os dados cadastrados na minha conta
 
@@ -318,4 +317,3 @@ Este artefato diz respeito a uma lista de critérios extras em relação às _hi
 
 - [ ] criterio1
 - [ ] criterio2
-
