@@ -55,6 +55,8 @@
 ### Sprint 3
 
 Documentos:
+
+* Critérios Extras
 * EAP
 * Guia de Estilo
 * Documento de Identidade Visual
