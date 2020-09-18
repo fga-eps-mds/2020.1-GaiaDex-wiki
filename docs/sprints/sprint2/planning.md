@@ -94,7 +94,7 @@ Extra: Victor Hugo
 
 Resultado Final - 8
 
-[issue 37 - Plano de gerenciamento de riscos](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/37)
+[Issue 37 - Plano de gerenciamento de riscos](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/37)
 
 Não houve votação para essa issue. Assumimos a pontuação. 
 
@@ -145,7 +145,7 @@ Resultado Final - 3
   
 Resultado Final - 8
 
-Issue 05 - US05 - Cadastrar minha conta no aplicativo[Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/5)[Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4)
+[Issue 05 (backend) - US04 - Cadastrar minha conta no aplicativo(Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/5)
 
 * João Vítor - 5
 * Makaha - 5
@@ -160,7 +160,7 @@ Issue 05 - US05 - Cadastrar minha conta no aplicativo[Backend](https://github.co
   
 Resultado Final - 5
 
-US06 - Fazer login no aplicativo [Backend](US06 - Fazer login no aplicativo) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5)
+[Issue 06 (backend) - US07 - Fazer login no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)
 
 * João Vítor - 3
 * Makaha - 3
@@ -175,7 +175,7 @@ US06 - Fazer login no aplicativo [Backend](US06 - Fazer login no aplicativo) [Fr
   
 Resultado Final - 5
 
-US07 - Fazer logout no aplicativo [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7) [FrontEnd](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)
+[Issue 07 (backend) - US08 - Fazer logout no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7)
 
 * João Vítor - 2
 * Makaha - 2
@@ -190,7 +190,7 @@ US07 - Fazer logout no aplicativo [Backend](https://github.com/fga-eps-mds/2020.
   
 Resultado Final - 3
 
-US08 - Alterar os dados cadastrados na minha conta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) [FrontEnd](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9)
+[Issue 08 (backend) - US09 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) 
 
 * João Vítor - 3
 * Makaha - 2
@@ -205,7 +205,7 @@ US08 - Alterar os dados cadastrados na minha conta [Backend](https://github.com/
   
 Resultado Final - 2
 
-US09 - Deletar minha conta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7)
+[Issue 10 (backend) - US09 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)
 
 * João Vítor - 2
 * Makaha - 2
@@ -220,7 +220,7 @@ US09 - Deletar minha conta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo
   
 Resultado Final - 2
 
-US28 - Visualizar informações sobre a planta [Backend](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11) [Frontend](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8)
+[Issue 11 (backend) - US28 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)
 
 * João Vítor - 8
 * Makaha - 8
@@ -235,7 +235,7 @@ US28 - Visualizar informações sobre a planta [Backend](https://github.com/fga-
 
 Resultado Final - 8
 
-[Issue 12 - Popular banco com PlantNet](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/12)
+[Issue 12 (backend) - Popular banco com PlantNet](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/12)
 
 * João Vítor - 8
 * Makaha - 5
