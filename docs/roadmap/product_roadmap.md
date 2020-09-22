@@ -85,13 +85,15 @@ Frontend:
 
 ### Sprint 4 (Release 1)
 
-* US01 - Scannear planta
+* US09 - Visualizar minha conta
+* US10 - Visualizar configurações da conta  
 * Deploy contínuo
 * EVM
 * Configurar Lint com Guia de Estilo
 
 ### Sprint 5
 
+* US01 - Scannear planta
 * Benchmark
 * feed do usuário(onde posta e visualiza o que os amigos postaram)
 * sistema de pontuação/gameficação
