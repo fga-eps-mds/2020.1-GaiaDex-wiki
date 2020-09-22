@@ -48,18 +48,18 @@ MDS
 
 Dupla 1: Arthur e Victor Santos
 
-* US05 - Cadastrar minha conta no aplicativo
-* US08 - Alterar os dados cadastrados na minha conta
-* US09 - Deletar minha conta
+* US04 - Cadastrar minha conta no aplicativo
+* US11 - Alterar os dados cadastrados na minha conta
+* US12 - Deletar minha conta
 
 Dupla 2: Marcos Gabriel e Vinicius
 
-* US06 - Fazer login no aplicativo
-* US07 - Fazer logout no aplicativo
+* US07 - Fazer login no aplicativo
+* US08 - Fazer logout no aplicativo
  
 Dupla 3: Marcos Felipe e Antonio Ruan
 
-* US28 - Visualizar informações sobre a planta
+* US35 - Visualizar informações sobre a planta
 * Popular banco com PlantNet
 
 Extra: Victor Hugo
@@ -190,7 +190,7 @@ Resultado Final - 5
   
 Resultado Final - 3
 
-[Issue 08 (backend) - US09 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) 
+[Issue 08 (backend) - US11 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) 
 
 * João Vítor - 3
 * Makaha - 2
@@ -205,7 +205,7 @@ Resultado Final - 3
   
 Resultado Final - 2
 
-[Issue 10 (backend) - US09 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)
+[Issue 10 (backend) - US12 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)
 
 * João Vítor - 2
 * Makaha - 2
@@ -220,7 +220,7 @@ Resultado Final - 2
   
 Resultado Final - 2
 
-[Issue 11 (backend) - US28 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)
+[Issue 11 (backend) - US35 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)
 
 * João Vítor - 8
 * Makaha - 8
