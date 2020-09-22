@@ -47,110 +47,139 @@ Este artefato diz respeito a uma lista de critérios extras em relação às _hi
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US09 - Alterar os dados cadastrados na minha conta
+### US09 - Visualizar minha conta
+
+- [ ] O usuário poderá visualizar quantos amigos possui adicionado
+- [ ] O usuário poderá ver um com as fotos dos scans realizados (com sucesso)
+
+### US10 - Visualizar configurações da conta
+
+- [ ] O usuário poderá visualizar um botão de Definir Idioma
+
+### US11 - Alterar os dados cadastrados na minha conta
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US10 - Deletar minha conta
+### US12 - Deletar minha conta
 
 - [ ] O sistema deve manter os tópicos e comentários nos fóruns (com a tag "usuario removido")
 - [ ] O sistema deve remover os posts, comentários em posts (tanto em comunidades como no próprio feed)
 
-### US11 - Visualizar membros da comunidade
+### US13 - Visualizar perfil de outro usuário
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US14 - Bloquear outro usuário
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US15 - Adicionar amizade
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US16 - Remover amizade
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US17 - Visualizar membros da comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US12 - Visualizar feed da comunidade
+### US18 - Visualizar feed da comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US13 - Visualizar a privacidade (publica, privada) da comunidade
+### US19 - Visualizar a privacidade (publica, privada) da comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US14 - Entrar em uma comunidade
+### US20 - Entrar em uma comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US15 - Sair de uma comunidade
+### US21 - Sair de uma comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US16 - Criar comunidade
+### US22 - Criar comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US17 - Deletar comunidade
+### US23 - Deletar comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US18 - Alterar configurações da comunidade
+### US24 - Alterar configurações da comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US19 - Enviar convite para usuários ingressarem na comunidade
+### US25 - Enviar convite para usuários ingressarem na comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US20 - Expulsar membro da comunidade
+### US26 - Expulsar membro da comunidade
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US21 - Criar tópico em um fórum de planta
+### US27 - Criar tópico em um fórum de planta
 
 - [ ] O usuário deve poder editar o estilo da descrição (tipo de fonte (título, subtitulo ou normal), negrito, sublinhado, tachado, mono-espaçado, centralizado, justificado e/ou alinhado à esquerda)
 - [ ] O usuário deve poder adicionar imagens à descrição
 - [ ] O usuário deve poder adicionar hyperlinks à descrição
 
-### US22 - Editar tópico criado por mim
+### US28 - Editar tópico criado por mim
 
 - [ ] O sistema deve explicitar que aquele tópico foi editado (com tag '[editado]' por exemplo)
 
-### US23 - Deletar o tópico criado por mim
+### US29 - Deletar o tópico criado por mim
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar o tópico ou não
 - [ ] O sistema deve deletar o tópico e todos os comentários realizados dentro do mesmo
 
-### US24 - Upvote e downvote em um tópico
+### US30 - Upvote e downvote em um tópico
 
 - [ ] O usuário, excetuando-se o criador do próprio tópico, deve poder dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos
 - [ ] O usuário deve poder desfazer qualquer uma das ações
 - [ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes
 
-### US25 - Criar comentário em um tópico
+### US31 - Criar comentário em um tópico
 
 - [ ] O usuário deve poder adicionar hyperlinks ao comentário
 - [ ] O usuário deve poder adicionar imagens ao comentário
 - [ ] O usuário deve poder editar o estilo da descrição (negrito, sublinhado, tachado, mono-espaçado)
 
-### US26 - Editar comentário que fiz em um tópico
+### US32 - Editar comentário que fiz em um tópico
 
 - [ ] O sistema deve explicitar que aquele comentário foi editado (com tag '[editado]' por exemplo)
 
-### US27 - Remover um comentário que fiz em um tópico
+### US33 - Remover um comentário que fiz em um tópico
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar o comentário ou não
 - [ ] O sistema deve trocar o conteudo da mensagem por algo explicativo (ex: "comentário removido pelo usuário")
 - [ ] O sistema deve manter a existência dos comentários em resposta ao comentário removido
 
-### US28 - Upvote e downvote em um comentário
+### US34 - Upvote e downvote em um comentário
 
 - [ ] O usuário, excetuando-se o criador do próprio comentário, deve poder dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos
 - [ ] O usuário deve poder desfazer qualquer uma das ações
 - [ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes
 
-### US29 - Visualizar informações sobre a planta
+### US35 - Visualizar informações sobre a planta
 
 - [ ] O usuário deve poder acessar links com informações complementares
 - [ ] O usuário deve poder visualizar os casos comuns de uso desta planta
@@ -164,128 +193,127 @@ Este artefato diz respeito a uma lista de critérios extras em relação às _hi
 - [ ] O usuário deve poder visualizar ícone indicando o tamanho/porte da planta (pequena...grande)
 - [ ] O usuário deve poder visualizar fotos de outros usuários desta mesma planta
 
-### US30 - Adicionar planta aos meus Favoritos
+### US36 - Adicionar planta aos meus Favoritos
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US31 - Remover uma planta da minha coleção de favoritos
+### US37 - Remover uma planta da minha coleção de favoritos
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US32 - Visualizar minha coleção de favoritos
+### US38 - Visualizar minha coleção de favoritos
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US33 - Publicar fotos & textos
+### US39 - Publicar fotos & textos
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US34 - Visualizar posts de minhas conexões
+### US40 - Visualizar posts de minhas conexões
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US35 - Visualizar trending topics sobre minhas plantas favoritadas
+### US41 - Visualizar trending topics sobre minhas plantas favoritadas
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US36 - Curtir/descurtir posts que aparecem na minha timeline
+### US42 - Curtir/descurtir posts que aparecem na minha timeline
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US37 - Salvar um post na minha coleção de Posts Salvos
+### US43 - Salvar um post na minha coleção de Posts Salvos
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US38 - Comentar em um post na minha timeline
+### US44 - Comentar em um post na minha timeline
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US39 - Editar um comentário que fiz em algum post
+### US45 - Editar um comentário que fiz em algum post
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US40 - Remover um comentario que fiz em algum post
+### US46 - Remover um comentario que fiz em algum post
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US41 - Adicionar apelido à minha planta
+### US47 - Adicionar apelido à minha planta
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US42 - Definir configurações de notificação
+### US48 - Definir configurações de notificação
 
 - [ ] criterio 1
 - [ ] criterio 2
 
-### US43 - que o usuário seja obrigado a definir uma meta na criação de uma comunidade
+### US49 - Definir uma meta na criação de uma comunidade
 
 - [ ] criterio1
 - [ ] criterio2
 
-### US44 - que o usuário seja obrigado a definir o local onde dever-se-a realizar a tal meta
+### US50 - Definir o local de realização da meta
 
 - [ ] criterio1
 - [ ] criterio2
 
-### US45 - visualizar comunidades que possuam metas definidas em locais próximos ao que me localizo
+### US51 - Visualizar comunidades que possuam metas definidas em locais próximos ao que me localizo
 
 - [ ] criterio1
 - [ ] criterio2
 
-### US46 - ser informado, no ato de criação de uma comunidade, caso haja outras comunidades com metas orientadas àquele local
+### US52 - Informar acerca de outras comunidades com metas no mesmo local
 
 - [ ] criterio1
 - [ ] criterio2
 
-### US47 - visualizar produtos por categorias (vegetais, ervas, etc)
+### US53 - Visualizar produtos por categorias (vegetais, ervas, etc)
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US48 - pesquisar produtos por nome
+### US54 - Pesquisar produtos por nome
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US49 - filtrar produtos por avaliação, preço, categoria etc
+### US55 - Filtrar produtos por avaliação, preço, categoria etc
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US50 - comprar produto pelo aplicativo (com cartão, por exemplo)
+### US56 - Comprar produto pelo aplicativo (com cartão, por exemplo)
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US51 - avaliar minha ultima compra
+### US57 - Avaliar minha ultima compra
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US52 - fazer um anúncio
+### US58 - Fazer um anúncio
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US53 - remover um anúncio
+### US59 - Remover um anúncio
 
-- [ ] criterio 1
-- [ ] criterio 2
+- [ ] criterio1
+- [ ] criterio2
 
-### US54 - pausar um anúncio
+### US60 - Pausar um anúncio
 
-- [ ] criterio 1
-- [ ] criterio 2
-
+- [ ] criterio1
+- [ ] criterio2
