@@ -46,15 +46,20 @@ def gen_acex_list(us_number, filename):
 def remove_duplicates(filepath):
     s = OrderedDict()
     for line in open(filepath, 'r'):
-        s[line] = None
+        if '| title | description |' not in line and '| ----- | ----------- |' not in line:
+            s[line] = None
 
     with open(filepath, 'w') as file:
         file.write(
             '| title | description | acceptance criteria | tasks |\n| ----- | ----------- | ------------------- | ----- |\n')
         file.writelines(s.keys())
 
+def number_of_user_stories():
+    with open(pb_file_path, 'r') as f:
+        f = f.read()
+        return len(f.split('| US'))
 
-for i in range(1, 55):
+for i in range(1, number_of_user_stories()):
     issue_title, description = gen_description(i)
     ac = gen_acex_list(i, ac_file_path)
     ex = gen_acex_list(i, ex_file_path)
