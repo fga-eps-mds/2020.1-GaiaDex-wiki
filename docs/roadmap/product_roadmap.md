@@ -62,7 +62,6 @@ Documentos:
 * Documento de Identidade Visual
 * Atualizar arquitetura
 * Atualizar RoadMap (até Release 2)
-* Critérios Extras
 * Gerar todas as issues nos repositórios
 
 Backend:
@@ -83,17 +82,89 @@ Frontend:
 * US12 - Deletar minha conta (FrontEnd)
 * US23 - Visualizar informações sobre a planta (FrontEnd)
 
-### Sprint 4 (Release 1)
+### Sprint 4
 
-* US09 - Visualizar minha conta
-* US10 - Visualizar configurações da conta  
-* Deploy contínuo
-* EVM
-* Configurar Lint com Guia de Estilo
+* US02 - Visualizar minha coleção
+* US03 - Visualizar informações da minha planta
+* US09 - Visualizar minha conta (tela de perfil)
+* US10 - Visualizar configurações da conta (tela de configurações)
+* US13 - Visualizar perfil de outro usuário
+* Matar dívidas técnicas
+
 
 ### Sprint 5
 
+* Testes nas histórias já feitas no backend (Jest)
+* Configurar Lint com Guia de Estilo
+* Integração contínua
+* EVM
+* Plano de custos
+* Plano de pipeline devops
+* Configurar CI/CD
+* Teste de usabilidade
+* Cobertura de Testes Code Climate
+* Plano de qualidade
+* Plano de GCS
+* Testes exploratórios
+
+* Preparar apresentação R1
 * US01 - Scannear planta
+* US36 - Adicionar planta aos meus favoritos
+* US37 - Remover planta da minha coleção de favoritos
+* US38 - Visualizar minha coleção de favoritos
+* US47 - Adicionar apelido à minha planta
+* US48 - Definir configurações de notificação
+* Testes nas histórias já feitas no frontend
+
+## Release 1 (08/10)
+  
+### Sprint 6
+
 * Benchmark
-* feed do usuário(onde posta e visualiza o que os amigos postaram)
-* sistema de pontuação/gameficação
+* US05 - Cadastrar/ fazer login com Facebook
+* US06 - Cadastrar/ fazer login com Google
+* US14 - Bloquear outro usuário
+* US15 - Adicionar amizades
+* US16 - Remover amizades
+* US39 - Publicar fotos & textos
+* US40 - Visualizar posts de minhas conexões
+
+### Sprint 7
+
+* US41 - Visualizar trending topics sobre minhas plantas favoritadas
+* US42 - Curtir/descurtir posts que aparecem na minha timeline
+* US43 - Salvar um post na minha coleção de Posts Salvos
+* US44 - Comentar em um post na minha timeline
+* US45 - Editar um comentário que fiz em algum post
+* US46 - Remover um comentario que fiz em algum post
+
+### Sprint 8
+
+* j
+  
+
+### Sprint 9
+
+* j
+
+### Sprint 10
+
+* j
+
+### Sprint 11
+
+* j
+  
+### Sprint 12
+
+* j
+
+### Sprint 13
+
+* j
+
+### Sprint 14
+
+* j
+
+## Release 2
