@@ -6,7 +6,9 @@
 | :-:   |  :-:   |    :-:    |    :-:                              |
 | 12/09 |  0.1   |  Criação da estrutura do documento | [João Vítor](http://github.com/joaovitorml) |
 | 13/09 |  0.2   | Atualização do sumário |  [João Vítor](http://github.com/joaovitorml)           |
-| 13/09 |  1.0   |  | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
+| 13/09 |  1.0   | Criação do Documento | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
+| 13/09 |  1.1   | Atualização de diagrama de classes e backend pkg | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
+
 
 ## Sumário
 
