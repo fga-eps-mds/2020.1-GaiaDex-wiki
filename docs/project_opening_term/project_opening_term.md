@@ -6,6 +6,7 @@
 |   :-:     |  :-:   |  :-:                 |  :-:       |
 | 12/09/2020|  0.1   | Criação do Documento | [Rafael Makaha](https://github.com/rafaelmakaha) |
 | 15/09/2020 | 1.0 | Término da primeira versão do documento | [João Vítor](https://github.com/joaovitorml) e [Rafael Makaha](https://github.com/rafaelmakaha)
+| 27/09/2020 | 1.1 | Atualização do documento com nova versão do documento de visão | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
 
 ## Sumário
 
@@ -33,21 +34,21 @@
 
 ## 1. Introdução
 
-Este documento tem como objetivo concretizar e acordar o desenvolvimento e gestão do projeto <nome_do_projeto> e definir as relações entre os stakeholders, bem como definir os marcos, orçamento e escopo do projeto.
+Este documento tem como objetivo concretizar e acordar o desenvolvimento e gestão do projeto GaiaDex e definir as relações entre os stakeholders, bem como definir os marcos, orçamento e escopo do projeto.
 
 ## 2. Descrição do Projeto
 
-O projeto consiste na criação de uma aplicação que possibilite o scanneamento de plantas, criação de comunidades, criação de tópicos em fóruns de discussão, criação de plantas favoritas, entre outros.
+O projeto consiste na criação de um aplicativo Mobile que possibilite o scanneamento de plantas, criação de tópicos em fóruns de discussão e categorização de plantas favoritas.
 
 ## 3. Propósito e Justificativa do Projeto
 
-O <nome_do_projeto> se dá pelo objetivo de unificar e facilitar a troca de conhecimentos entre os cultivadores de plantas ao redor do mundo.
+O GaiaDex se dá pelo objetivo de unificar e facilitar a troca de conhecimentos entre os botânicos ao redor do mundo.
 
-Alguns dos principais problemas atuais dos cultivadores de plantas é de identificação da planta que possui em casa, ou seja, há o cultivo da mesma, mas sem mais informações específicas a respeito desta espécime.
+Alguns dos principais problemas atuais dos cultivadores de plantas é a identificação da planta que possui em casa, ou seja, há o cultivo da mesma, mas sem mais informações específicas a respeito desta espécime.
 
 Outro problema muito comum é a falta de colaboração entre estes cultivadores, pois não existem atualmente muitos locais de troca de informação com essa temática.
 
-O aplicativo do <nome_do_projeto> virá para sanar esses problemas recorrentes.
+O aplicativo do GaiaDex virá para sanar esses problemas recorrentes.
 
 ## 4. Objetivos do Projeto
 
@@ -56,9 +57,9 @@ O objetivo da aplicação é melhorar a integração da sociedade com uma área 
 ## 5. Requisitos de Alto Nível
 
 * O design será simples e a aplicação será de fácil uso;
-* Os  usuários poderão scannear as plantas que encontrarem para descobrir informações obre a mesma;
-* Os usuários poderão postar tópicos nos fóruns das plantas;
-* Os usuários poderão criar e entrar em comunidades;
+* Permitir que os  usuários possam scannear as plantas que encontrarem para descobrir informações sobre a mesma;
+* Permitir que os usuários possam abrir tópicos nos fóruns de plantas;
+* Permitir que os usuários possam comentar em tópicos nos fóruns de plantas;
 
 ## 6. Resumo do Cronograma de Marcos
 
@@ -89,11 +90,9 @@ Os recursos físicos necessários para o desenvolvimento do projeto é que cada 
 
 ## 8. Lista das Partes Interessadas
 
-* Estusiastas da botânica e/ou da agronomia.
-* Equipe de Gerência de Projetos e Portfólios de Software.
-* A equipe de Engenharia de Produto de Software (EPS) é composta por alunos da disciplina de mesmo nome da Universidade de Brasília campus gama, responsáveis pela gerência do projeto.
-* Equipe de Desenvolvimento de Software.
-* A equipe de desenvolvimento de software é composta pelos alunos da disciplina Métodos de Desenvolvimento de Software da Universidade de Brasília campus Gama.
+* Entusiastas da botânica e/ou da agronomia.
+* Equipe de Gerência de Projetos,a qual é composta por alunos da disciplina de mesmo nome da Universidade de Brasília campus gama, responsáveis pela gerência do projeto.
+* Equipe de Desenvolvimento de Software, a qual é composta pelos alunos da disciplina Métodos de Desenvolvimento de Software da Universidade de Brasília campus Gama.
 
 | Foto | Nome | Email | GitHub |
 |:----:|:------------------------:|:-----:|:------:|
