@@ -6,6 +6,7 @@
 |   :-:     |  :-:   |  :-:                 |  :-:       |
 | 12/09/2020|  1.0   | Criação do documento | João Vítor |
 | 12/09/2020|  1.0   | Adiciona ScrumPoker | Rafael Makaha |
+| 27/09/2020|  1.1   | Atualização do tópico 2.1 | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura) |
 
 ## Sumário
 
@@ -31,7 +32,7 @@ Este documento tem como finalidade descrever os processos utilizados pela equipe
 
 Foram criadas dailies com o objetivo de cada membro poder informar o status atual de suas atividades.
 <br>
-Como o próprio nome diz, elas são feitas diariamente, por volta das 21h, com cada membro enviando uma mensagem de texto respondendo a essas 3 perguntas:
+Como o próprio nome diz, elas são feitas diariamente, por volta das 22h, com cada membro enviando uma mensagem de texto respondendo a essas 3 perguntas:
 
 * O que fiz hoje?
 * Quais foram os problemas que encontrei?
