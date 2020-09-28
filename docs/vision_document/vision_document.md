@@ -13,6 +13,8 @@
 | 25/09/2020 | 1.1 | Atualização de tópicos 1 a 5 | Rafael Makaha e Ruan Moura 
 | 26/09/2020 | 1.2 | Adição de personas | João Vítor e Vinícius | 
 | 27/09/2020 | 1.3 | Adição tópico 6 | João Vítor, Vinícius e Victor Samuel | 
+| 27/09/2020 | 1.4 | Adição tópico 4.3.1 | João Vítor, Vinícius e Victor Samuel | 
+
 
 
 ## Sumário
@@ -36,6 +38,7 @@
 * [4.1 Equipe de Gerência](#41-equipe-de-gerência)
 * [4.2 Equipe de Desenvolvimento](#42-equipe-de-desenvolvimento)
 * [4.3 Cliente](#43-cliente)
+    * [4.3.1 Personas](#431-personas)
 
 [5. Visão Geral do Produto](#5-visão-geral-do-produto)
 * [5.1 Perspectiva do Produto](#51-perspectiva-do-produto)
@@ -117,66 +120,11 @@ O usuário necessita de um dispositivo móvel Android quanto para iOS, necessita
 
 #### 4.3.1 Personas
 
-PERSONA 1
-Persona: Pessoa comum com jardim
-Foto:
-Nome: Mariana Morandi Lemos
-Profissão: Designer de interiores
-Características:
-25 anos
-Solteira
-Mora sozinha
-Tem um gato
-Objetivos: Ela trata a botânica como um hobby, deseja um ambiente verde para decorar o exterior de sua casa
-Tarefas:
-Cuida do jardim da seguinte forma:
-Pesquisa informações sobre como cuidar de suas plantas (quantidade de regadas por dia)
-Cultiva suas plantas por conta própria
-Ambiente: Gosta de utilizar vários aplicativos no celular de usos diversos. Se sente confortável com o espaço verde de sua casa. Utiliza cerca de uma hora por dia para cuidar de seu jardim. Gosta de conversar com visitas sobre botânica e adoraria um meio de conversar com mais pessoas sobre isso
-Lema: ”Meu gato e minhas plantas são meus melhores amigos”
+![](img/card_persona_1.jpg)
 
-PERSONA 2
-Persona: pessoa comum com horta em casa
-Foto:
-Nome: Miguel Asquineve de Souza
-Profissão: Vendedor de verduras e legumes em feiras
-Características:
-48 anos
-Casado
-Tem duas filhas
-Tem um cachorro
-Desde pequeno, ajudava o pai em sua barraca na feira. Assumiu os negócios após o falecimento do mesmo. Treina sua filha mais velha para seguir o legado 
-Objetivos: Cuida de sua horta de forma responsável, porém é desorganizado, precisando de alguma forma para contornar esse problema e, dessa forma, melhorar os produtos gerados por ela 
-Tarefas:
-Seu processo de trabalho funciona da seguinte forma:
-Cuida da horta por cerca de uma hora
-Planta novas sementes todos os dias
-Colhe os produtos com a ajuda da família no dia da venda, uma vez por semana
-Ambiente: o processo de organização dos cuidados da horta é muito cansativo, gerando um ambiente familiar estressante. Miguel não é muito familiarizado com aplicativos que auxiliam nos cuidados da horta pois aprendeu tudo com seu pai, mas está disposto a mudar para resolver o problema familiar 
-Lema: “Você colhe aquilo que você planta”
+![](img/card_persona_2.jpg)
 
-PERSONA 3
-
-Persona: Professora/Conselheira no colégio Belas Águas
-Foto:
-Nome: Gabriela Zupaos Yamazaki
-Profissão: Professora de biologia do ensino médio
-Características:
-32 anos
-Solteira
-É a professora favorita dos alunos, sempre disposta a ajudar em qualquer situação
-Desde pequena sempre esteve ligada a natureza. Por isso, decidiu seguir a carreira de biologia, como uma forma de realizar seu sonho de poder compartilhar seu amor pelas plantas e animais com o mundo
-Objetivos: Deseja despertar o interesse dos alunos pela botânica. Para isso, precisa de uma forma de compartilhar informações e gerar debates, tanto no período de aula quanto fora dele
-Tarefas:
-Seu processo de trabalho funciona da seguinte forma:
-Ensina os alunos a matéria de botânica
-Procura formas didáticas de compartilhar seu conhecimento
-Ambiente: Gabriela pensou numa ideia de utilizar o fórum de um aplicativo de plantas para ensinar a turma. Ela postaria as questões no fórum e a turma teria de respondê-las em dupla, fomentando discussões e aumentando o interesse dos alunos em busca das respostas
-Lema: “Vamos semear conhecimento!”
-
-
-
-
+![](img/card_persona_3.jpg)
 
 ## **5. Visão Geral do Produto**
 
@@ -189,23 +137,23 @@ Dentre os principais recursos do GaiaDex estão Login e Logout de Usuários, bus
 
 ## **6. Recursos do Produto**
 
-### **6.1 Perfil do Usuário**
-    1. Cadastro e personalização do perfil do usuário por meio do gerenciamento de informações básicas de acesso (email e senha), além dos dados sociais para interação na comunidade, como, username e avatar. 
+### 6.1 Perfil do Usuário
+1. Cadastro e personalização do perfil do usuário por meio do gerenciamento de informações básicas de acesso (email e senha), além dos dados sociais para interação na comunidade, como, username e avatar. 
     
-### **6.2 Coleção das plantas do Usuário**
-    1. Scanner identificador de plantas a partir da câmera do seu smartphone.
-    2. Visualização da coleção de plantas scanneadas pelo usuário. 
-    3. Visualização do card específico da espécie scanneada pelo usuário. 
+### 6.2 Coleção das plantas do Usuário
+1. Scanner identificador de plantas a partir da câmera do seu smartphone.
+2. Visualização da coleção de plantas scanneadas pelo usuário. 
+3. Visualização do card específico da espécie scanneada pelo usuário. 
     
-### **6.3 Card de Planta**
-    1. Visualização de informações gerais e específicas relativas a determinada espécie.
-    2. Conexão direta do usuário com o fórum de determinada espécie.
+### 6.3 Card de Planta
+1. Visualização de informações gerais e específicas relativas a determinada espécie.
+2. Conexão direta do usuário com o fórum de determinada espécie.
 
-### **6.4 Fórum**
-    1. Plataforma de interação entre usuários sobre determinada planta por meio de tópicos e comentários.
+### 6.4 Fórum
+1. Plataforma de interação entre usuários sobre determinada planta por meio de tópicos e comentários.
 
-### **6.5 Minha Planta**
-    1. Definição de apelido e cronograma de cuidados específicos relativos a cada planta da minha coleção.
+### 6.5 Minha Planta
+1. Definição de apelido e cronograma de cuidados específicos relativos a cada planta da minha coleção.
 
 ## **7. Referências**
 1. Laços de Alegria. MAKAHA, Rafael; SCHADT, Renan; ALMEIDA, Juliana. Documento de Visão. Disponível em: [Documento de Visão - Laços de Alegria](https://github.com/fga-eps-mds/2018.1-Lacos-da-Alegria/blob/develop/docs/vision_document.md). Acesso em: agosto/2020.
