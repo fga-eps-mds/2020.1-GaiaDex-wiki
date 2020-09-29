@@ -21,8 +21,8 @@
 | :------------- | :----------: | -----------: |
 | [Issue 40 - Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/40)| 8 | Em Andamento |
 | [Issue 05 (backend) - US04 - Cadastrar minha conta no aplicativo(Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/5)| 5 | Concluído |
-| [Issue 06 (backend) - US07 - Fazer login no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)| 5 |  |
-| [Issue 07 (backend) - US08 - Fazer logout no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7)| 3 | |
+| [Issue 06 (backend) - US07 - Fazer login no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)| 5 | Não Concluído |
+| [Issue 07 (backend) - US08 - Fazer logout no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7)| 3 | Não Concluído |
 | [Issue 08 (backend) - US11 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) | 2 | Concluído |
 | [Issue 10 (backend) - US12 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)| 2 | Concluído |
 | [Issue 11 (backend) - US35 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)| 8 | Concluído |
@@ -32,31 +32,31 @@
 | [Documento de Identidade Visual](#) | 5 | Não concluído |
 | [Atualizar arquitetura](#) | 2 | Concluído |
 | [Atualizar RoadMap (até Release 2)](#) | 8 | Em andamento |
-| [Critérios Extras](#) | 5 | Não concluído |
-| [Gerar todas as issues nos repositórios](#) | 5 | Em andamento |
-| [US27 - Criar tópico em um fórum de planta (Backend)](#) | 5 |  |
-| [US28 - Editar tópico criado por mim (Backend)](#) | 3 |  |
-| [US29 - Deletar o tópico criado por mim (Backend)](#) | 1 |  |
-| [US30 - Upvote e downvote em um tópico (Backend)](#) | 2 |  |
-| [US31 - Criar comentário em um tópico (Backend)](#) | 3 |  |
-| [US32 - Editar comentário que fiz em um tópico (Backend)](#) | 2 |  |
-| [US33 - Remover um comentário que fiz em um tópico (Backend)](#) | 2 |  |
-| [Issue 04 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 |  |
-| [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 |  |
-| [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 3 |  |
-| [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 3 |  |
-| [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 |  |
-| [US35 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) | 5 |  |
+| [Critérios Extras](#) | 5 | Concluído |
+| [Gerar todas as issues nos repositórios](#) | 5 | Concluído |
+| [US27 - Criar tópico em um fórum de planta (Backend)](#) | 5 | Não Conluído |
+| [US28 - Editar tópico criado por mim (Backend)](#) | 3 | Não Concluído |
+| [US29 - Deletar o tópico criado por mim (Backend)](#) | 1 | Não Concluído |
+| [US30 - Upvote e downvote em um tópico (Backend)](#) | 2 | Não Concluído |
+| [US31 - Criar comentário em um tópico (Backend)](#) | 3 | Não Concluído |
+| [US32 - Editar comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
+| [US33 - Remover um comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
+| [Issue 04 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 | Não Concluído |
+| [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 | Não Concluído |
+| [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 3 | Não Concluído |
+| [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 3 | Não Concluído |
+| [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 | Não Concluído |
+| [US35 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) | 5 | Não Concluído |
 | Pontos Totais | 113 | |
-| Pontos entregues | M |  |
+| Pontos entregues | 35 |  |
 
 <br/>
 
-Dos 113 pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 113 pontos planejados, 35 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 
-![](img/burndown.jpg)
+![](img/burndown_sprint3.png)
 
 ### 1.3 Gráfico de _commits_
 
@@ -70,7 +70,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ### 1.4 _Velocity_
 
-![](img/velocity.jpg)
+![](img/velocity.png)
 
 ### 1.5 Quadro de Horas
 
@@ -78,7 +78,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ### 1.6 Quadro de Conhecimento
 
-![](img/knowledge_box.jpg)
+![](img/knowledge_box.png)
 
 <br>
 
@@ -94,13 +94,13 @@ Nessa _Sprint_ houveram os problemas:
 
 | Pontos Positivos | Pontos Negativos |
 | :------------- | :----------: |
-| Nenhum, tá tudo uma bosta | Tudo |
+| Primeiros PRs do backend finalmente aceitos | Muita dívida técnica acumulada |
 
 <br>
 
 ### 2.1 Análise do _Scrum Master_
 
-A sprint possuía muitos pontos a serem entregues. Houve muita expectativa em se entregar todos os pontos. Estas falas foram durante o planning, mas o reflexo desta empolgação não foi vista ao longo da sprint em si. Pouquíssimos pontos planejados para MDS foram entregues.
+A sprint possuía muitos pontos a serem entregues. Houve muita expectativa em se entregar todos os pontos. Estas falas foram feitas durante o planning, mas o reflexo desta empolgação não foi vista ao longo da sprint em si. Pouquíssimos pontos planejados para MDS foram entregues.
 
 Os membros do time de desenvolvimento apresentaram muitos problemas com as tecnologias utilizadas. Muitos, também, mesmo tendo de replicar as issues já feitas em uma nova visão, não conseguiram entregar suas issues.
 

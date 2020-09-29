@@ -1,16 +1,16 @@
 # Planejamento da Sprint 4
 
-**Data de Início:** 17/09/2020  
+**Data de Início:** 24/09/2020  
 
-**Data de Término:** 24/09/2020
+**Data de Término:** 01/10/2020
 
 **Duração:** * 7 dias
 
-**Pontos Planejados**: 0
+**Pontos Planejados**: 12
 
-**Pontos Adicionados**: 0
+**Pontos Adicionados**: 78
 
-**Pontos Totais**: 0
+**Pontos Totais**: 90
 
 -------
 
@@ -56,8 +56,6 @@ Paralelamente a isto, haverá o trabalho em issues de dívidas técnicas.
 * [Guia de Estilo](#)
 * [Documento de Identidade Visual](#)
 * [Atualizar RoadMap (até Release 2)](#)
-* [Critérios Extras](#)
-* [Gerar todas as issues nos repositórios](#)
 * [US27 - Criar tópico em um fórum de planta (Backend)](#) 
 * [US28 - Editar tópico criado por mim (Backend)](#)
 * [US29 - Deletar o tópico criado por mim (Backend)](#)
@@ -73,7 +71,8 @@ Paralelamente a isto, haverá o trabalho em issues de dívidas técnicas.
 
 ### 5.2 Novas issues
 
-* [Refatorar Documento de Visão](#)
-* [Refatorar Documento Suplementar](#)
-* [Refatorar Termo de Abertura do Projeto](#)
+* [Refatorar Documento de Visão](#) - 8 pontos
+* [Refatorar Documento Suplementar](#) - 2 pontos
+* [Refatorar Termo de Abertura do Projeto](#) - 2 pontos
 
+Não votamos nessas issues, EPS definiu as pontuações.
