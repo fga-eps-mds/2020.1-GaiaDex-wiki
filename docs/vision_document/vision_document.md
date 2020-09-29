@@ -89,7 +89,7 @@ Atualmente existem diversos aplicativos de reconhecimento de plantas, mas nenhum
 ### 3.2 Principais Necessidades do Usuário
 
 | Necessidade | Interesses | Solução Atual | Solução Proposta |
-| :--- | :--- | :--- | :--- | :--- |
+| :---------- | :--------- | :------------ | :--------------- |
 | Identificar determinada planta | Encontrar informações sobre espécie. | <ul><li>Pesquisa com profissionais.</li><li>Outros aplicativos (como PictureThis, PlantNet, LeafSnap…)</li></ul> | Scanner de plantas para identificação das mesmas. |
 | Descobrir como cuidar de uma planta. | Manter uma planta saudável. | Pesquisa generalizada em sites de busca. | Aplicação onde possa identificar espécie e receber informação de usuários que já previamente registrados. |
 | Discutir assuntos específicos relacionados à plantas | Sanar dúvidas, interagir em discussões pertinentes | Procurar em sites de busca generalizada. |  Um fórum num aplicativo dedicado à isso |
