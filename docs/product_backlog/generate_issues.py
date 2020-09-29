@@ -7,7 +7,7 @@ pb_file_path = os.path.dirname(
 ac_file_path = os.path.dirname(
     os.path.abspath(__file__)) + '/acceptance_criteria.md'
 ex_file_path = os.path.dirname(
-    os.path.abspath(__file__)) + '/extras.md'
+    os.path.abspath(__file__)) + '/extra_criterias.md'
 
 
 def gen_description(us_number):
