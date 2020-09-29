@@ -157,3 +157,13 @@ Este artefato diz respeito a uma lista de critérios extras em relação às _hi
 - [ ] criterio1
 - [ ] criterio2
 
+### US31 - Adicionar amizade
+
+- [ ] criterio1
+- [ ] criterio2
+
+### US32 - Remover amizade
+
+- [ ] criterio1
+- [ ] criterio2
+

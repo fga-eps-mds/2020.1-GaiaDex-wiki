@@ -147,3 +147,13 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 - [ ] O usuário poderá esconder/pausar um anúncio feito por ele anteiormente por meio de outro botão no marketplace
 
+### US31 - Adicionar amizade
+
+- [ ] O sistema deverá notificar o usuário solicitado sobre o pedido.
+- [ ] O usuário poderá aceitar ou recusar uma solicitação de amizade.
+- [ ] O usuário poderá enviar uma solicitação de amizade à qualquer usuário.
+
+### US32 - Remover amizade
+
+- [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de remover a amizade ou não
+- [ ] O sistema deverá encerrar a conexão entre os dois usuários

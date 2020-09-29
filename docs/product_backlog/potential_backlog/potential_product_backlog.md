@@ -4,11 +4,11 @@
 
 | ID   | Épico         | Descrição                                                                                                                        | Prioridade |
 | ---- | ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| EP06 | Feed          | Feed de notícia onde o usuário visualizará os trending topics das plantas favoritadas, além de visualizar posts de suas conexões | Could      |
-| EP07 | Comunidade    | Grupos criados e gerenciados por usuários                                                                                        | Could      |
-| EP08 | Meta          | Metas estabelecidas (e intrinsecas) aos grupos, orientadas, por exemplo, à revitalização urbana                                  | Could      |
-| EP09 | Histórico/Log | Listar todas as atividades que um usuário fez (comentarios em posts, scans etc)                                                  | Want-      |
-| EP11 | Marketplace   | Espaço onde o usuário pode comprar/vender produtos orgânicos                                                                     | Want+      |
+| EP01 | Feed          | Feed de notícia onde o usuário visualizará os trending topics das plantas favoritadas, além de visualizar posts de suas conexões | Could      |
+| EP02 | Comunidade    | Grupos criados e gerenciados por usuários                                                                                        | Could      |
+| EP03 | Meta          | Metas estabelecidas (e intrinsecas) aos grupos, orientadas, por exemplo, à revitalização urbana                                  | Could      |
+| EP04 | Histórico/Log | Listar todas as atividades que um usuário fez (comentarios em posts, scans etc)                                                  | Want-      |
+| EP05 | Marketplace   | Espaço onde o usuário pode comprar/vender produtos orgânicos                                                                     | Want+      |
 
 ## 2. Histórias de Usuário
 
@@ -44,4 +44,6 @@
 | US28 | Marketplace | Vendedor Individual |                                     Fazer um anúncio                                     |                       que eu consiga atingir usuarios/potenciais compradores                       | Must                             |                                     [→](./acceptance_criteria.md#US28---Fazer-um-anúncio) |
 | US29 | Marketplace | Vendedor Individual |                                    Remover um anúncio                                    |                   que eu nao anuncie algo de que nao disponho mais, por exemplo                    | Must                             |                                    [→](./acceptance_criteria.md#US29---Remover-um-anúncio) |
 | US30 | Marketplace | Vendedor Individual |                                    Pausar um anúncio                                     |                              que se adeque a realidade do meu estoque                              | Could                            |                                    [→](./acceptance_criteria.md#US30---Pausar-um-anúncio) |
+| US31 |   Perfil    |       Usuário       |                                    Adicionar amizade                                     |                                  me conectar com alguem que quero                                  | Want                             |                                    [→](./acceptance_criteria.md#US31---Adicionar-amizade) |
+| US32 |   Perfil    |       Usuário       |                                     Remover amizade                                      |                              não me conectar com alguem que não quero                              | Want                             |                                     [→](./acceptance_criteria.md#US32---Remover-amizade) |
 
