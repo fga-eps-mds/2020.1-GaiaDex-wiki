@@ -157,3 +157,4 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 - [ ] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de remover a amizade ou não
 - [ ] O sistema deverá encerrar a conexão entre os dois usuários
+

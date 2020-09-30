@@ -84,14 +84,14 @@ MDS
 
 Dupla 1: Arthur e Vitor Samuel 
 
-* US27 - Criar tópico em um fórum de planta (Backend)
-* US28 - Editar tópico criado por mim (Backend)
-* US29 - Deletar o tópico criado por mim (Backend)
-* US30 - Upvote e downvote em um tópico (Backend)
-* US31 - Criar comentário em um tópico (Backend)
-* US32 - Editar comentário que fiz em um tópico (Backend)
-* US33 - Remover um comentário que fiz em um tópico (Backend)
-* US34 - Upvote e downvote em um comentário (Backend)
+* US15 - Criar tópico em um fórum de planta (Backend)
+* US16 - Editar tópico criado por mim (Backend)
+* US17 - Deletar o tópico criado por mim (Backend)
+* US18 - Upvote e downvote em um tópico (Backend)
+* US19 - Criar comentário em um tópico (Backend)
+* US20 - Editar comentário que fiz em um tópico (Backend)
+* US21 - Remover um comentário que fiz em um tópico (Backend)
+* US22 - Upvote e downvote em um comentário (Backend)
 
 Dupla 2: Victor Hugo e Marcos Gabriel
 
@@ -103,7 +103,7 @@ Dupla 2: Victor Hugo e Marcos Gabriel
  
 Dupla 3: Marcos Felipe e Antonio Ruan
 
-* US35 - Visualizar informações sobre a planta (FrontEnd)
+* US23 - Visualizar informações sobre a planta (FrontEnd)
 
 Extra: Vinícius
 
@@ -121,7 +121,7 @@ Extra: Vinícius
 | [Issue 07 (backend) - US08 - Fazer logout no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7)| 3 |
 | [Issue 08 (backend) - US11 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) | 2 |
 | [Issue 10 (backend) - US12 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)| 2 |
-| [Issue 11 (backend) - US35 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)| 8 |
+| [Issue 11 (backend) - US23 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)| 8 |
 | [Issue 12 (backend) - Popular banco com PlantNet](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/12)| 8 |
 
 ### 5.2 Novas issues
@@ -180,49 +180,49 @@ Resultado Final - 5
 
 ### Backend
 
-[US27 - Criar tópico em um fórum de planta (Backend)](#) - Votação
+[US15 - Criar tópico em um fórum de planta (Backend)](#) - Votação
 
 ![US21_Pont](img/US21.jpg)
 
 Resultado Final - 5
 
-[US28 - Editar tópico criado por mim (Backend)](#) - Votação
+[US16 - Editar tópico criado por mim (Backend)](#) - Votação
 
 ![US22_Pont](img/US22.jpg)
 
 Resultado Final - 3
 
-[US29 - Deletar o tópico criado por mim (Backend)](#) - Votação
+[US17 - Deletar o tópico criado por mim (Backend)](#) - Votação
 
 ![US23_Pont](img/US23.jpg)
 
 Resultado Final - 1
 
-[US30 - Upvote e downvote em um tópico (Backend)](#) - Votação
+[US18 - Upvote e downvote em um tópico (Backend)](#) - Votação
 
 ![US24_Pont](img/US24.jpg)
 
 Resultado Final - 2
 
-[US31 - Criar comentário em um tópico (Backend)](#) - Votação
+[US19 - Criar comentário em um tópico (Backend)](#) - Votação
 
 ![US25_Pont](img/US25.jpg)
 
 Resultado Final - 3
 
-[US32 - Editar comentário que fiz em um tópico (Backend)](#) - Votação
+[US20 - Editar comentário que fiz em um tópico (Backend)](#) - Votação
 
 ![US26_Pont](img/US26.jpg)
 
 Resultado Final - 2
 
-[US33 - Remover um comentário que fiz em um tópico (Backend)](#) - Votação
+[US21 - Remover um comentário que fiz em um tópico (Backend)](#) - Votação
 
 ![US27_Pont](img/US27.jpg)
 
 Resultado Final - 2
 
-[US34 - Upvote e downvote em um comentário (Backend)](#) - Votação
+[US22 - Upvote e downvote em um comentário (Backend)](#) - Votação
 
 ![US29_Pont](img/US29.jpg)
 
@@ -292,7 +292,7 @@ Resultado Final - 3
 Resultado Final - 5
 
 
-[US35 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) - Votação
+[US23 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) - Votação
 
 * João Vítor - 5
 * Makaha - 3

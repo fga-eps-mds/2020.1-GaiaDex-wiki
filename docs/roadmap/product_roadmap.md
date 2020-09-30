@@ -49,7 +49,7 @@
 * US08 - Fazer logout no aplicativo (BackEnd)
 * US11 - Alterar os dados cadastrados na minha conta (BackEnd)
 * US12 - Deletar minha conta (BackEnd)
-* US35 - Visualizar informações sobre a planta (BackEnd)
+* US23 - Visualizar informações sobre a planta (BackEnd)
 * Popular banco com PlantNet
 
 ### Sprint 3
@@ -66,14 +66,14 @@ Documentos:
 * Gerar todas as issues nos repositórios
 
 Backend:
-* US27 - Criar tópico em um fórum de planta (Backend)
-* US28 - Editar tópico criado por mim (Backend)
-* US29 - Deletar o tópico criado por mim (Backend)
-* US30 - Upvote e downvote em um tópico (Backend)
-* US31 - Criar comentário em um tópico (Backend)
-* US32 - Editar comentário que fiz em um tópico (Backend)
-* US33 - Remover um comentário que fiz em um tópico (Backend)
-* US34 - Upvote e downvote em um comentário (Backend)
+* US15 - Criar tópico em um fórum de planta (Backend)
+* US16 - Editar tópico criado por mim (Backend)
+* US17 - Deletar o tópico criado por mim (Backend)
+* US18 - Upvote e downvote em um tópico (Backend)
+* US19 - Criar comentário em um tópico (Backend)
+* US20 - Editar comentário que fiz em um tópico (Backend)
+* US21 - Remover um comentário que fiz em um tópico (Backend)
+* US22 - Upvote e downvote em um comentário (Backend)
 
 Frontend:
 * US04 - Cadastrar minha conta no aplicativo (FrontEnd)
@@ -81,7 +81,7 @@ Frontend:
 * US08 - Fazer logout no aplicativo (FrontEnd)
 * US11 - Alterar os dados cadastrados na minha conta (FrontEnd)
 * US12 - Deletar minha conta (FrontEnd)
-* US35 - Visualizar informações sobre a planta (FrontEnd)
+* US23 - Visualizar informações sobre a planta (FrontEnd)
 
 ### Sprint 4 (Release 1)
 

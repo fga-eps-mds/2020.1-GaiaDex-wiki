@@ -25,7 +25,7 @@
 | [Issue 07 (backend) - US08 - Fazer logout no aplicativo (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/7)| 3 | Não Concluído |
 | [Issue 08 (backend) - US11 - Alterar os dados cadastrados na minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/8) | 2 | Concluído |
 | [Issue 10 (backend) - US12 - Deletar minha conta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/10)| 2 | Concluído |
-| [Issue 11 (backend) - US35 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)| 8 | Concluído |
+| [Issue 11 (backend) - US23 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)| 8 | Concluído |
 | [Issue 12 (backend) - Popular banco com PlantNet](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/12)| 8 | Concluído |
 | [EAP](#) | 2 | Não concluído  |
 | [Guia de Estilo](#) | 3 | Não concluído |
@@ -34,19 +34,19 @@
 | [Atualizar RoadMap (até Release 2)](#) | 8 | Em andamento |
 | [Critérios Extras](#) | 5 | Concluído |
 | [Gerar todas as issues nos repositórios](#) | 5 | Concluído |
-| [US27 - Criar tópico em um fórum de planta (Backend)](#) | 5 | Não Conluído |
-| [US28 - Editar tópico criado por mim (Backend)](#) | 3 | Não Concluído |
-| [US29 - Deletar o tópico criado por mim (Backend)](#) | 1 | Não Concluído |
-| [US30 - Upvote e downvote em um tópico (Backend)](#) | 2 | Não Concluído |
-| [US31 - Criar comentário em um tópico (Backend)](#) | 3 | Não Concluído |
-| [US32 - Editar comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
-| [US33 - Remover um comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
+| [US15 - Criar tópico em um fórum de planta (Backend)](#) | 5 | Não Conluído |
+| [US16 - Editar tópico criado por mim (Backend)](#) | 3 | Não Concluído |
+| [US17 - Deletar o tópico criado por mim (Backend)](#) | 1 | Não Concluído |
+| [US18 - Upvote e downvote em um tópico (Backend)](#) | 2 | Não Concluído |
+| [US19 - Criar comentário em um tópico (Backend)](#) | 3 | Não Concluído |
+| [US20 - Editar comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
+| [US21 - Remover um comentário que fiz em um tópico (Backend)](#) | 2 | Não Concluído |
 | [Issue 04 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 | Não Concluído |
 | [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 | Não Concluído |
 | [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 3 | Não Concluído |
 | [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 3 | Não Concluído |
 | [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 | Não Concluído |
-| [US35 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) | 5 | Não Concluído |
+| [US23 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) | 5 | Não Concluído |
 | Pontos Totais | 113 | |
 | Pontos entregues | 35 |  |
 
