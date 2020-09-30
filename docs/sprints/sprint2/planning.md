@@ -59,7 +59,7 @@ Dupla 2: Marcos Gabriel e Vinicius
  
 Dupla 3: Marcos Felipe e Antonio Ruan
 
-* US35 - Visualizar informações sobre a planta
+* US23 - Visualizar informações sobre a planta
 * Popular banco com PlantNet
 
 Extra: Victor Hugo
@@ -220,7 +220,7 @@ Resultado Final - 2
   
 Resultado Final - 2
 
-[Issue 11 (backend) - US35 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)
+[Issue 11 (backend) - US23 - Visualizar informações sobre a planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/11)
 
 * João Vítor - 8
 * Makaha - 8

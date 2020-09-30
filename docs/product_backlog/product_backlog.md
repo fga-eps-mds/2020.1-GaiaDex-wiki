@@ -13,6 +13,7 @@
 
 |  ID  |      Épico      | eu como |                      quero                       |                                        para                                         | Prioridade (em relação ao épico) |                                 Critério de aceitação                                 |
 | :--: | :-------------: | :-----: | :----------------------------------------------: | :---------------------------------------------------------------------------------: | -------------------------------- | :-----------------------------------------------------------------------------------: |
+
 | US01 |   Planta-dex    | Usuário |                 Scannear planta                  |                              adicionar à minha coleção                              | Must                             |                 [→](./acceptance_criteria.md#US01---Scannear-planta) |
 | US02 |   Planta-dex    | Usuário |             Visualizar minha coleção             |                   saber quais plantas eu possuo na minha coleção                    | Must                             |             [→](./acceptance_criteria.md#US02---Visualizar-minha-coleção) |
 | US03 |   Planta-dex    | Usuário |      Visualizar informações da Minha Planta      |                             que eu saiba mais sobre ela                             | Should                           |      [→](./acceptance_criteria.md#US03---Visualizar-informações-da-Minha-Planta) |
