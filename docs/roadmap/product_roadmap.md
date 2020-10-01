@@ -4,7 +4,6 @@
 | ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
 |27/08/2020|0.1| Adição tópicos 1 e 2 |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Guilherme de Lyra](http://github.com/guilhermedlyra) |
 |11/09/2020|1.0| Primeira versão do documento |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
-|13/09/2020|1.0| Correção do número das US|[João Vítor](http://github.com/joaovitorml), [Guilherme de Lyra](http://github.com/guilhermedlyra)  |
 
 ## RoadMap de produto
 
@@ -55,7 +54,6 @@
 ### Sprint 3
 
 Documentos:
-
 * Critérios Extras
 * EAP
 * Guia de Estilo
@@ -84,87 +82,114 @@ Frontend:
 
 ### Sprint 4
 
-* US02 - Visualizar minha coleção
-* US03 - Visualizar informações da minha planta
-* US09 - Visualizar minha conta (tela de perfil)
-* US10 - Visualizar configurações da conta (tela de configurações)
-* US13 - Visualizar perfil de outro usuário
-* Matar dívidas técnicas
-
+* Refatorar Documento de Visão
+* Refatorar Documento Suplementar
+* Refatorar Termo de Abertura do Projeto
+* Trabalhar dívidas técnicas
 
 ### Sprint 5
 
-* Testes nas histórias já feitas no backend (Jest)
-* Configurar Lint com Guia de Estilo
-* Integração contínua
+* Preparar apresentação R1
 * EVM
 * Plano de custos
-* Plano de pipeline devops
-* Configurar CI/CD
-* Teste de usabilidade
-* Cobertura de Testes Code Climate
 * Plano de qualidade
-* Plano de GCS
-* Testes exploratórios
-
-* Preparar apresentação R1
-* US01 - Scannear planta
-* US36 - Adicionar planta aos meus favoritos
-* US37 - Remover planta da minha coleção de favoritos
-* US38 - Visualizar minha coleção de favoritos
-* US47 - Adicionar apelido à minha planta
-* US48 - Definir configurações de notificação
-* Testes nas histórias já feitas no frontend
 
 ## Release 1 (08/10)
-  
+
 ### Sprint 6
 
-* Benchmark
-* US05 - Cadastrar/ fazer login com Facebook
-* US06 - Cadastrar/ fazer login com Google
-* US14 - Bloquear outro usuário
-* US15 - Adicionar amizades
-* US16 - Remover amizades
-* US39 - Publicar fotos & textos
-* US40 - Visualizar posts de minhas conexões
+* Plano de GCS
+* Plano de pipeline devops
+
+Backend:
+* US01 - Scannear planta (backend)
+* US02 - Visualizar minha coleção (backend)
+* US03 - Visualizar informações da Minha Planta (backend)
+
+Frontend:
+* US01 - Scannear planta (frontend)
+* US15 - Criar tópico em um fórum de planta (frontend)
+* US16 - Editar tópico criado por mim (frontend)
+* US17 - Deletar o tópico criado por mim (frontend)
+* US18 - Upvote e downvote em um tópico (frontend)
 
 ### Sprint 7
 
-* US41 - Visualizar trending topics sobre minhas plantas favoritadas
-* US42 - Curtir/descurtir posts que aparecem na minha timeline
-* US43 - Salvar um post na minha coleção de Posts Salvos
-* US44 - Comentar em um post na minha timeline
-* US45 - Editar um comentário que fiz em algum post
-* US46 - Remover um comentario que fiz em algum post
+* Testes nas histórias já feitas no backend (Jest)
+* Cobertura de Testes Code Climate
+* Configurar Lint com Guia de Estilo
+
+Backend:
+* US27 - Alterar informações da minha planta (backend)
+
+Frontend:
+* US09 - Visualizar minha conta (frontend)
+* US19 - Criar comentário em um tópico (frontend)
+* US20 - Editar comentário que fiz em um tópico (frontend)
+* US21 - Remover um comentário que fiz em um tópico (frontend)
+* US22 - Upvote e downvote em um comentário (frontend)
 
 ### Sprint 8
 
-* j
-  
+* Testes exploratórios
+* Configurar CI/CD
 
+Backend:
+* US13 - Visualizar perfil de outro usuário (backend)
+
+Frontend:
+* US02 - Visualizar minha coleção (frontend)
+* US03 - Visualizar informações da Minha Planta (frontend)
+* US27 - Alterar informações da minha planta (frontend)
+  
 ### Sprint 9
 
-* j
+* Teste de usabilidade
+
+Backend:
+* US24 - Adicionar planta aos meus Favoritos (backend)
+* US25 - Remover uma planta da minha coleção de favoritos (backend)
+* US26 - Visualizar minha coleção de favoritos (backend)
 
 ### Sprint 10
 
-* j
+* Benchmark
+
+Frontend:
+* US10 - Visualizar configurações da conta (frontend)
+* US26 - Visualizar minha coleção de favoritos (frontend)
 
 ### Sprint 11
 
-* j
-  
+Frontend:
+* US24 - Adicionar planta aos meus Favoritos (frontend)
+* US25 - Remover uma planta da minha coleção de favoritos (frontend)
+
 ### Sprint 12
 
-* j
+Backend:
+* US14 - Bloquear outro usuário (backend)
+
+Frontend:
+* US14 - Bloquear outro usuário (frontend)
 
 ### Sprint 13
 
-* j
+Backend:
+* US28 - Definir configurações de notificação (backend)
+
+Frontend: 
+* US28 - Definir configurações de notificação (frontend)
 
 ### Sprint 14
 
-* j
+Backend:
+* US05 - Cadastrar/fazer login com conta Facebook (backend)
+* US06 - Cadastrar/fazer login com conta Google (backend)
+
+Frontend:
+* US05 - Cadastrar/fazer login com conta Facebook (frontend)
+* US06 - Cadastrar/fazer login com conta Google (frontend)
 
 ## Release 2
+
