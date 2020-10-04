@@ -3,7 +3,8 @@
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
-| 03/10/2020 | 1.0 | Created Document and added topic 1  | Vinícius |
+| 03/10/2020 | 0.1 | Created Document and added topic 1  | Vinícius |
+| 04/10/2020 | 1.0 | Added topics 2. through 6. | Vinícius |
 
 <!-- This is a guide for writing consistent and aesthetically pleasing node.js code.
 It is inspired by what is popular within the community, and flavored with some
@@ -23,55 +24,35 @@ according to your preferences.
 ## Sumário
 
 ### 1. Formatação
-* [1.1. 2 espaços para identação](#1.1.-2-espaços-para-identação)
+* [1.1. 2 espaços para identação](#11-2-espaços-para-identação)
 * [1.2. Sem espaço em branco a direita](#12-Sem-espaço-em-branco-a-direita)
 * [1.3. Ponto e Virgula](#13-Ponto-e-Vírgula)
 * [1.4. 80 caracteres por linha](#14-80-caracteres-por-linha)
 * [1.5. Use aspas simples](#15-Use-aspas-simples)
 * [1.6. Abertura de chaves](#16-Abertura-de-chaves)
 * [1.7. Declare uma variavel por declaração de var](#17-Declare-uma-variavel-por-declaração-de-var)
-<!-- * [2 Spaces for indentation](#2-spaces-for-indentation)
-* [Newlines](#newlines)
-* [No trailing whitespace](#no-trailing-whitespace)
-* [Use Semicolons](#use-semicolons)
-* [80 characters per line](#80-characters-per-line)
-* [Use single quotes](#use-single-quotes)
-* [Opening braces go on the same line](#opening-braces-go-on-the-same-line)
-* [Declare one variable per var statement](#declare-one-variable-per-var-statement) -->
 
 ### 2. Convenção de Nomenclaturas
-* regras de nomenclaturas
-<!-- * [Use lowerCamelCase for variables, properties and function names](#use-lowercamelcase-for-variables-properties-and-function-names)
-* [Use UpperCamelCase for class names](#use-uppercamelcase-for-class-names)
-* [Use UPPERCASE for Constants](#use-uppercase-for-constants) -->
+* [2.1 lowerCamelCase para variáveis, propriedades e nome de funções](#21-lowerCamelCase-para-variáveis,-propriedades-e-nome-de-funções)
+* [2.2 UpperCamelCase para nome de classes](#22-UpperCamelCase-para-nome-de-classes)
 
 ### 3. Variaves
-- regra das variaves
-<!-- * [Object / Array creation](#object--array-creation) -->
+* [3.1 Objeto / Criação de Array](#31-Objeto--Criação-de-Array)
 
 ### 4. Condicionais
-- regra das condicionais
-<!-- * [Use the === operator](#use-the--operator)
-* [Use multi-line ternary operator](#use-multi-line-ternary-operator)
-* [Use descriptive conditions](#use-descriptive-conditions) -->
+* [4.1 Use o operador ===](#41-Use-o-operador===)
+* [4.2 Use condições descritivas](#42-Use-condições-descritivas)
 
 ### 5. Funções
-- regra das funções
-<!-- * [Write small functions](#write-small-functions)
-* [Return early from functions](#return-early-from-functions)
-* [Name your closures](#name-your-closures)
-* [No nested closures](#no-nested-closures)
-* [Method chaining](#method-chaining) -->
+* [5.1 Escreva funções pequenas](#51-Escreva-funções-pequenas)
+* [5.2 Retorno cedo de funções](#52-Retorno-cedo-de-funções)
+* [5.3 Nomeie seus fechamentos](#53-Nomeie-seus-fechamentos)
+* [5.4 Sem fechamentos aninhados](#54-Sem-fechamentos-aninhados)
+* [5.5 Aninhamento de Métodos](#55-Aninhamento-de-Métodos)
 
 ### 6. Comentários
-- regra dos comentarios
-<!-- * [Use slashes for comments](#use-slashes-for-comments) -->
 
-<!-- ### Miscellaneous
-* [Object.freeze, Object.preventExtensions, Object.seal, with, eval](#objectfreeze-objectpreventextensions-objectseal-with-eval)
-* [Requires At Top](#requires-at-top)
-* [Getters and setters](#getters-and-setters)
-* [Do not extend built-in prototypes](#do-not-extend-built-in-prototypes) -->
+* [6.1 Use o 'barras duplas' para comentarios](#61-Use-o-'barras-duplas'-para-comentarios)
 
 ## 1. Formatação
 
@@ -80,11 +61,6 @@ according to your preferences.
 
 ### 1.1. 2 espaços para identação
 Utilize 2 espaços para a identação do seu código e jure nunca confundir a tabulação e espaços -  Caso contrario você ira sofrer as consequencias.
-
-<!-- ### Quebra de linha?
-
-Use UNIX-style newlines (`\n`), and a newline character as the last character
-of a file. Windows-style newlines (`\r\n`) are forbidden inside any repository. -->
 
 ### 1.2 Sem espaço em branco a direita
 Antes de realizar o commit sempre lembre de limpar os espaços em branco a direira dos arquivos .js
@@ -163,43 +139,37 @@ while (keys.length) {
 
 [crockfordconvention]: http://javascript.crockford.com/code.html 
 
-<!-- ## Naming Conventions
+## 2. Convenção de Nomenclaturas
 
-### Use lowerCamelCase for variables, properties and function names
+### 2.1 lowerCamelCase para variáveis, propriedades e nome de funções
+Variáveis, propriedades e nomenclatura de funções usam 'lowerCamelCase'. Elas também devem ser descritivas. Variáveis de caracteres únicos e abreviações incomuns devem ser geralmente evitadas.
 
-Variables, properties and function names should use `lowerCamelCase`.  They
-should also be descriptive. Single character variables and uncommon
-abbreviations should generally be avoided.
-
-*Right:*
+*Certo:*
 
 ```js
 var adminUser = db.query('SELECT * FROM users ...');
 ```
-
-*Wrong:*
+*Errado:*
 
 ```js
 var admin_user = db.query('SELECT * FROM users ...');
-``` -->
+```
+### 2.2 UpperCamelCase para nome de classes
+Nome de classes devem ser capitalizadas usando o formato 'UpperCamelCase'.
 
-<!-- ### Use UpperCamelCase for class names
-
-Class names should be capitalized using `UpperCamelCase`.
-
-*Right:*
+*Certo:*
 
 ```js
-function BankAccount() {
+function ContaBancaria() {
 }
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
-function bank_Account() {
+function conta_Bancaria() {
 }
-``` -->
+```
 
 <!-- ### Use UPPERCASE for Constants
 
@@ -228,14 +198,12 @@ File.fullPermissions = 0777;
 
 [const]: https://developer.mozilla.org/en/JavaScript/Reference/Statements/const -->
 
-<!-- ## Variables
+## 3. Variáveis
 
-### Object / Array creation
+### 3.1 Objeto / Criação de Array
+Coloque declarações *curtas* em uma única linha. Apenas cite chaves quando seu interprete reclamar:
 
-Use trailing commas and put *short* declarations on a single line. Only quote
-keys when your interpreter complains:
-
-*Right:*
+*Certo:*
 
 ```js
 var a = ['hello', 'world'];
@@ -245,30 +213,27 @@ var b = {
 };
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 var a = [
   'hello', 'world'
 ];
-var b = {"good": 'code'
-        , is generally: 'pretty'
+var b = {good: 'code'
+        ,' is generally': 'pretty'
         };
-``` -->
+``` 
 
-<!-- ## Conditionals
-
-### Use the === operator
-
-Programming is not about remembering [stupid rules][comparisonoperators]. Use
-the triple equality operator as it will work just as expected.
+## 4. Condicionais
+### 4.1 Use o operador ===
+Quando se trata de programação não se preocupe com [regras bobas][operadorcomparar]. Use o operador de tripla igualdade que ele irá funcionar como o esperado.
 
 *Right:*
 
 ```js
 var a = 0;
 if (a !== '') {
-  console.log('winning');
+  console.log('vencendo');
 }
 
 ```
@@ -278,11 +243,11 @@ if (a !== '') {
 ```js
 var a = 0;
 if (a == '') {
-  console.log('losing');
+  console.log('perdendo');
 }
 ```
 
-[comparisonoperators]: https://developer.mozilla.org/en/JavaScript/Reference/Operators/Comparison_Operators -->
+[operadorcomparar]: https://developer.mozilla.org/en/JavaScript/Reference/Operators/Comparison_Operators
 
 <!-- ### Use multi-line ternary operator
 
@@ -302,42 +267,35 @@ var foo = (a === b)
 var foo = (a === b) ? 1 : 2;
 ``` -->
 
-<!-- ### Use descriptive conditions
+### 4.2 Use condições descritivas
+Qualquer condição não trivial deve ser designada a uma variavel e função descritivamente nomeada
 
-Any non-trivial conditions should be assigned to a descriptively named variable or function:
-
-*Right:*
+*Certo:*
 
 ```js
 var isValidPassword = password.length >= 4 && /^(?=.*\d).{4,}$/.test(password);
 
 if (isValidPassword) {
-  console.log('winning');
+  console.log('vencendo');
 }
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 if (password.length >= 4 && /^(?=.*\d).{4,}$/.test(password)) {
-  console.log('losing');
+  console.log('perdendo');
 }
-``` -->
+```
+## 5. Funções
 
-<!-- ## Functions
+### 5.1 Escreva funções pequenas
+Mantenha suas funções curtas. Uma boa função é visível por pessoas da última fileira de uma sala grande. Então não conte para que elas tenham uma visão de perfeita. Tente se limitar a 15 linhas.
 
-### Write small functions
+### 5.2 Retorno cedo de funções
+Para evitar aninhamento de condicionais IF, sempre retorne o valor de uma função o quanto antes.
 
-Keep your functions short. A good function fits on a slide that the people in
-the last row of a big room can comfortably read. So don't count on them having
-perfect vision and limit yourself to ~15 lines of code per function. -->
-
-<!-- ### Return early from functions
-
-To avoid deep nesting of if-statements, always return a function's value as early
-as possible.
-
-*Right:*
+*Certo:*
 
 ```js
 function isPercentage(val) {
@@ -353,7 +311,7 @@ function isPercentage(val) {
 }
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 function isPercentage(val) {
@@ -369,22 +327,19 @@ function isPercentage(val) {
 }
 ```
 
-Or for this particular example it may also be fine to shorten things even
-further:
+Ou, nesse exemplo em particular é possível encurtar mais ainda:
 
 ```js
 function isPercentage(val) {
   var isInRange = (val >= 0 && val <= 100);
   return isInRange;
 }
-``` -->
+```
 
-<!-- ### Name your closures
+### 5.3 Nomeie seus fechamentos
+Sinta-se a vontade para dar nome aos fechamentos. Isso mostra que você se importa com eles e irá produzir melhores rastreamentos de pilha, heap e perfís de cpu.
 
-Feel free to give your closures a name. It shows that you care about them, and
-will produce better stack traces, heap and cpu profiles.
-
-*Right:*
+*Certo:*
 
 ```js
 req.on('end', function onEnd() {
@@ -392,19 +347,18 @@ req.on('end', function onEnd() {
 });
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 req.on('end', function() {
   console.log('losing');
 });
-``` -->
+``` 
 
-<!-- ### No nested closures
+### 5.4 Sem fechamentos aninhados
+Utilize fechamentos, mas não aninhe-os. Caso contrário o seu codigo era se tornar uma bagunça.
 
-Use closures, but don't nest them. Otherwise your code will become a mess.
-
-*Right:*
+*Certo:*
 
 ```js
 setTimeout(function() {
@@ -416,7 +370,7 @@ function afterConnect() {
 }
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 setTimeout(function() {
@@ -424,16 +378,12 @@ setTimeout(function() {
     console.log('losing');
   });
 }, 1000);
-``` -->
+```
+### 5.5 Aninhamento de Métodos
+Um método por linha deve ser usado se você quer aninhar metodos.
+Você também deve identar esses metodos para tornar fácil a identificação daqueles que fazem parte da mesma cadeia.
 
-
-<!-- ### Method chaining
-
-One method per line should be used if you want to chain methods.
-
-You should also indent these methods so it's easier to tell they are part of the same chain.
-
-*Right:*
+*Certo:*
 
 ```js
 User
@@ -444,7 +394,7 @@ User
   });
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 User
@@ -469,25 +419,24 @@ User.findOne({ name: 'foo' }).populate('bar')
   .exec(function(err, user) {
     return true;
   });
-``` -->
+```
 
-<!-- ## Comments
+## 6. Comentários
 
-### Use slashes for comments
+### 6.1 Use o 'barras duplas' para comentarios
+Utilize ambos para comentários de uma linha ou múltiplas. Tente escrever comentários que explicam mecanismos de alto nível ou deixam claros a dificuldade de elementos do código.
 
-Use slashes for both single line and multi line comments. Try to write
-comments that explain higher level mechanisms or clarify difficult
-segments of your code. Don't use comments to restate trivial things.
+Não use comentários em coisas triviais.
 
-*Right:*
+*Certo:*
 
 ```js
 // 'ID_SOMETHING=VALUE' -> ['ID_SOMETHING=VALUE', 'SOMETHING', 'VALUE']
 var matches = item.match(/ID_([^\n]+)=([^\n]+)/));
 
-// This function has a nasty side effect where a failure to increment a
-// redis counter used for statistics will cause an exception. This needs
-// to be fixed in a later iteration.
+// Esta Função tem um efeito colateral esquisito onde a falha em incrementar  um
+//contador redis utilizado para estatísticas ira causar uma exceção. Isto precisa
+// ser concertado em uma iteração futura.
 function loadUser(id, cb) {
   // ...
 }
@@ -498,7 +447,7 @@ if (isSessionValid) {
 }
 ```
 
-*Wrong:*
+*Errado:*
 
 ```js
 // Execute a regex
@@ -509,57 +458,10 @@ function loadUser(id, cb) {
   // ...
 }
 
-// Check if the session is valid
+// Verifica se a sessão é válida
 var isSessionValid = (session.expires < Date.now());
-// If the session is valid
+// Se a sessão não for válida
 if (isSessionValid) {
   // ...
 }
-``` -->
-
-<!-- ## Miscellaneous
-
-### Object.freeze, Object.preventExtensions, Object.seal, with, eval
-
-Crazy shit that you will probably never need. Stay away from it. -->
-
-<!-- ### Requires At Top
-
-Always put requires at top of file to clearly illustrate a file's dependencies. Besides giving an overview for others at a quick glance of dependencies and possible memory impact, it allows one to determine if they need a package.json file should they choose to use the file elsewhere. -->
-
-<!-- ### Getters and setters
-
-Do not use setters, they cause more problems for people who try to use your
-software than they can solve.
-
-Feel free to use getters that are free from [side effects][sideeffect], like
-providing a length property for a collection class.
-
-[sideeffect]: http://en.wikipedia.org/wiki/Side_effect_(computer_science) -->
-
-<!-- ### Do not extend built-in prototypes
-
-Do not extend the prototype of native JavaScript objects. Your future self will
-be forever grateful.
-
-*Right:*
-
-```js
-var a = [];
-if (!a.length) {
-  console.log('winning');
-}
-```
-
-*Wrong:*
-
-```js
-Array.prototype.empty = function() {
-  return !this.length;
-}
-
-var a = [];
-if (a.empty()) {
-  console.log('losing');
-}
-``` -->
+``` 
