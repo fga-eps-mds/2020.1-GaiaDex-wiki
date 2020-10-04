@@ -1,0 +1,117 @@
+# Resultados da Sprint 4
+
+[1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
+
+- [Resultados da Sprint 4](#resultados-da-sprint-4)
+  - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
+    - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
+    - [1.2 _Burndown_](#12-burndown)
+    - [1.3 Gráfico de _commits_](#13-gráfico-de-commits)
+    - [1.4 _Velocity_](#14-velocity)
+    - [1.5 Quadro de Horas](#15-quadro-de-horas)
+    - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
+    - [1.7 Revisão da _Sprint_](#17-revisão-da-sprint)
+  - [2 Retrospectiva](#2-retrospectiva)
+    - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
+
+[2 Retrospectiva](#2-retrospectiva)
+
+- [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
+
+---
+
+## 1. Indicadores de Qualidade do Processo
+
+### 1.1 Fechamento da _Sprint_
+
+| issue                                                                                                                                                | pontos |    status     |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :-----------: |
+| [Issue 40 - Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/40)                                                      |   8    | em andamento  |
+| [EAP](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/58)                                                                                   |   2    | não concluído |
+| [Guia de Estilo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/59)                                                                        |   3    | não concluído |
+| [Documento de Identidade Visual](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/60)                                                        |   5    |   concluído   |
+| [Atualizar RoadMap (até Release 2)](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/54)                                                     |   8    |   concluído   |
+| [US15 - Criar tópico em um fórum de planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/97)                                |   5    | em andamento  |
+| [US16 - Editar tópico criado por mim (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/98)                                      |   3    | em andamento  |
+| [US17 - Deletar o tópico criado por mim (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/99)                                   |   1    | em andamento  |
+| [US18 - Upvote e downvote em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/100)                                   |   2    | em andamento  |
+| [US19 - Criar comentário em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/101)                                    |   3    | em andamento  |
+| [US20 - Editar comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/102)                           |   2    | em andamento  |
+| [US21 - Remover um comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/103)                       |   2    | em andamento  |
+| [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)                  |   5    | em andamento  |
+| [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)                 |   5    | em andamento  |
+| [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) |   3    | em andamento  |
+| [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7)                                              |   5    | em andamento  |
+| [US23 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8)                            |   5    | em andamento  |
+| [Refatorar Documento de Visão](#)                                                                                                                    |   8    |   concluído   |
+| [Refatorar Documento Suplementar](#)                                                                                                                 |   2    |   concluído   |
+| [Refatorar Termo de Abertura do Projeto](#)                                                                                                          |   2    |   concluído   |
+|                                                                                                                                                      |        |               |
+| Pontos Totais                                                                                                                                        |   79   |               |
+| Pontos entregues                                                                                                                                     |   25   |               |
+
+<br/>
+Dos 79 pontos planejados, 25 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+
+| #   | Descrição                                                | Probabilidade do Risco | Tamanho da Perda (dias) | Exposição ao Risco |
+| :-- | :------------------------------------------------------- | :--------------------- | :---------------------- | :----------------- |
+| R01 | Membro faltar reunião                                    | 30.00%                 | 1                       | -                  |
+| R02 | Features má pontuadas                                    | 35.62%                 | 5                       | -                  |
+| R03 | Baixa produtividade da equipe                            | 25%                    | 7                       | -                  |
+| R04 | Mais pontos planejados do que o time é capaz de entregar | 20%                    | 5                       | -                  |
+| R05 | Dificuldades com a tecnologia de desenvolvimento         | 30.71%                 | 3                       | -                  |
+| R06 | Erros na implementação de Features                       | 19.37%                 | 7                       | -                  |
+| R07 | Issues mal documentadas                                  | 7.15%                  | 7                       | -                  |
+| R08 | Quebra ou furto de equipamentos da equipe                | 18.12%                 | 7                       | -                  |
+| R09 | Desistência de algum membro                              | 2.76%                  | 7                       | -                  |
+| R10 | Problemas na configuração do ambiente de desenvolvimento | 40.62%                 | 2                       | -                  |
+| R11 | Indisponibilidade dos membros de MDS                     | 28.75%                 | 3                       | -                  |
+| R12 | Indisponibilidade dos membros de EPS                     | 37.50%                 | 3                       | -                  |
+| R13 | Falta de comunicação                                     | 35%                    | 3                       | -                  |
+|     |                                                          |                        | Exposição:              | -                  |
+
+### 1.2 _Burndown_
+
+![](img/burndown_sprint4.png)
+
+### 1.3 Gráfico de _commits_
+
+Commits na wiki:
+![](img/commits_wiki.png)
+
+Não houveram novos commits no Backend e Frontend.
+
+### 1.4 _Velocity_
+
+![](img/velocity.png)
+
+### 1.5 Quadro de Horas
+
+![](img/hours.png)
+
+### 1.6 Quadro de Conhecimento
+
+![](img/knowledge_box.png)
+
+<br>
+
+### 1.7 Revisão da _Sprint_
+
+- A visão de produto foi consolidada.
+- ScrumPoker caiu durante a votação.
+- Muitas provas pros alunos de MDS.
+
+## 2 Retrospectiva
+
+| Pontos Positivos                  |        Pontos Negativos        |                                   Pontos a Melhorar                                    |
+| :-------------------------------- | :----------------------------: | :------------------------------------------------------------------------------------: |
+| Conclusão dos objetivos da sprint | Muita dívida técnica acumulada | comunicação sobre atividades, provas e outros problemas que possam atrapalhar a sprint |
+| Pareamentos                       |        semana de provas        |                                                                                        |
+
+<br>
+
+### 2.1 Análise do _Scrum Master_
+
+Todas as refatorações de documentos planejadas foram concluídas, mostrando uma evolução no planejamento da equipe.
+
+As dívidas técnicas da sprint passada remanesceram, mostrando um problema na comunicação que ainda precisa ser resolvido.
