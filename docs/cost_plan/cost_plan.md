@@ -8,11 +8,19 @@
 
 ## Introdução
 
+Com a criação deste plano visamos estabelecer os critérios para o planejamento e controle dos custos do projeto, seguindo o gerenciamento de projetos PMBOK.
+
 ## Processo de Gerenciamento de Custos
 
 ### Medição de Custos
 
+Em busca de dimnuir a margem de erro devido a estimativa de custos, utilizaremos a técnica Program Evaluation and Review Technique também conhecida como PERT, que leva em consideração três cenários, o otimista, o pessimista e o mais provável, o que resulta na seguinte fórmula:
+
+![](https://i.imgur.com/XT3N2he.jpg)
+
 ### Recursos humanos
+
+
 
 ## Custos Operacionais
 
