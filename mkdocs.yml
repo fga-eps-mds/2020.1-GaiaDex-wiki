@@ -44,6 +44,11 @@ nav:
     - Roadmap de Produto: roadmap/product_roadmap.md
     - RoadMap de Papeis: roadmap/roles_roadmap.md
   - Prototipo: prototipo/prototipo.md
+  - Identidade Visual:
+    - Inspirações: visual_identity/inspirations.md
+    - Moodboard: visual_identity/moodboard.md
+    - Roadmap do Protótipo: visual_identity/roadmap_prototype.md
+    - Documento de Identidade Visual: visual_identity/visual_identity.md
   - Sprints:
     - Sprint 0:
       - Planning: sprints/sprint0/planning.md
