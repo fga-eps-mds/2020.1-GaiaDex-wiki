@@ -3,7 +3,7 @@
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
-| 04/10/2020 | 1.0 | Criação do Documento  | Victor Samuel, Marcos Felipe e Guilherme Lira |
+| 04/10/2020 | 1.0 | Criação do Documento  | Victor Samuel, Marcos Felipe e Guilherme de Lyra |
 
 ## Sumário
 [1. Introdução](#1-introdução)
