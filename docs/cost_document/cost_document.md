@@ -3,7 +3,7 @@
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
-| 04/10/2020 | 1.0 | Criação do Documento e adição de tópicos 1 à 7 | Victor Samuel, Marcos Felipe e Guilherme Lira |
+| 04/10/2020 | 1.0 | Criação do Documento e adição de tópicos 1 à 7 | Victor Samuel, Marcos Felipe e Guilherme de Lyra |
 
 ## Sumário
 
