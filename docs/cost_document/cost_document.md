@@ -56,8 +56,8 @@ Logo após o levantamento da média de horas junto ao grupo, se faz necessário 
 | Product Owner | 1 | 15h | R$ 53,98 | R$ 809,70 |
 | Scrum Master	| 1 | 15h | R$ 44,49 | R$ 667,35 |
 | DevOps | 1 | 15h | R$ 34,18 | R$ 512,70 |
-| Desenvolvedor Júnior | 7 | 15h | R$ 16,62 | R$ 249,30 |
-| **Total** | 10 | 150h | R$ 149,27| R$ 2239,05
+| Desenvolvedor Júnior | 7 | 15h | R$ 16,62 | R$ 1745,10 |
+| **Total** | 10 | 150h | R$ 149,27| R$ 3734,85
 
 
 * Estimativa Mais Provável 
@@ -67,8 +67,8 @@ Logo após o levantamento da média de horas junto ao grupo, se faz necessário 
 | Product Owner | 1 | 10h | R$ 53,98 | R$ 539,80 |
 | Scrum Master	| 1 | 10h | R$ 44,49 | R$ 444,90 |
 | DevOps | 1 | 10h | R$ 34,18 | R$ 341,8 |
-| Desenvolvedor Júnior | 7 | 10h | R$ 16,62 | R$ 166,20 |
-| **Total** | 10 | 100h | R$ 149,27| R$ 1492,70
+| Desenvolvedor Júnior | 7 | 10h | R$ 16,62 | R$ 1163,40 |
+| **Total** | 10 | 100h | R$ 149,27| R$ 2148,10
 
 * Estimativa Otimista
 
@@ -77,8 +77,8 @@ Logo após o levantamento da média de horas junto ao grupo, se faz necessário 
 | Product Owner | 1 | 8h | R$ 53,98 | R$ 431,84 |
 | Scrum Master	| 1 | 8h | R$ 44,49 | R$ 355,92 |
 | DevOps | 1 | 8h | R$ 34,18 | R$ 273,44 |
-| Desenvolvedor Júnior | 7 | 8h | R$ 16,62 | R$ 132,96 |
-| **Total** | 10 | 80h | R$ 149,27| R$ 1194,16
+| Desenvolvedor Júnior | 7 | 8h | R$ 16,62 | R$ 930,72 |
+| **Total** | 10 | 80h | R$ 149,27| R$ 1718,48
 
 
 ## **4. Custos Operacionais**
