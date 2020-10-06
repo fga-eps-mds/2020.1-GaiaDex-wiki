@@ -74,7 +74,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ### 1.5 Quadro de Horas
 
-![](img/hours.jpg)
+![](img/hours.png)
 
 ### 1.6 Quadro de Conhecimento
 
