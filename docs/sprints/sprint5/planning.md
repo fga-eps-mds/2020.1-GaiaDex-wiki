@@ -35,7 +35,7 @@
 
 ## 2. Objetivos da _Sprint_
 
-- Finalmente sanar todas dividas tecnicas, preparar a apresentação da Release 1, terminar os documentos planejados pra Release 1.
+Esta _sprint_ tem por objetivo a realização de documentos essenciais para a Release 1, bem como preparar a apresentação de entrega. Paralelamente, entregar algumas das dívidas técnicas pendentes.
 
 ## 3. Mudanças
 
