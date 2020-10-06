@@ -95,6 +95,8 @@ Não houveram novos commits no Backend e Frontend.
 
 ### 2.1 Análise do _Scrum Master_
 
-Todas as refatorações de documentos planejadas foram concluídas, mostrando uma evolução no planejamento da equipe.
+A sprint em si foi um sucesso. Os pontos planejados para esta sprint foram entregues corretamente, ou seja, todas as refatorações de documentos planejadas foram concluídas, mostrando uma evolução no planejamento da equipe.
 
-As dívidas técnicas da sprint passada remanesceram, mostrando um problema na comunicação que ainda precisa ser resolvido.
+As dívidas técnicas das sprints anteriores permanecem, mas isto não afeta em peso o andamento do projeto com relação ao novo planejamento.
+
+Os pareamentos de EPS em conjunto com MDS está dando bons resultados. MDS está tendo maior contato com a documentação, mas ainda não encontrou um balanço para realização das dívidas técnicas. A gerência replanejou as sprints futuras com o pensamento neste ponto.
