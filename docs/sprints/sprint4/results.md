@@ -53,23 +53,6 @@
 <br/>
 Dos 79 pontos planejados, 25 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
-| #   | Descrição                                                | Probabilidade do Risco | Tamanho da Perda (dias) | Exposição ao Risco |
-| :-- | :------------------------------------------------------- | :--------------------- | :---------------------- | :----------------- |
-| R01 | Membro faltar reunião                                    | 30.00%                 | 1                       | -                  |
-| R02 | Features má pontuadas                                    | 35.62%                 | 5                       | -                  |
-| R03 | Baixa produtividade da equipe                            | 25%                    | 7                       | -                  |
-| R04 | Mais pontos planejados do que o time é capaz de entregar | 20%                    | 5                       | -                  |
-| R05 | Dificuldades com a tecnologia de desenvolvimento         | 30.71%                 | 3                       | -                  |
-| R06 | Erros na implementação de Features                       | 19.37%                 | 7                       | -                  |
-| R07 | Issues mal documentadas                                  | 7.15%                  | 7                       | -                  |
-| R08 | Quebra ou furto de equipamentos da equipe                | 18.12%                 | 7                       | -                  |
-| R09 | Desistência de algum membro                              | 2.76%                  | 7                       | -                  |
-| R10 | Problemas na configuração do ambiente de desenvolvimento | 40.62%                 | 2                       | -                  |
-| R11 | Indisponibilidade dos membros de MDS                     | 28.75%                 | 3                       | -                  |
-| R12 | Indisponibilidade dos membros de EPS                     | 37.50%                 | 3                       | -                  |
-| R13 | Falta de comunicação                                     | 35%                    | 3                       | -                  |
-|     |                                                          |                        | Exposição:              | -                  |
-
 ### 1.2 _Burndown_
 
 ![](img/burndown_sprint4.png)
