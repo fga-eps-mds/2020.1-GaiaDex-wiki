@@ -34,7 +34,7 @@
 
 ## 1. Introdução
 
-O EVM tem como intuito integrar escopo, cronograma e recursos em um projetoo, que consiste em medir objetivamente o desempenho e o progresso do projeto comparando custos (real e planejado) e valor agregado.
+O EVM tem como intuito integrar escopo, cronograma e recursos em um projeto, que consiste em medir objetivamente o desempenho e o progresso do projeto comparando custos (real e planejado) e valor agregado.
 
 ## 2. Colunas
 
