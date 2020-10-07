@@ -42,6 +42,7 @@ nav:
   - Política de Repositório: repository_politics/repository_politics.md
   - Product Backlog: product_backlog/product_backlog.md
   - Critérios de Aceitação: product_backlog/acceptance_criteria.md
+  - EVM: evm/evm.md
   - RoadMap:
     - Roadmap de Produto: roadmap/product_roadmap.md
     - RoadMap de Papeis: roadmap/roles_roadmap.md
