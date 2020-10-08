@@ -2,7 +2,7 @@
 
 | ID   | Épico          | Descrição                                                                                                                                    | Prioridade |
 | ---- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| EP01 | Planta-dex     | Inventário, estilo Pokedex, indicando quais plantas o usuário já coletou                                                                     | Must       |
+| EP01 | Coleção das plantas do Usuário | Inventário, estilo Pokedex, indicando quais plantas o usuário já coletou                                                                     | Must       |
 | EP02 | Perfil         | Informações relativas ao usuário                                                                                                             | Must       |
 | EP03 | Card de Planta | Informações relativas à planta                                                                                                               | Must       |
 | EP04 | Fórum          | Threads que um usuário pode abrir dentro do fórum (único) de cada planta, onde haverá interações (comentários, respostas etc) entre usuários | Must       |
@@ -13,9 +13,9 @@
 
 |  ID  |      Épico      | eu como |                      quero                       |                                        para                                         | Prioridade (em relação ao épico) |                                 Critério de aceitação                                 |
 | :--: | :-: | :-: | :-: | :-: | :-: | :-: |
-| US01 |   Planta-dex    | Usuário |                 Scannear planta                  |                              adicionar à minha coleção                              | Must                             |                 [→](./acceptance_criteria.md#US01---Scannear-planta) |
-| US02 |   Planta-dex    | Usuário |             Visualizar minha coleção             |                   saber quais plantas eu possuo na minha coleção                    | Must                             |             [→](./acceptance_criteria.md#US02---Visualizar-minha-coleção) |
-| US03 |   Planta-dex    | Usuário |      Visualizar informações da Minha Planta      |                             que eu saiba mais sobre ela                             | Should                           |      [→](./acceptance_criteria.md#US03---Visualizar-informações-da-Minha-Planta) |
+| US01 |   Coleção das plantas do Usuário    | Usuário |                 Scannear planta                  |                              adicionar à minha coleção                              | Must                             |                 [→](./acceptance_criteria.md#US01---Scannear-planta) |
+| US02 |   Coleção das plantas do Usuário    | Usuário |             Visualizar minha coleção             |                   saber quais plantas eu possuo na minha coleção                    | Must                             |             [→](./acceptance_criteria.md#US02---Visualizar-minha-coleção) |
+| US03 |   Coleção das plantas do Usuário    | Usuário |      Visualizar informações da Minha Planta      |                             que eu saiba mais sobre ela                             | Should                           |      [→](./acceptance_criteria.md#US03---Visualizar-informações-da-Minha-Planta) |
 | US04 |     Perfil      | Usuário |       Cadastrar minha conta no aplicativo        |                        poder informar meus dados ao sistema                         | Must                             |       [→](./acceptance_criteria.md#US04---Cadastrar-minha-conta-no-aplicativo) |
 | US05 |     Perfil      | Usuário |     Cadastrar/fazer login com conta Facebook     |                        poder informar meus dados ao sistema                         | Could                            |     [→](./acceptance_criteria.md#US05---Cadastrar-fazer-login-com-conta-Facebook) |
 | US06 |     Perfil      | Usuário |      Cadastrar/fazer login com conta Google      |                        poder informar meus dados ao sistema                         | Could                            |      [→](./acceptance_criteria.md#US06---Cadastrar-fazer-login-com-conta-Google) |
