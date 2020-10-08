@@ -54,6 +54,7 @@
 ### Sprint 3
 
 Documentos:
+
 * Critérios Extras
 * EAP
 * Guia de Estilo
@@ -63,6 +64,7 @@ Documentos:
 * Gerar todas as issues nos repositórios
 
 Backend:
+
 * US15 - Criar tópico em um fórum de planta (Backend)
 * US16 - Editar tópico criado por mim (Backend)
 * US17 - Deletar o tópico criado por mim (Backend)
@@ -73,6 +75,7 @@ Backend:
 * US22 - Upvote e downvote em um comentário (Backend)
 
 Frontend:
+
 * US04 - Cadastrar minha conta no aplicativo (FrontEnd)
 * US07 - Fazer login no aplicativo (FrontEnd)
 * US08 - Fazer logout no aplicativo (FrontEnd)
@@ -102,11 +105,13 @@ Frontend:
 * Plano de pipeline devops
 
 Backend:
+
 * US01 - Scannear planta (backend)
 * US02 - Visualizar minha coleção (backend)
 * US03 - Visualizar informações da Minha Planta (backend)
 
 Frontend:
+
 * US01 - Scannear planta (frontend)
 * US15 - Criar tópico em um fórum de planta (frontend)
 * US16 - Editar tópico criado por mim (frontend)
@@ -120,9 +125,11 @@ Frontend:
 * Configurar Lint com Guia de Estilo
 
 Backend:
+
 * US27 - Alterar informações da minha planta (backend)
 
 Frontend:
+
 * US09 - Visualizar minha conta (frontend)
 * US19 - Criar comentário em um tópico (frontend)
 * US20 - Editar comentário que fiz em um tópico (frontend)
@@ -135,9 +142,11 @@ Frontend:
 * Configurar CI/CD
 
 Backend:
+
 * US13 - Visualizar perfil de outro usuário (backend)
 
 Frontend:
+
 * US02 - Visualizar minha coleção (frontend)
 * US03 - Visualizar informações da Minha Planta (frontend)
 * US27 - Alterar informações da minha planta (frontend)
@@ -147,6 +156,7 @@ Frontend:
 * Teste de usabilidade
 
 Backend:
+
 * US24 - Adicionar planta aos meus Favoritos (backend)
 * US25 - Remover uma planta da minha coleção de favoritos (backend)
 * US26 - Visualizar minha coleção de favoritos (backend)
@@ -156,38 +166,46 @@ Backend:
 * Benchmark
 
 Frontend:
+
 * US10 - Visualizar configurações da conta (frontend)
 * US26 - Visualizar minha coleção de favoritos (frontend)
 
 ### Sprint 11
 
 Frontend:
+
 * US24 - Adicionar planta aos meus Favoritos (frontend)
 * US25 - Remover uma planta da minha coleção de favoritos (frontend)
 
 ### Sprint 12
 
 Backend:
+
 * US14 - Bloquear outro usuário (backend)
 
 Frontend:
+
 * US14 - Bloquear outro usuário (frontend)
 
 ### Sprint 13
 
 Backend:
+
 * US28 - Definir configurações de notificação (backend)
 
 Frontend: 
+
 * US28 - Definir configurações de notificação (frontend)
 
 ### Sprint 14
 
 Backend:
+
 * US05 - Cadastrar/fazer login com conta Facebook (backend)
 * US06 - Cadastrar/fazer login com conta Google (backend)
 
 Frontend:
+
 * US05 - Cadastrar/fazer login com conta Facebook (frontend)
 * US06 - Cadastrar/fazer login com conta Google (frontend)
 
