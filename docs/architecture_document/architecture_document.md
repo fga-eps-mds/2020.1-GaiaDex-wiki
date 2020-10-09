@@ -6,7 +6,10 @@
 | :-:   |  :-:   |    :-:    |    :-:                              |
 | 12/09 |  0.1   |  Criação da estrutura do documento | [João Vítor](http://github.com/joaovitorml) |
 | 13/09 |  0.2   | Atualização do sumário |  [João Vítor](http://github.com/joaovitorml)           |
-| 13/09 |  1.0   |  | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
+| 13/09 |  1.0   | Criação do Documento | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
+| 27/09 |  1.1   | Atualização de diagrama de classes e backend pkg | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
+| 27/09 |  1.2   | Atualização do nome do projeto: *GaiaDex* | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
+
 
 ## Sumário
 
@@ -38,11 +41,11 @@
 
 ### 1.1 Finalidade
 
-Este documento tem por finalidade, demonstrar uma clara visão da arquitetura do projeto <nome_do_projeto>, a ser implementado, para todos os envolvidos no desenvolvimento; permitindo um entendimento em suas possíveis subdivisões, funções de componentes e reestruturações.
+Este documento tem por finalidade, demonstrar uma clara visão da arquitetura do projeto *GaiaDex*, a ser implementado, para todos os envolvidos no desenvolvimento; permitindo um entendimento em suas possíveis subdivisões, funções de componentes e reestruturações.
 
 ### 1.2 Escopo
 
-Este documento descreve toda a arquitetura do projeto <nome_do_projeto>, explicando as soluções arquiteturais estabelecidas para o projeto. Com isso, possibilita-se a compreensão e o entendimento da base do projeto.
+Este documento descreve toda a arquitetura do projeto *GaiaDex*, explicando as soluções arquiteturais estabelecidas para o projeto. Com isso, possibilita-se a compreensão e o entendimento da base do projeto.
 
 ### 1.3 Referências
 
@@ -62,7 +65,7 @@ O documento fornece detalhadamente, a nível de compreensão, a arquitetura do p
 
 ## **2. Representação da Arquitetura**
 
-O desenho arquitetural do projeto <nome_do_projeto> se faz pelo uso do modelo em três camadas, utilizando-se a _MERN Stack_ - MongoDB, Express, React e NodeJS.
+O desenho arquitetural do projeto *GaiaDex* se faz pelo uso do modelo em três camadas, utilizando-se a _MERN Stack_ - MongoDB, Express, React e NodeJS.
 
 O modelo em três camandas promove o desacoplamento das partes do projeto nas seguies camadas: camada de apresentação - onde há a interação com o usuário -; camada de negócio - onde há as funções e regras de todo o negócio, não havendo uma interface para o usuário -; e a camada de dados - responsável por armazenar as informações e dados a serem manipulados.
 
@@ -98,7 +101,7 @@ O desenvolvimento do projeto será em React-Native 0.62.x bem como Express 4.x.x
 
 O desenvolvimento deverá estar de acordo as boas práticas de programação e requisitos não funcionais para que facilite a manutenção por outras equipes.
 
-<nome_do_projeto> será um _Portable Web Application_ (PWA), ou seja, um aplicativo portável para multiplas plataformas móveis. A aplicação deve rodar em versões superiores a Andoird x.x e IOS x.x. Esta restrição se dá pelos requerimentos das tecnologias utilizadas no desenvolvimento do projeto.
+*GaiaDex* será um _Portable Web Application_ (PWA), ou seja, um aplicativo portável para multiplas plataformas móveis. A aplicação deve rodar em versões superiores a Andoird x.x e IOS x.x. Esta restrição se dá pelos requerimentos das tecnologias utilizadas no desenvolvimento do projeto.
 
 ## **4. Visão Lógica**
 

@@ -1,11 +1,18 @@
 import os.path
 ac_file_path = os.path.dirname(os.path.abspath(__file__)) + '/../acceptance_criteria.md'
-ex_file_path = os.path.dirname(os.path.abspath(__file__)) + '/../extras.md'
+ex_file_path = os.path.dirname(os.path.abspath(__file__)) + '/../extra_criterias.md'
 pb_file_path = os.path.dirname(os.path.abspath(__file__)) + '/../product_backlog.md'
+prefix_potential = '/potential_backlog/potential_'
 
-def sort_file(filename):
+def sort_file(filename, potential=False):
+    pb_file = pb_file_path
+
+    if potential==True:
+        filename = '/'.join(filename.split('/')[:-1])+prefix_potential+filename.split('/')[-1]
+        pb_file = '/'.join(pb_file.split('/')[:-1])+prefix_potential+pb_file.split('/')[-1]
+
     f = open(filename, 'r').read()
-    
+
     header = f.split('###')[0]
     tokens = f.split('###')[1:]
 
@@ -20,7 +27,7 @@ def sort_file(filename):
         }
 
     
-    f = open(pb_file_path, 'r').read()
+    f = open(pb_file, 'r').read()
 
     us_num = {}
     tokens = f.split('| US')[1:]
@@ -52,5 +59,10 @@ def sort_file(filename):
     f.write(final_text)
     f.close()
 
-sort_file(ac_file_path)
-sort_file(ex_file_path)
+    return
+
+# --- #
+
+for i in False, True:
+    sort_file(ac_file_path, potential=i)
+    sort_file(ex_file_path, potential=i)

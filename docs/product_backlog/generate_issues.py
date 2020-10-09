@@ -7,7 +7,7 @@ pb_file_path = os.path.dirname(
 ac_file_path = os.path.dirname(
     os.path.abspath(__file__)) + '/acceptance_criteria.md'
 ex_file_path = os.path.dirname(
-    os.path.abspath(__file__)) + '/extras.md'
+    os.path.abspath(__file__)) + '/extra_criterias.md'
 
 
 def gen_description(us_number):
@@ -20,7 +20,7 @@ def gen_description(us_number):
                 want = line.split('|')[4].strip()
                 so_that = line.split('|')[5].strip().lower()
 
-                issue_title = 'US{:02d} - {}'.format(us_number, want)
+                issue_title = '{:02d} - {}'.format(us_number, want)
 
                 description = f'{description} {user} quero {want.lower()} para {so_that}.'
 
@@ -30,15 +30,16 @@ def gen_description(us_number):
 def gen_acex_list(us_number, filename):
     acs = []
     with open(filename) as file:
-        flag = 0
+        has_reached_user_story = False
         for line in file.readlines():
-            if 'US' in line and flag == 1:
+            if 'criterio 1' in line or 'criterio 2' in line or 'criterio1' in line or 'criterio2' in line:
+                continue
+            if 'US' in line and has_reached_user_story == True: #reached next US, leave
                 break
-            if flag == 1 and '- [ ]' in line:
-                acs.append(
-                    line.split('- [ ]')[-1].strip().replace(';', '\\').replace('|', '\\'))
+            if has_reached_user_story == True and '- [ ]' in line:
+                acs.append(line.split('- [ ]')[-1].strip().replace(';', '\\').replace('|', '\\'))
             if "US{:02d}".format(us_number) in line:
-                flag = 1
+                has_reached_user_story = True
 
     return ';'.join(acs)
 
@@ -51,7 +52,7 @@ def remove_duplicates(filepath):
 
     with open(filepath, 'w') as file:
         file.write(
-            '| title | description | acceptance criteria | tasks |\n| ----- | ----------- | ------------------- | ----- |\n')
+            '| title | description | acceptance criteria | extras |\n| ----- | ----------- | ------------------- | ---- |\n')
         file.writelines(s.keys())
 
 def number_of_user_stories():
@@ -59,11 +60,13 @@ def number_of_user_stories():
         f = f.read()
         return len(f.split('| US'))
 
+with open('template_issues.md', 'w') as file:
+    file.write('')
+
 for i in range(1, number_of_user_stories()):
     issue_title, description = gen_description(i)
     ac = gen_acex_list(i, ac_file_path)
     ex = gen_acex_list(i, ex_file_path)
-
     issue = f'| {issue_title} | {description} | {ac} | {ex} |\n'
 
     with open('template_issues.md', 'a') as file:

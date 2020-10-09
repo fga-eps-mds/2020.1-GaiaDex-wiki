@@ -37,13 +37,22 @@ nav:
   - Documento Suplementar: supplementary_document/supplementary_document.md
   - Plano de Gerenciamento de Comunicação: communication_plan/communication_plan.md
   - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
+  - Plano de Qualidade: quality_plan/quality.md
+  - Plano de Gerenciamento de Custos: cost_document/cost_document.md
   - Política de Repositório: repository_politics/repository_politics.md
   - Product Backlog: product_backlog/product_backlog.md
   - Critérios de Aceitação: product_backlog/acceptance_criteria.md
+  - EVM: evm/evm.md
+  - EAP: eap/eap.md
   - RoadMap:
     - Roadmap de Produto: roadmap/product_roadmap.md
     - RoadMap de Papeis: roadmap/roles_roadmap.md
   - Prototipo: prototipo/prototipo.md
+  - Identidade Visual:
+    - Inspirações: visual_identity/inspirations.md
+    - Moodboard: visual_identity/moodboard.md
+    - Roadmap do Protótipo: visual_identity/roadmap_prototype.md
+    - Documento de Identidade Visual: visual_identity/visual_identity.md
   - Sprints:
     - Sprint 0:
       - Planning: sprints/sprint0/planning.md
@@ -53,6 +62,15 @@ nav:
       - Results:  sprints/sprint1/results.md
     - Sprint 2:
       - Planning: sprints/sprint2/planning.md
+      - Results: sprints/sprint2/results.md
+    - Sprint 3:
+      - Planning: sprints/sprint3/planning.md
+      - Results: sprints/sprint3/results.md
+    - Sprint 4:
+      - Planning: sprints/sprint4/planning.md
+      - Results: sprints/sprint4/results.md
+    - Sprint 5:
+      - Planning: sprints/sprint5/planning.md
 
 # Style
 extra_css:

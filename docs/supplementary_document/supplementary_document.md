@@ -7,6 +7,7 @@
 | 12/09| 0.1    | Criação da estrutura do documento | [João Vítor](http://github.com/joaovitorml) |
 | 14/09| 1.0    | Adição dos tópicos 1 a 9 | [João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Victor Hugo](http://github.com/v100k) 
 |14/09| 1.1 | Alteração dos tópicos 3.1 e 7 | [Rafael Makaha](http://github.com/rafaelmakaha) |
+|27/09| 1.2 | Alteração dos tópicos 2.1, 5 e 6| [Ruan Moura](http://github.com/ruanmoura), [Victor Hugo](http://github.com/v100k), [Rafael Makaha](http://github.com/rafaelmakaha)|
 
 ## Sumário
 
@@ -83,10 +84,10 @@ O sistema deverá prover uma interface simples e minimalista, com design intuiti
 
 **Importância:** Essencial.
 
-**[RU02] Pequena curva de aprendizado**
+<!-- **[RU02] Pequena curva de aprendizado**
 Ao entrar pela primeira vez, o sistema irá mostrar uma tela ao usuário dando dicas e falando sobre as funcionalidades principais do aplicativo, para aumentar a velocidade do usuário ao utilizar a aplicação.
 
-**Importância:** Relevante.
+**Importância:** Relevante. -->
 
 ## 3. Confiabilidade
 
@@ -135,14 +136,14 @@ O tempo de resposta a uma transação tem muita dependência da conexão do usu�
 **Importância:** Relevante.
 
 ## 5. Suportabilidade
-O Mãe de Planta terá suporte apenas em dispositivos com versões superiores a 5.0 do Android ou 9.0 do IOS e que tenham acesso à internet, essa restrição é baseada nos requerimentos das tecnologias usadas para o desenvolvimento do projeto.
+O GaiaDex terá suporte apenas em dispositivos com versões superiores a 5.0 do Android ou 9.0 do IOS e que tenham acesso à internet, essa restrição é baseada nos requerimentos das tecnologias usadas para o desenvolvimento do projeto.
 
 ## 6. Restrições de Design
 A aplicação mobile deverá ser responsiva, ou seja, seu design deve se adaptar ao tamanho da tela do dispositivo que o usuário estiver utilizando.
 
-A escolha de cores para aplicação tem o objetivo de proporcionar emoções positivas ao usuário para ir de acordo com a visão e o objetivo da Mãe de Planta, descritos no Documento de Visão.
+A escolha de cores para aplicação tem o objetivo de proporcionar emoções positivas ao usuário para ir de acordo com a visão e o objetivo do GaiDex, descritos no Documento de Visão.
 
-A  disposição dos elementos e funcionalidades nas telas  do aplicativo foram feitas de uma forma que o usuário tenha facilidade de usá-lo e tenha clareza da utilidade de cada elemento.
+A disposição dos elementos e funcionalidades nas telas  do aplicativo foram feitas de uma forma que o usuário tenha facilidade de usá-lo e tenha clareza da utilidade de cada elemento.
 
 ## 7. Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line
 O aplicativo terá uma sessão de ajuda ao usuário contendo a documentação com as dúvidas frequentes.

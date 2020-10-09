@@ -7,8 +7,5 @@ assignees: ''
 
 ---
 
-# Description
-This issue requires
-
-# Objectives
-- [ ] 
+# Descrição
+Esta Issue requer
