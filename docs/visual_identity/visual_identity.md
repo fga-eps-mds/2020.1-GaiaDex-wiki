@@ -33,13 +33,11 @@ O documento de versionamento do protótipo [encontra-se aqui](./../prototipo/pro
 
 ## Tipografia e Escala Tipográfica
 
-| elemento | estilo da fonte |
-| -------- | --------------- |
-|          |                 |
+![escala](./imgs/escala_tipografica.png)
 
 ## Paleta de Cores
 
-.
+![escala](./imgs/paleta_de_cores.png)
 
 ## Componentes utilizados
 
