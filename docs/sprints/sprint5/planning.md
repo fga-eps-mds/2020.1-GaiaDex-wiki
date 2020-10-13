@@ -4,13 +4,13 @@
 
 **Data de Término:** 08/10/2020
 
-**Duração:** \* 7 dias
+**Duração:**  7 dias
 
 **Pontos Planejados**: 31
 
-**Pontos Adicionados**: 54
+**Pontos Adicionados**: 59
 
-**Pontos Totais**: 85
+**Pontos Totais**: 90
 
 ---
 
@@ -76,6 +76,7 @@ Esta _sprint_ tem por objetivo a realização de documentos essenciais para a Re
 - [US19 - Criar comentário em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/101) - 3 pontos
 - [US20 - Editar comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/102) - 2 pontos
 - [US21 - Remover um comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/103) - 2 pontos
+- [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4)  - 5 pontos
 - [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) - 5 pontos
 - [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) - 5 pontos
 - [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) - 3 pontos
@@ -84,7 +85,7 @@ Esta _sprint_ tem por objetivo a realização de documentos essenciais para a Re
 
 ### 5.2 Novas issues
 
-- [EVM](#) - 5 pontos
-- [Plano de Custo](#) - 5 pontos
-- [Plano de Qualidade](#) - 8 pontos
-- [Apresentação R1](#) - 13 pontos
+- [EVM](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/81) - 5 pontos
+- [Plano de Custo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/82) - 5 pontos
+- [Plano de Qualidade](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/83) - 8 pontos
+- [Apresentação R1](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/93) - 13 pontos

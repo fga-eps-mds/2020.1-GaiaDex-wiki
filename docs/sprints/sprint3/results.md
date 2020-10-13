@@ -40,9 +40,9 @@
 | [US19 - Criar comentário em um tópico (Backend)](#)                                                     |   3    | Não Concluído |
 | [US20 - Editar comentário que fiz em um tópico (Backend)](#)                                            |   2    | Não Concluído |
 | [US21 - Remover um comentário que fiz em um tópico (Backend)](#)                                        |   2    | Não Concluído |
-| [Issue 04 (frontend) - US07 - Fazer login no aplicativo (Frontend)](FrontEnd/issues/6)                  |   5    | Não Concluído |
-| [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](FrontEnd/issues/6)                  |   5    | Não Concluído |
-| [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](FrontEnd/issues/6)                 |   3    | Não Concluído |
+| [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4)                  |   5    | Não Concluído |
+| [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5)                  |   5    | Não Concluído |
+| [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)                 |   3    | Não Concluído |
 | [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](BackEnd/issues/9) |   3    | Não Concluído |
 | [US12 - Deletar minha conta (FrontEnd)](FrontEnd/issues/7)                                              |   5    | Não Concluído |
 | [US23 - Visualizar informações sobre a planta (Frontend)](FrontEnd/issues/8)                            |   5    | Não Concluído |
