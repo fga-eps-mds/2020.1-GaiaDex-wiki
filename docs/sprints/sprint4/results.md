@@ -38,6 +38,7 @@
 | [US19 - Criar comentário em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/101)                                    |   3    | em andamento  |
 | [US20 - Editar comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/102)                           |   2    | em andamento  |
 | [US21 - Remover um comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/103)                       |   2    | em andamento  |
+| [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4)  | 5 | em andamento |
 | [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)                  |   5    | em andamento  |
 | [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)                 |   5    | em andamento  |
 | [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) |   3    | em andamento  |
@@ -47,11 +48,11 @@
 | [Refatorar Documento Suplementar](#)                                                                                                                 |   2    |   concluído   |
 | [Refatorar Termo de Abertura do Projeto](#)                                                                                                          |   2    |   concluído   |
 |                                                                                                                                                      |        |               |
-| Pontos Totais                                                                                                                                        |   79   |               |
+| Pontos Totais                                                                                                                                        |   84   |               |
 | Pontos entregues                                                                                                                                     |   25   |               |
 
 <br/>
-Dos 79 pontos planejados, 25 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 84 pontos planejados, 25 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 

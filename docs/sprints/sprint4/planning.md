@@ -8,9 +8,9 @@
 
 **Pontos Planejados**: 12
 
-**Pontos Adicionados**: 78
+**Pontos Adicionados**: 83
 
-**Pontos Totais**: 90
+**Pontos Totais**: 95
 
 -------
 
@@ -63,6 +63,7 @@ Paralelamente a isto, haverá o trabalho em issues de dívidas técnicas.
 * [US19 - Criar comentário em um tópico (Backend)](#)
 * [US20 - Editar comentário que fiz em um tópico (Backend)](#)
 * [US21 - Remover um comentário que fiz em um tópico (Backend)](#)
+* [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4) 
 * [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)
 * [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6)
 * [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9)
