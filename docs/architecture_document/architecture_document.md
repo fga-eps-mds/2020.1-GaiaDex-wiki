@@ -107,7 +107,7 @@ O desenvolvimento deverá estar de acordo as boas práticas de programação e r
 
 ### 4.1 Diagrama de Classes
 
-![](img/class_diagram.png)
+![](img/ClassDiagram.jpg)
 
 ### 4.2 Diagrama de Pacotes
 
