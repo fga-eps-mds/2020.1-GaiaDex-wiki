@@ -102,7 +102,6 @@ Frontend:
 ### Sprint 6
 
 * Plano de GCS
-* Plano de pipeline devops
 
 Backend:
 
@@ -110,43 +109,27 @@ Backend:
 * US02 - Visualizar minha coleção (backend)
 * US03 - Visualizar informações da Minha Planta (backend)
 
-Frontend:
-
-* US01 - Scannear planta (frontend)
-* US15 - Criar tópico em um fórum de planta (frontend)
-* US16 - Editar tópico criado por mim (frontend)
-* US17 - Deletar o tópico criado por mim (frontend)
-* US18 - Upvote e downvote em um tópico (frontend)
-
 ### Sprint 7
 
 * Testes nas histórias já feitas no backend (Jest)
 * Cobertura de Testes Code Climate
 * Configurar Lint com Guia de Estilo
 
-Backend:
-
-* US27 - Alterar informações da minha planta (backend)
-
 Frontend:
 
-* US09 - Visualizar minha conta (frontend)
-* US19 - Criar comentário em um tópico (frontend)
-* US20 - Editar comentário que fiz em um tópico (frontend)
-* US21 - Remover um comentário que fiz em um tópico (frontend)
-* US22 - Upvote e downvote em um comentário (frontend)
+* US15 - Criar tópico em um fórum de planta (frontend)
+* US16 - Editar tópico criado por mim (frontend)
+* US17 - Deletar o tópico criado por mim (frontend)
+* US18 - Upvote e downvote em um tópico (frontend)
 
 ### Sprint 8
 
 * Testes exploratórios
 * Configurar CI/CD
 
-Backend:
-
-* US13 - Visualizar perfil de outro usuário (backend)
-
 Frontend:
 
+* US01 - Scannear planta (frontend)
 * US02 - Visualizar minha coleção (frontend)
 * US03 - Visualizar informações da Minha Planta (frontend)
 * US27 - Alterar informações da minha planta (frontend)
@@ -157,44 +140,51 @@ Frontend:
 
 Backend:
 
-* US24 - Adicionar planta aos meus Favoritos (backend)
-* US25 - Remover uma planta da minha coleção de favoritos (backend)
-* US26 - Visualizar minha coleção de favoritos (backend)
+* US27 - Alterar informações da minha planta (backend)
+
+Frontend:
+
+* US19 - Criar comentário em um tópico (frontend)
+* US20 - Editar comentário que fiz em um tópico (frontend)
+* US21 - Remover um comentário que fiz em um tópico (frontend)
+* US22 - Upvote e downvote em um comentário (frontend)
 
 ### Sprint 10
 
 * Benchmark
+
+Backend:
+
+* US13 - Visualizar perfil de outro usuário (backend)
+* US09 - Visualizar minha conta (frontend)
+
+### Sprint 11
+
+Backend:
+
+* US24 - Adicionar planta aos meus Favoritos (backend)
+* US25 - Remover uma planta da minha coleção de favoritos (backend)
+* US26 - Visualizar minha coleção de favoritos (backend)
+
+### Sprint 12
 
 Frontend:
 
 * US10 - Visualizar configurações da conta (frontend)
 * US26 - Visualizar minha coleção de favoritos (frontend)
 
-### Sprint 11
-
-Frontend:
-
-* US24 - Adicionar planta aos meus Favoritos (frontend)
-* US25 - Remover uma planta da minha coleção de favoritos (frontend)
-
-### Sprint 12
-
-Backend:
-
-* US14 - Bloquear outro usuário (backend)
-
-Frontend:
-
-* US14 - Bloquear outro usuário (frontend)
-
 ### Sprint 13
 
 Backend:
 
+* US14 - Bloquear outro usuário (backend)
 * US28 - Definir configurações de notificação (backend)
 
 Frontend: 
 
+* US14 - Bloquear outro usuário (frontend)
+* US24 - Adicionar planta aos meus Favoritos (frontend)
+* US25 - Remover uma planta da minha coleção de favoritos (frontend)
 * US28 - Definir configurações de notificação (frontend)
 
 ### Sprint 14
