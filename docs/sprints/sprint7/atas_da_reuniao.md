@@ -28,17 +28,8 @@
 
 Pontos a serem discutidos na reunião:
 
-1. inclusão de documento de atas da reuniao [como este]
-1. mudança de nome dos repositorios
-    `git remote set-url origin https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki`
-1. automatizar mkdocs
-1. adicionar codacy (junto com codeclimate)
-1. começar doc de post mortem
-1. padrao de pull request -> descrever melhor no pull request quais alteraçoes foram feitas, como testa-las etc, adicionar prints de como está
-1. refatorar estrutura do backend (routes = handlers, refatoração por metodos?)
-1. não planejar sprints em horário que não foram determinados com o grupo todo
-1. reconfiguração de horarios de alerta não foi feito pois depende de uma issue que não começou a ser desenvolvida
-1. como vai ficar a questão 'estética' do app (em relação ao prototipo)
+1. ponto 1
+2. ponto 2
 
 ## 2 - review e retrospectiva
 
@@ -56,29 +47,30 @@ checar nos repositorios quais tasks foram realizadas ou não
 
 por ora, eis o estado:
 
-| estado atual (14h 15/10) | issue |
+| estado atual (XXh 22/10) | issue |
 | ------------------------ | ----- |
-| feito          | [Guia de Estilo](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/59) |
-| feito          | [Issue 97 - US15 - Criar tópico em um fórum de planta (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/97) |
-| feito          | [Issue US16 - Editar tópico criado por mim (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/98) |
-| feito          | [US17 - Deletar o tópico criado por mim (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/99) |
-| feito          | [US18 - Upvote e downvote em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/100) |
-| feito          | [US19 - Criar comentário em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/101) |
-| feito          | [US20 - Editar comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/102) |
-| feito          | [US21 - Remover um comentário que fiz em um tópico (Backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/103) |
-| iniciado       | [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4) |
-| iniciado       | [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5) |
-| iniciado       | [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) |
-| iniciado       | [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) |
-| iniciado       | [Issue 07 (frontend) - US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) |
-| feito          | [Issue 08 (frontend) - US23 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) |
-| feito          | [Plano de GCS](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/94) |
-| feito          | [Refatorar arquitetura](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/95) |
-| nao iniciado   | [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) |
-| feito          | [Refatorar o roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/97) |
-| nao iniciado   | [US01 - Scannear planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/83) |
-| nao iniciado   | [US02 - Visualizar minha coleção (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/84) |
-| iniciado       | [US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) |
+| feito/não feito/iniciado | [Issue 04 (frontend) - US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4) - 5 pontos |
+| feito/não feito/iniciado | [Issue 05 (frontend) - US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5) - 5 pontos |
+| feito/não feito/iniciado | [Issue 06 (frontend) - US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) - 5 pontos |
+| feito/não feito/iniciado | [Issue 09 (frontend) - US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) - 3 pontos |
+| feito/não feito/iniciado | [Issue 07 (frontend) - US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) - 5 pontos |
+| feito/não feito/iniciado | [Issue 08 (frontend) - US23 - Visualizar informações sobre a planta (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/8) - 5 pontos |
+| feito/não feito/iniciado | [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) - 3 pontos |
+| feito/não feito/iniciado | [US01 - Scannear planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/83) - 8 pontos |
+| feito/não feito/iniciado | [US02 - Visualizar minha coleção (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/84) - 5 pontos |
+| feito/não feito/iniciado | [US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) - 3 pontos |
+| feito/não feito/iniciado | [Testes](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) - 5 pontos |
+| feito/não feito/iniciado | [Cobertura de Testes Code Climate](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/100) - 8 pontos |
+| feito/não feito/iniciado | [Configurar Lint com Guia de Estilo](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/101) - 3 pontos |
+| feito/não feito/iniciado | [US15 - Criar tópico em um fórum de planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/85) - 5 pontos |
+| feito/não feito/iniciado | [US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) - 3 pontos |
+| feito/não feito/iniciado | [US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) - 2 pontos |
+| feito/não feito/iniciado | [US18 - Upvote e downvote em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/88) - 2 pontos |
+| feito/não feito/iniciado | [Pesquisa sobre refatoração no Backend](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/102) - X pontos |
+| feito/não feito/iniciado | [Iniciar doc Post-Mortem](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/103) - X pontos |
+| feito/não feito/iniciado | [Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/104) - X pontos |
+| feito/não feito/iniciado | [Readequar issues do FrontEnd para incluir a distinção entre as fases da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/105) - X pontos |
+| feito/não feito/iniciado | [Refatorar Roadmap do FrontEnd para considerar as diferentes etapas da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/106) - X pontos |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)?
 `perdeu o notebook? teve 3 provas em um dia só?`
@@ -90,24 +82,15 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap:
 
-- Testes nas histórias já feitas no backend (Jest)
-  - sugestão de materiais:
-    - Documentação oficial
-      - 1. [Getting Started](https://jestjs.io/docs/en/getting-started)
-      - 1. [Jest com MongoDB](https://jestjs.io/docs/en/mongodb)
-      - 1. [Jest com React Native](https://jestjs.io/docs/en/tutorial-react-native)
-    - Outros
-      - 1. [(FreeCodeCamp) How to set up Jest and Enzyme to test React Native apps](https://medium.com/free-code-camp/setting-up-jest-enzyme-for-testing-react-native-40393ca04145)
-      - 1. [How to test Express.js with Jest and Supertest](https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/)
-- Cobertura de Testes Code Climate
-- Configurar Lint com Guia de Estilo
+- Testes exploratórios
+- Configurar CI/CD
 
 Frontend:
 
-- US15 - Criar tópico em um fórum de planta (frontend)
-- US16 - Editar tópico criado por mim (frontend)
-- US17 - Deletar o tópico criado por mim (frontend)
-- US18 - Upvote e downvote em um tópico (frontend)
+- US01 - Scannear planta (frontend)
+- US02 - Visualizar minha coleção (frontend)
+- US03 - Visualizar informações da Minha Planta (frontend)
+- US27 - Alterar informações da minha planta (frontend)
   
 ### 3.2 - Antecipando problemas
 

@@ -8,9 +8,9 @@
 
 **Pontos Planejados**: 28
 
-**Pontos Adicionados**: 47 + 
+**Pontos Adicionados**: 47 + X
 
-**Pontos Totais**: 75
+**Pontos Totais**: 75 + X
 
 -------
 
