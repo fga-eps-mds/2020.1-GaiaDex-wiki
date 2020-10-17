@@ -103,3 +103,5 @@ Essas issues foram discutidas entre o grupo, mas por falha de organização não
 3. [Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/104) - X pontos
 4. [Readequar issues do FrontEnd para incluir a distinção entre as fases da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/105) - X pontos
 5. [Refatorar Roadmap do FrontEnd para considerar as diferentes etapas da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/106) - X pontos
+6. [Automatização do mkdocs](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/108) - X pontos
+7. [Configuração do Codacy e Codeclimate](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/109) - X pontos
