@@ -40,7 +40,7 @@ Adição do documento de `Atas da Reuniao`.
 
 ## 4. Burndown de Risco
 
-![risk_burndown](img/risk_burndown.jpg)
+![risk_burndown](img/risk_burndown.JPG)
 
 ## 5. Issues da _Sprint_ e Pontuação
 
@@ -105,3 +105,4 @@ Essas issues foram discutidas entre o grupo, mas por falha de organização não
 5. [Refatorar Roadmap do FrontEnd para considerar as diferentes etapas da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/106) - X pontos
 6. [Automatização do mkdocs](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/108) - X pontos
 7. [Configuração do Codacy e Codeclimate](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/109) - X pontos
+8. [Gerar templates de sprints restantes](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/112) - X pontos

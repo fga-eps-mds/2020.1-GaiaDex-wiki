@@ -49,7 +49,7 @@ Dos 81 pontos planejados, 39 foram entregues. Algumas issues não foram fechadas
 
 ### 1.2 _Burndown_
 
-![burndown](img/burndown.jpg)
+![burndown](img/burndown.png)
 
 ### 1.3 Gráfico de _commits_
 
@@ -67,7 +67,7 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ### 1.4 _Velocity_
 
-![velocity](img/velocity.jpg)
+![velocity](img/velocity.png)
 
 ### 1.5 Quadro de Horas
 
