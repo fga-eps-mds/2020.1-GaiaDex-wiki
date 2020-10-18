@@ -41,4 +41,5 @@
 | US26 |    Favoritos    | Usuário |      Visualizar minha coleção de favoritos       |           facilitar o processo de navegação pelas páginas que mais visito           | Must                             |      [→](./acceptance_criteria.md#US26---Visualizar-minha-coleção-de-favoritos) |
 | US27 |  Minha Planta   | Usuário |         Alterar informações da minha planta         | que eu possa distinguir uma planta de outra (caso tenha multiplas da mesma especie) | Must                             |         [→](./acceptance_criteria.md#US27---Alterar-informações-da-minha-planta) |
 | US28 |  Minha Planta   | Usuário |       Definir configurações de notificação       |                      que eu me lembre de cultivar minha planta                      | Must                             |       [→](./acceptance_criteria.md#US28---Definir-configurações-de-notificação) |
+| US29 |  Fórum   | Usuário |       Visualizar página de fórum de planta       |                      que eu me lembre de cultivar minha planta                      | Must                             |       [→](./acceptance_criteria.md#US29---Visualizar-página-de-fórum-de-planta) |
 

@@ -184,3 +184,6 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 
 - [ ] O usuário deve poder configurar regras de notificação para lembrá-lo de regar/fertilizar a planta
 
+### US29 - Visualizar página de fórum de planta
+
+- [ ] Cada página de fórum deve estar relacionada a um card de planta. Exemplo: o card de planta cenoura deve estar relacionado a página de fórum da cenoura
