@@ -55,15 +55,11 @@ Dos 81 pontos planejados, 39 foram entregues. Algumas issues não foram fechadas
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits_wiki.png)
+![commits_wiki](img/commits_wiki_sprint6.png)
 
 Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
-![commits_back](img/commits_back.png)
-
-Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
-
-![commits_front](img/commits_front.png)
+![commits_back](img/commits_back_sprint6.png)
 
 ### 1.4 _Velocity_
 
@@ -100,5 +96,7 @@ Nessa _Sprint_:
 ### 2.1 Análise do _Scrum Master_
 
 A sprint foi planejada de forma a ser mais leve na parte de documentação para que houvesse um foco maior no desenvolvimento do código.
+
 Houve um avanço considerável, embora isso não se reflita na quantidade de pontos entregues.
+
 Fora isso, houve uma sensação generalizada de cansaço, tanto pela exaustão da ultima sprint (5, R1) como pela exigencia de outras materias.
