@@ -74,6 +74,9 @@ nav:
       - Results: sprints/sprint5/results.md
     - Sprint 6:
       - Planning: sprints/sprint6/planning.md
+      - Results: sprints/sprint6/results.md
+    - Sprint 7:
+      - Planning: sprints/sprint7/planning.md
 
 # Style
 extra_css:
