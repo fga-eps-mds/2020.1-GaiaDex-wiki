@@ -97,6 +97,6 @@ Nessa _Sprint_:
 
 A sprint foi planejada de forma a ser mais leve na parte de documentação para que houvesse um foco maior no desenvolvimento do código.
 
-Houve um avanço considerável, embora isso não se reflita na quantidade de pontos entregues.
+Houve um bom avanço nas dívidas técnicas, mas nem todas foram finalizadas. Muitos dos pontos de dívidas técnicas já estão em estado de revisão, mas ainda não foram revisados.
 
 Fora isso, houve uma sensação generalizada de cansaço, tanto pela exaustão da ultima sprint (5, R1) como pela exigencia de outras materias.
