@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - develop
+      - i108_automatizacao_do_mkdocs
 
 jobs:
   deploy:
