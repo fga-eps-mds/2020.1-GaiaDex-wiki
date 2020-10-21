@@ -13,7 +13,7 @@
     - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
   
 - [2 Retrospectiva](#2-retrospectiva)
-  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
+  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
 
 ------
 

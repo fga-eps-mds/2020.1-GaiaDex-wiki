@@ -1,4 +1,4 @@
-# Planejamento da Sprint N
+# Planejamento da Sprint 11
 
 **Data de Início:** DD/MM/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint N](#planejamento-da-sprint-n)
+- [Planejamento da Sprint 11](#planejamento-da-sprint-11)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
@@ -48,12 +48,17 @@
 
 ### 5.2 Novas issues
 
-1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us24_adicionar_planta_aos_meus_favoritos_backend](img/pont_us24_adicionar_planta_aos_meus_favoritos_backend.png)
+    - Resultado final - X
 
-2. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_backend](img/pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_backend.png)
+    - Resultado final - X
+
+1. [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
+
+    - ![pont_us26_visualizar_minha_colecao_de_favoritos_backend](img/pont_us26_visualizar_minha_colecao_de_favoritos_backend.png)
+    - Resultado final - X

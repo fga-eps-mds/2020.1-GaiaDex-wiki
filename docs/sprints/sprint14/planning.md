@@ -1,4 +1,4 @@
-# Planejamento da Sprint N
+# Planejamento da Sprint 14
 
 **Data de Início:** DD/MM/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint N](#planejamento-da-sprint-n)
+- [Planejamento da Sprint 14](#planejamento-da-sprint-14)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
@@ -48,12 +48,22 @@
 
 ### 5.2 Novas issues
 
-1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US05 - Cadastrar/fazer login com conta Facebook (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us05_cadastrar_fazer_login_com_conta_facebook_backend](img/pont_us05_cadastrar_fazer_login_com_conta_facebook_backend.png)
+    - Resultado final - X
 
-2. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US06 - Cadastrar/fazer login com conta Google (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us06_cadastrar_fazer_login_com_conta_google_backend](img/pont_us06_cadastrar_fazer_login_com_conta_google_backend.png)
+    - Resultado final - X
+
+1. [US05 - Cadastrar/fazer login com conta Facebook (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us05_cadastrar_fazer_login_com_conta_facebook_frontend](img/pont_us05_cadastrar_fazer_login_com_conta_facebook_frontend.png)
+    - Resultado final - X
+
+1. [US06 - Cadastrar/fazer login com conta Google (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us06_cadastrar_fazer_login_com_conta_google_frontend](img/pont_us06_cadastrar_fazer_login_com_conta_google_frontend.png)
+    - Resultado final - X

@@ -1,4 +1,4 @@
-# Planejamento da Sprint N
+# Planejamento da Sprint 8
 
 **Data de Início:** DD/MM/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint N](#planejamento-da-sprint-n)
+- [Planejamento da Sprint 8](#planejamento-da-sprint-8)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
@@ -48,12 +48,32 @@
 
 ### 5.2 Novas issues
 
-1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_testes_exploratorios](img/pont_testes_exploratorios.png)
+    - Resultado final - X
 
-2. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_configurar_ci_cd](img/pont_configurar_ci_cd.png)
+    - Resultado final - X
+
+1. [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us01_scannear_planta_frontend](img/pont_us01_scannear_planta_frontend.png)
+    - Resultado final - X
+
+1. [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us02_visualizar_minha_colecao_frontend](img/pont_us02_visualizar_minha_colecao_frontend.png)
+    - Resultado final - X
+
+1. [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us03_visualizar_informacoes_da_minha_planta_frontend](img/pont_us03_visualizar_informacoes_da_minha_planta_frontend.png)
+    - Resultado final - X
+
+1. [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us27_alterar_informacoes_da_minha_planta_frontend](img/pont_us27_alterar_informacoes_da_minha_planta_frontend.png)
+    - Resultado final - X

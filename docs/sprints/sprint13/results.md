@@ -1,6 +1,6 @@
-# Resultados da Sprint N
+# Resultados da Sprint 13
 
-- [Resultados da Sprint N](#resultados-da-sprint-n)
+- [Resultados da Sprint 13](#resultados-da-sprint-13)
   - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
     - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
     - [1.2 _Burndown_](#12-burndown)
@@ -13,7 +13,7 @@
     - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
   
 - [2 Retrospectiva](#2-retrospectiva)
-  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
+  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
 
 ------
 
@@ -23,7 +23,12 @@
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [US14 - Bloquear outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US28 - Definir configurações de notificação (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US14 - Bloquear outro usuário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US28 - Definir configurações de notificação (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 

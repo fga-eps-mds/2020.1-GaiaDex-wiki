@@ -1,6 +1,6 @@
-# Resultados da Sprint N
+# Resultados da Sprint 8
 
-- [Resultados da Sprint N](#resultados-da-sprint-n)
+- [Resultados da Sprint 8](#resultados-da-sprint-8)
   - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
     - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
     - [1.2 _Burndown_](#12-burndown)
@@ -13,7 +13,7 @@
     - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
   
 - [2 Retrospectiva](#2-retrospectiva)
-  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
+  - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
 
 ------
 
@@ -23,7 +23,12 @@
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 

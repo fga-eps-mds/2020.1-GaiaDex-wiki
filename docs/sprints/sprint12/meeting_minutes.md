@@ -7,7 +7,7 @@
     - [2.1 - Atualização do quadro de conhecimentos](#21---atualização-do-quadro-de-conhecimentos)
     - [2.2 - "o que eu fiz"](#22---o-que-eu-fiz)
     - [2.3 - estado das issues](#23---estado-das-issues)
-    - [2.4.1 - Quais problemas houveram (no contexto do projeto)?](#241---quais-problemas-houveram-no-contexto-do-projeto)
+    - [2.4.1 - Quais problemas houveram (no contexto do projeto)](#241---quais-problemas-houveram-no-contexto-do-projeto)
     - [2.4.2 - Pontos positivos, negativos e a melhorar, em geral](#242---pontos-positivos-negativos-e-a-melhorar-em-geral)
   - [3 - planejamento](#3---planejamento)
     - [3.1 - De acordo com o Roadmap](#31---de-acordo-com-o-roadmap)
@@ -47,11 +47,12 @@ checar nos repositorios quais tasks foram realizadas ou não
 
 por ora, eis o estado:
 
-| estado atual (XXh DD/MM) | issue | pontos |
-| ------------------------ | ----- | ------ |
-| feito/não feito/iniciado | [issue XX](https://github.com/fga-eps-mds/2020.1-GaiaDex-) | 5 pontos |
+| Issue       | Pontos     | Status     |
+| :------------- | :----------: | -----------: |
+| [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
-### 2.4.1 - Quais problemas houveram (no contexto do projeto)?
+### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
 `perdeu o notebook? teve 3 provas em um dia só?`
 
@@ -63,7 +64,12 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-...
+- US14 - Bloquear outro usuário (backend)
+- US28 - Definir configurações de notificação (backend)
+- US14 - Bloquear outro usuário (frontend)
+- US24 - Adicionar planta aos meus Favoritos (frontend)
+- US25 - Remover uma planta da minha coleção de favoritos (frontend)
+- US28 - Definir configurações de notificação (frontend)
 
 ### 3.2 - Antecipando problemas
 
