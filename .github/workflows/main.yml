@@ -14,8 +14,8 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: execute py script
-        run: python3 update_mkdocs_yml.py
+      - run: pip install pyyaml
+      - run: python update_mkdocs_yml.py
 
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
