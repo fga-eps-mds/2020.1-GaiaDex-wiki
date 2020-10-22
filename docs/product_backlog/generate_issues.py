@@ -34,10 +34,11 @@ def gen_acex_list(us_number, filename):
         for line in file.readlines():
             if 'criterio 1' in line or 'criterio 2' in line or 'criterio1' in line or 'criterio2' in line:
                 continue
-            if 'US' in line and has_reached_user_story == True: #reached next US, leave
+            if 'US' in line and has_reached_user_story:  # reached next US, leave
                 break
-            if has_reached_user_story == True and '- [ ]' in line:
-                acs.append(line.split('- [ ]')[-1].strip().replace(';', '\\').replace('|', '\\'))
+            if has_reached_user_story and '- [ ]' in line:
+                acs.append(line.split(
+                    '- [ ]')[-1].strip().replace(';', '\\').replace('|', '\\'))
             if "US{:02d}".format(us_number) in line:
                 has_reached_user_story = True
 
@@ -55,10 +56,12 @@ def remove_duplicates(filepath):
             '| title | description | acceptance criteria | extras |\n| ----- | ----------- | ------------------- | ---- |\n')
         file.writelines(s.keys())
 
+
 def number_of_user_stories():
     with open(pb_file_path, 'r') as f:
         f = f.read()
         return len(f.split('| US'))
+
 
 with open('template_issues.md', 'w') as file:
     file.write('')
