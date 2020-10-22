@@ -18,8 +18,6 @@ jobs:
               run: |
                   python -m pip install --upgrade pip
                   pip install pyyaml
-                  pip install flake8
-                  python -m flake8 --ignore=E501 .
             - run: python update_mkdocs_yml.py
 
             - name: Commit files
