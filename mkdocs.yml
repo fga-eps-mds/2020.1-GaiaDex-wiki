@@ -83,9 +83,13 @@ nav:
           - Planejamento da Sprint 5: sprints/sprint5/planning.md
           - Resultados da Sprint 5: sprints/sprint5/results.md
       - Sprint 6:
+          - Atas da Reunião 15/10: sprints/sprint6/meeting_minutes.md
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
+          - Resultados da Sprint 6: sprints/sprint6/results.md
+      - Sprint 7:
           - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
-          - Planejamento da Sprint 6: sprints/sprint7/planning.md
-          - Resultados da Sprint 6: sprints/sprint7/results.md
+          - Planejamento da Sprint 7: sprints/sprint7/planning.md
+          - Resultados da Sprint 7: sprints/sprint7/results.md
       - Sprint N:
           - Atas da Reunião DD/MM: sprints/template/meeting_minutes.md
           - Planejamento da Sprint N: sprints/template/planning.md
