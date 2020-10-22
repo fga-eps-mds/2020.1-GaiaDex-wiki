@@ -27,7 +27,8 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
+          branch: i108_automatizacao_do_mkdocs
+          # force: true
 
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
