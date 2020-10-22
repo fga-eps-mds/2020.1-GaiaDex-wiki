@@ -60,6 +60,7 @@ nav:
   - Plano de Gerenciamento de Configuração de Software (GCS): gcs/gcs.md
   - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
   - Plano de Qualidade do Projeto: quality_plan/quality.md
+  - Post Mortem: post_mortem/post_mortem.md
   - Roadmap de Produto:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
@@ -70,6 +71,26 @@ nav:
       - Sprint 1:
           - Planejamento da Sprint 1: sprints/sprint1/planning.md
           - Resultados da Sprint 1: sprints/sprint1/results.md
+      - Sprint 10:
+          - Atas da Reunião DD/MM: sprints/sprint10/meeting_minutes.md
+          - Planejamento da Sprint 10: sprints/sprint10/planning.md
+          - Resultados da Sprint 10: sprints/sprint10/results.md
+      - Sprint 11:
+          - Atas da Reunião DD/MM: sprints/sprint11/meeting_minutes.md
+          - Planejamento da Sprint 11: sprints/sprint11/planning.md
+          - Resultados da Sprint 11: sprints/sprint11/results.md
+      - Sprint 12:
+          - Atas da Reunião DD/MM: sprints/sprint12/meeting_minutes.md
+          - Planejamento da Sprint 12: sprints/sprint12/planning.md
+          - Resultados da Sprint 12: sprints/sprint12/results.md
+      - Sprint 13:
+          - Atas da Reunião DD/MM: sprints/sprint13/meeting_minutes.md
+          - Planejamento da Sprint 13: sprints/sprint13/planning.md
+          - Resultados da Sprint 13: sprints/sprint13/results.md
+      - Sprint 14:
+          - Atas da Reunião DD/MM: sprints/sprint14/meeting_minutes.md
+          - Planejamento da Sprint 14: sprints/sprint14/planning.md
+          - Resultados da Sprint 14: sprints/sprint14/results.md
       - Sprint 2:
           - Planejamento da Sprint 2: sprints/sprint2/planning.md
           - Resultados da Sprint 2: sprints/sprint2/results.md
@@ -90,6 +111,14 @@ nav:
           - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
           - Planejamento da Sprint 7: sprints/sprint7/planning.md
           - Resultados da Sprint 7: sprints/sprint7/results.md
+      - Sprint 8:
+          - Atas da Reunião DD/MM: sprints/sprint8/meeting_minutes.md
+          - Planejamento da Sprint 8: sprints/sprint8/planning.md
+          - Resultados da Sprint 8: sprints/sprint8/results.md
+      - Sprint 9:
+          - Atas da Reunião DD/MM: sprints/sprint9/meeting_minutes.md
+          - Planejamento da Sprint 9: sprints/sprint9/planning.md
+          - Resultados da Sprint 9: sprints/sprint9/results.md
       - Sprint N:
           - Atas da Reunião DD/MM: sprints/template/meeting_minutes.md
           - Planejamento da Sprint N: sprints/template/planning.md
