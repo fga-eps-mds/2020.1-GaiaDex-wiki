@@ -45,7 +45,7 @@ for k1, v1 in d['docs'].items():
 										result['- '+artifact_name]['- '+k2] = v2
 		else:
 				artifact_name = d['docs'][k1]['name']
-				if artifact_name == 'Planejamento da Sprint N':
+				if 'Planejamento da Sprint N' in artifact_name:
 						artifact_name = 'Sprints'
 				result['- '+artifact_name] = {}
 				for k2, v2 in d['docs'][k1].items():
@@ -60,7 +60,7 @@ for k1, v1 in d['docs'].items():
 						elif k2 != 'name':
 								result['- '+artifact_name]['- '+k2] = v2
 
-
+print(result)
 text_result = yaml.dump(result,allow_unicode=True,default_flow_style=False, indent=4).replace('\'', '')
 text_result = '  - Inicio: index.md\n' + text_result
 text_result = '\n  '.join(text_result.split('\n')) + '\n'
