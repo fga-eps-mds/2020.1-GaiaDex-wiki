@@ -1,104 +1,93 @@
 # Project information
-site_name: Grupo 02
+site_name: GaiaDex
 site_description: Artefatos de MDS e EPS, 2020.1
-site_author: Grupo 02
-site_url: https://fga-eps-mds.github.io/2020.1-Grupo2-wiki/
+site_author: GaiaDex
+site_url: https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/
 
 # Repository
-repo_name: Grupo 02
-repo_url: https://github.com/fga-eps-mds/2020.1-Grupo2-wiki
+repo_name: GaiaDex
+repo_url: https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki
 
 # Copyright
 # copyright: 'Copyright &copy; 2019 A Monitoria'
 
 # Theme settings
 theme:
-#   logo: assets/img/logo/logo_icon.png
+  #   logo: assets/img/logo/logo_icon.png
   # favicon:
   font:
     text: Roboto
     code: Roboto Mono
   feature:
     tabs: true
-  language: 'pt'
-  name: 'material'
+  language: "pt"
+  name: "material"
   palette:
-    primary: 'blue'
-    accent: 'purple'
+    primary: "blue"
+    accent: "purple"
 
 # Content Menu
 pages:
   - Inicio: index.md
 nav:
   - Inicio: index.md
-  - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
-  - Documento de Visão: vision_document/vision_document.md
+  - Backlog de Produto:
+      - Backlog de Produto: product_backlog/product_backlog.md
+      - Critérios Extras: product_backlog/extra_criterias.md
+      - Critérios de Aceitação: product_backlog/acceptance_criteria.md
+      - Potencial - Backlog de Produto:
+          - Potencial -  Critérios Extras: product_backlog/potential_backlog/potential_extra_criterias.md
+          - Potencial - Backlog de Produto: product_backlog/potential_backlog/potential_product_backlog.md
+          - Potencial - Critérios de Aceitação: product_backlog/potential_backlog/potential_acceptance_criteria.md
+  - Documentação do protótipo: prototipo/prototipo.md
   - Documento de Arquitetura: architecture_document/architecture_document.md
-  - Documento Suplementar: supplementary_document/supplementary_document.md
-  - Plano de Gerenciamento de Comunicação: communication_plan/communication_plan.md
-  - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
-  - Plano de Gerenciamento de Configuração de Software: gcs/gcs.md
-  - Plano de Qualidade: quality_plan/quality.md
-  - Plano de Gerenciamento de Custos: cost_document/cost_document.md
-  - Product Backlog: product_backlog/product_backlog.md
-  - Critérios de Aceitação: product_backlog/acceptance_criteria.md
-  - EVM: evm/evm.md
+  - Documento de Especificação Suplementar: supplementary_document/supplementary_document.md
+  - Documento de Visão:
+      - Documento de Visão: vision_document/vision_document.md
+      - ZeBrand: vision_document/ZeBrand.md
   - EAP: eap/eap.md
-  - RoadMap:
-    - Roadmap de Produto: roadmap/product_roadmap.md
-    - RoadMap de Papeis: roadmap/roles_roadmap.md
-  - Prototipo: prototipo/prototipo.md
+  - EVM: evm/evm.md
+  - Gerenciamento de Plano de Custo: cost_document/cost_document.md
+  - Guia de estilo NodeJS:
+      - Guia de estilo NodeJS: document_style_guide/Nodejs_style_guide.md
+      - Guia de estilo React Native: document_style_guide/React_style_guide.md
   - Identidade Visual:
-    - Inspirações: visual_identity/inspirations.md
-    - Moodboard: visual_identity/moodboard.md
-    - Roadmap do Protótipo: visual_identity/roadmap_prototype.md
-    - Documento de Identidade Visual: visual_identity/visual_identity.md
+      - Identidade Visual: visual_identity/visual_identity.md
+      - Inspirações: visual_identity/inspirations.md
+      - Moodboards: visual_identity/moodboard.md
+      - Roadmap do Protótipo: visual_identity/roadmap_prototype.md
+  - Plano de Comunicações: communication_plan/communication_plan.md
+  - Plano de Gerenciamento de Configuração de Software (GCS): gcs/gcs.md
+  - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
+  - Plano de Qualidade do Projeto: quality_plan/quality.md
+  - Roadmap de Produto:
+      - RoadMap de papéis: roadmap/roles_roadmap.md
+      - RoadMap de produto: roadmap/product_roadmap.md
   - Sprints:
-    - Sprint 0:
-      - Planning: sprints/sprint0/planning.md
-      - Results:  sprints/sprint0/results.md
-    - Sprint 1:
-      - Planning: sprints/sprint1/planning.md
-      - Results:  sprints/sprint1/results.md
-    - Sprint 2:
-      - Planning: sprints/sprint2/planning.md
-      - Results: sprints/sprint2/results.md
-    - Sprint 3:
-      - Planning: sprints/sprint3/planning.md
-      - Results: sprints/sprint3/results.md
-    - Sprint 4:
-      - Planning: sprints/sprint4/planning.md
-      - Results: sprints/sprint4/results.md
-    - Sprint 5:
-      - Planning: sprints/sprint5/planning.md
-      - Results: sprints/sprint5/results.md
-    - Sprint 6:
-      - Planning: sprints/sprint6/planning.md
+      - Planejamento da Sprint N: sprints/planning.md
+      - Resultados da Sprint N: sprints/results.md
+      - Sprint 0:
+          - Planejamento da Sprint 0: sprints/sprint0/planning.md
+          - Resultados da Sprint 0: sprints/sprint0/results.md
+      - Sprint 1:
+          - Planejamento da Sprint 1: sprints/sprint1/planning.md
+          - Resultados da Sprint 1: sprints/sprint1/results.md
+      - Sprint 2:
+          - Planejamento da Sprint 2: sprints/sprint2/planning.md
+          - Resultados da Sprint 2: sprints/sprint2/results.md
+      - Sprint 3:
+          - Planejamento da Sprint 3: sprints/sprint3/planning.md
+          - Resultados da Sprint 3: sprints/sprint3/results.md
+      - Sprint 4:
+          - Planejamento da Sprint 4: sprints/sprint4/planning.md
+          - Resultados da Sprint 4: sprints/sprint4/results.md
+      - Sprint 5:
+          - Planejamento da Sprint 5: sprints/sprint5/planning.md
+          - Resultados da Sprint 5: sprints/sprint5/results.md
+      - Sprint 6:
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
+  - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
 
-# Style
+# Style // DONT ERASE THIS COMMENT [used in script "update_mkdocs_yml.py"]
 extra_css:
   - assets/style/extra.css
-
-# Markdown extensions
-# markdown_extensions:
-#   - admonition
-#   - codehilite:
-#       linenums: true
-#   - footnotes
-#   - meta
-#   - pymdownx.arithmatex
-#   - pymdownx.betterem:
-#       smart_enable: all
-#   - pymdownx.caret
-#   - pymdownx.critic
-#   - pymdownx.details
-#   - pymdownx.emoji:
-#       emoji_generator: !!python/name:pymdownx.emoji.to_svg
-#   - pymdownx.inlinehilite
-#   - pymdownx.magiclink
-#   - pymdownx.mark
-#   - pymdownx.smartsymbols
-#   - pymdownx.superfences
-#   - pymdownx.tasklist:
-#       custom_checkbox: true
-#   - pymdownx.tilde

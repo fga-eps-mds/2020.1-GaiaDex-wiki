@@ -1,4 +1,6 @@
-# 1. Épicos
+# Backlog de Produto
+
+## 1. Épicos
 
 | ID   | Épico          | Descrição                                                                                                                                    | Prioridade |
 | ---- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -9,7 +11,7 @@
 | EP05 | Favoritos      | Coleção de plantas favoritadas                                                                                                               | Should     |
 | EP06 | Minha Planta   | Planta que fora adicionada à coleção do usuário e está sendo cultivada pelo mesmo                                                            | Should     |
 
-# 2. User Stories
+## 2. User Stories
 
 |  ID  |      Épico      | eu como |                      quero                       |                                        para                                         | Prioridade (em relação ao épico) |                                 Critério de aceitação                                 |
 | :--: | :-: | :-: | :-: | :-: | :-: | :-: |

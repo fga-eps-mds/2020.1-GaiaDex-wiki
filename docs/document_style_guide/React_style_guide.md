@@ -1,4 +1,4 @@
-# Guia de estilo
+# Guia de estilo React Native
 
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |

@@ -1,4 +1,4 @@
-# Guia de estilo
+# Guia de estilo NodeJS
 
 ## Histórico de Versão
 | Data | Versão | Descrição | Autor |

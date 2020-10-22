@@ -1,11 +1,13 @@
-# Histórico de Versões
+# RoadMap de produto
+
+## Histórico de Versões
 
 |Data           |Versão     |Descrição          |Autor                   |
 | ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
 |27/08/2020|0.1| Adição tópicos 1 e 2 |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha), [Guilherme de Lyra](http://github.com/guilhermedlyra) |
 |11/09/2020|1.0| Primeira versão do documento |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 
-## RoadMap de produto
+## Planejamento das Sprints
 
 ### Sprint 0
 

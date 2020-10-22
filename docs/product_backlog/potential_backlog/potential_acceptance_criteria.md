@@ -1,4 +1,4 @@
-# Critérios de Aceitação
+# Potencial - Critérios de Aceitação
 
 | versão |    data    |                       autor(es)                        |      descrição       |
 | :----: | :--------: | :----------------------------------------------------: | :------------------: |

@@ -1,4 +1,4 @@
-# potential product backlog
+# Potencial - Backlog de Produto
 
 ## 1. Épicos
 
