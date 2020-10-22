@@ -1,4 +1,4 @@
-# Critérios Extras
+# Potencial -  Critérios Extras
 
 | versão |    data    |                       autor(es)                        |      descrição       |
 | :----: | :--------: | :----------------------------------------------------: | :------------------: |

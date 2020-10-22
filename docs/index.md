@@ -1,14 +1,12 @@
 # Grupo 2 - GaiaDex
 
-
-
 ## EQUIPE EPS
 
 | Foto | Nome | Email | GitHub |
 |:----:|:------------------------:|:-----:|:------:|
 | <img style="border-radius: 50%;" src="img/equipe/makaha.jpeg" alt="Rafael" title="Rafael Makaha" width="50" height="50" /> | Rafael Makaha | rafael.makaha@gmail.com | [rafaelmakaha](https://github.com/rafaelmakaha) |
 | <img style="border-radius: 50%;" src="img/equipe/joaovitormorandi.jpeg" alt="Joao" title="Joao Vitor Morandi" width="50" height="50" /> | João Vitor Morandi | joao.lemos4000@gmail.com | [joaovitorml](https://github.com/joaovitorml) |
-| <img style="border-radius: 50%;" src="img/equipe/lyra.jpg" alt="Lyra" title="Guilherme de Lyra" width="50" height="50" /> | Guilherme de Lyra | joao.lemos4000@gmail.com | [guilhermedelyra](https://github.com/guilhermedelyra) |
+| <img style="border-radius: 50%;" src="img/equipe/lyra.jpg" alt="Lyra" title="Guilherme de Lyra" width="50" height="50" /> | Guilherme de Lyra | guilyra12@gmail.com | [guilhermedelyra](https://github.com/guilhermedelyra) |
 
 ## EQUIPE MDS
 

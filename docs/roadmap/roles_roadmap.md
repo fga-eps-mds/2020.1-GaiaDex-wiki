@@ -1,11 +1,13 @@
-# Histórico de Versões
+# RoadMap de papéis
+
+## Histórico de Versões
 
 |Data           |Versão     |Descrição          |Autor                   |
 | ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
 |19/03/2020|0.1| Adição de Scrum Master, DevOps e Arquiteto |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 |26/08/2020|0.1| Adição de Product Owner |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 
-## RoadMap de papéis
+## Objetivo
 
 Esta secção apresentará as responsabilidades de cada papel do scrum neste projeto.
 

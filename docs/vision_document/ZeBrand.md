@@ -1,8 +1,10 @@
-# Por que?
+# ZeBrand
 
-## REASON
+## Por que?
 
-> ### What was the main motivation for starting your business?
+### REASON
+
+> #### What was the main motivation for starting your business?
 
 > Reflect on what you were thinking and feeling when you first came up with the idea for your business. What sparked it? How did you know it was something the world needs?
 
@@ -10,22 +12,22 @@
 >
 > - I realised that many people were tracking their physical health but not their mental health. I wanted to give people more awareness and control over their emotions too.
 
-#### motivações iniciais
+##### motivações iniciais
 
 - Disciplina e fazer alguma coisa relacionada à ONU
 - Íamos fazer um mapa da Dengue, planta que mata dengue
 - Já perdi algumas plantas, queria saber cultivar
 - gaia-dex
 
-#### motivações atuais
+##### motivações atuais
 
 - Fornecer um espaço aberto para se desenvolver uma comunidade
 - Auxiliar numa reconecção entre as pessoas do meio urbano cinzento com a flora
 - Fornecer interesse e facilidade no acesso à informação
 
-## OFFER
+### OFFER
 
-> ### How would you describe your product or service in a sentence or two?
+> #### How would you describe your product or service in a sentence or two?
 
 > Focus on the customer benefits first, then what your company provides to support that. Keep it short—this isn’t about listing features, it’s about identifying your main offering that improves your customer’s life.
 
@@ -34,9 +36,9 @@
 - Geramos uma plataforma que facilita o contato entre as pessoas que se interessam pela cultura de jardinagem
 - Uma plataforma que proporciona a disseminação de conhecimento e debate sobre a flora, no modo geral
 
-## EDGE
+### EDGE
 
-> ### In what way are you offering something new or better than what already exists?
+> #### In what way are you offering something new or better than what already exists?
 
 > Think about all the other ways your customer is already fulfilling their needs. What makes you a better choice? What makes your offering unique? For example, are you faster or more efficient? Do you offer a better value?
 
@@ -49,11 +51,11 @@
 
 Mas, principalmente, o fator de fornecer um suporte da comunidade.
 
-# Quem?
+## Quem?
 
-## Demografia do publico-alvo
+### Demografia do publico-alvo
 
-> ### Identify your target demographic.
+> #### Identify your target demographic.
 
 > Your audience might be diverse, but who comes to mind when you think about the ideal customer? Who would your product be perfect for?
 
@@ -62,9 +64,9 @@ Mas, principalmente, o fator de fornecer um suporte da comunidade.
 - qualquer classe social
 - qualquer etnia
 
-## Consumidor
+### Consumidor
 
-> ### How would you describe your target market?
+> #### How would you describe your target market?
 
 > Think about their needs, lifestyle, desires and concerns. Consider them from a psychological perspective, not just demographic. What things do they care about? What do they value and why?
 
@@ -72,9 +74,9 @@ Mas, principalmente, o fator de fornecer um suporte da comunidade.
 
 Qualquer pessoa que se interesse por botânica.
 
-## COMPETIDORES
+### COMPETIDORES
 
-> ### What other products or services might your target market use to meet their needs?
+> #### What other products or services might your target market use to meet their needs?
 
 > Remember to think outside the box. Customers might be using other solutions that aren’t even in your industry or on your radar. For example, a competitor for a new bike company might actually be the public subway system.
 
@@ -90,9 +92,9 @@ Qualquer pessoa que se interesse por botânica.
 - www.hortas.info
 - Gardener's World
 
-## COLLABORATORS
+### COLLABORATORS
 
-> ### Who are some potential business partners or institutions you can partner with to reach your business goals?
+> #### Who are some potential business partners or institutions you can partner with to reach your business goals?
 
 > No business is an island. Whose support do you need to succeed? Who has connections or capabilities that are essential to your business? For instance, a supplier could double as a distribution channel while providing a window into new initiatives.
 
@@ -120,11 +122,11 @@ Qualquer pessoa que se interesse por botânica.
   - EMBRAPA
   - cinturao verde
 
-# Como?
+## Como?
 
-## RESOURCES
+### RESOURCES
 
-> ### What tools, resources, or capabilities will you need to make your product or service a reality?
+> #### What tools, resources, or capabilities will you need to make your product or service a reality?
 
 > Every product or service depends on certain criteria or resources to function. What resources or skills are critical to your success? What are some tools that your business relies on? What are the absolute must-haves?
 
@@ -142,9 +144,9 @@ Qualquer pessoa que se interesse por botânica.
 * [Tropicalfruitandveg](http://www.tropicalfruitandveg.com/tfvapi.php)
 * [GrowStuff](https://www.growstuff.org/api-docs/index.html)
 
-## REVENUE
+### REVENUE
 
-> ### What is your revenue model for monetizing your business? What will your pricing be like?
+> #### What is your revenue model for monetizing your business? What will your pricing be like?
 
 > Consider all revenue streams. You could have one or multiple revenue streams depending on who your customers are. For example, a video streaming platform might profit from viewer subscription fees as well as advertising fees for sponsored content.
 
@@ -159,9 +161,9 @@ Qualquer pessoa que se interesse por botânica.
 - Badge Premium
 - AD após scan
 
-## REACH
+### REACH
 
-> ### What channels and methods will you use to connect with customers and collaborators?
+> #### What channels and methods will you use to connect with customers and collaborators?
 
 > There are many ways to reach an audience-digitally or in-person, mass communications or individual conversations. Think across the whole spectrum.
 

@@ -1,4 +1,6 @@
-# 1. Épicos
+# Backlog de Produto
+
+## 1. Épicos
 
 | ID   | Épico          | Descrição                                                                                                                                    | Prioridade |
 | ---- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -9,7 +11,7 @@
 | EP05 | Favoritos      | Coleção de plantas favoritadas                                                                                                               | Should     |
 | EP06 | Minha Planta   | Planta que fora adicionada à coleção do usuário e está sendo cultivada pelo mesmo                                                            | Should     |
 
-# 2. User Stories
+## 2. User Stories
 
 |  ID  |      Épico      | eu como |                      quero                       |                                        para                                         | Prioridade (em relação ao épico) |                                 Critério de aceitação                                 |
 | :--: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -41,4 +43,3 @@
 | US26 |    Favoritos    | Usuário |      Visualizar minha coleção de favoritos       |           facilitar o processo de navegação pelas páginas que mais visito           | Must                             |      [→](./acceptance_criteria.md#US26---Visualizar-minha-coleção-de-favoritos) |
 | US27 |  Minha Planta   | Usuário |         Alterar informações da minha planta         | que eu possa distinguir uma planta de outra (caso tenha multiplas da mesma especie) | Must                             |         [→](./acceptance_criteria.md#US27---Alterar-informações-da-minha-planta) |
 | US28 |  Minha Planta   | Usuário |       Definir configurações de notificação       |                      que eu me lembre de cultivar minha planta                      | Must                             |       [→](./acceptance_criteria.md#US28---Definir-configurações-de-notificação) |
-
