@@ -1,6 +1,6 @@
-# Resultados da Sprint 6
+# Resultados da Sprint 7
 
-- [Resultados da Sprint 6](#resultados-da-sprint-6)
+- [Resultados da Sprint 7](#resultados-da-sprint-7)
   - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
     - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
     - [1.2 _Burndown_](#12-burndown)

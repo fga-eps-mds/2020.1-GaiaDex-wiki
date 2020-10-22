@@ -1,4 +1,4 @@
-# Planejamento da Sprint 6
+# Planejamento da Sprint 7
 
 **Data de Início:** 15/10/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint 6](#planejamento-da-sprint-6)
+- [Planejamento da Sprint 7](#planejamento-da-sprint-7)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
