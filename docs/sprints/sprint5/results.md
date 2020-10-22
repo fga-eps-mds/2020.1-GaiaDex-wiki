@@ -55,15 +55,7 @@ Dos 90 pontos planejados, 41 foram entregues. Algumas issues não foram fechadas
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![](img/commits_wiki.png)
-
-Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
-
-![](img/commits_back.png)
-
-Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
-
-![](img/commits_front.png)
+![](img/commits_wiki_sprint5.png)
 
 ### 1.4 _Velocity_
 
@@ -77,8 +69,6 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![](img/knowledge_box.jpg)
 
-Comentário sobre a evolução dos conhecimentos.
-<br>
 
 ### 1.7 Revisão da _Sprint_
 

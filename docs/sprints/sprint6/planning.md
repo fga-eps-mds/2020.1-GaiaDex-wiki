@@ -14,19 +14,17 @@
 
 -------
 
-[1. Pareamentos](#1-pareamentos)
-
-[2. Objetivos da Sprint](#2-objetivos-da-sprint)
-
-[3. Mudanças](#3-mudanças)
-
-[4. Burndown de Risco](#4-burndown-de-risco)
-
-[5. Features da Sprint e Pontuação](#5-features-da-sprint-e-pontuação)
-* [5.1 Dívidas técnicas](#51-dívidas-técnicas)
-* [5.2 Novas Issues](#52-novas-issues)
+- [Planejamento da Sprint 6](#planejamento-da-sprint-6)
+  - [1. Pareamentos](#1-pareamentos)
+  - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
+  - [3. Mudanças](#3-mudanças)
+  - [4. Burndown de Risco](#4-burndown-de-risco)
+  - [5. Issues da _Sprint_ e Pontuação](#5-issues-da-sprint-e-pontuação)
+    - [5.1 Dívidas técnicas](#51-dívidas-técnicas)
+    - [5.2 Novas issues](#52-novas-issues)
 
 -------
+
 ## 1. Pareamentos
 
 ![Pareamentos](img/pairing.jpg)
@@ -37,11 +35,11 @@ Esta _Sprint_ tem por objetivo de definir o pipeline de DevOps, bem como realiza
 
 ## 3. Mudanças
 
-* Esta sprint será mais leve na parte de documentação para realizarmos um maior foco no desenvolvimento do código
+- Esta sprint será mais leve na parte de documentação para realizarmos um maior foco no desenvolvimento do código
 
 ## 4. Burndown de Risco
 
-![](img/risk_burndown.jpg)
+![risk_burndown](img/risk_burndown.jpg)
 
 ## 5. Issues da _Sprint_ e Pontuação
 
@@ -66,66 +64,66 @@ Esta _Sprint_ tem por objetivo de definir o pipeline de DevOps, bem como realiza
 
 [Plano de GCS](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/94) - Votação
 
-![](img/GCS_pont.jpg)
+![GCS_pont](img/GCS_pont.jpg)
 
 Resultado Final - 8
 
 [Refatorar arquitetura](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/95) - Votação
 
-* João Vítor - 2
-* Makaha - 2
-* Lyra - X
-* Ruan - 2
-* Victor Hugo - 2
-* Vinícius - 3
-* Arthur - 2
-* Marcos Felipe - X
-* Victor Santos - X
+- João Vítor - 2
+- Makaha - 2
+- Lyra - X
+- Ruan - 2
+- Victor Hugo - 2
+- Vinícius - 3
+- Arthur - 2
+- Marcos Felipe - X
+- Victor Santos - X
 
 Resultado Final - 2
 
 [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) - Votação
 
-* João Vítor - 3
-* Makaha - 3
-* Lyra - X
-* Ruan - 3
-* Victor Hugo - 3
-* Vinícius - 3
-* Arthur - X
-* Marcos Felipe - X
-* Victor Santos - X
+- João Vítor - 3
+- Makaha - 3
+- Lyra - X
+- Ruan - 3
+- Victor Hugo - 3
+- Vinícius - 3
+- Arthur - X
+- Marcos Felipe - X
+- Victor Santos - X
 
 Resultado Final - 3
 
 [Refatorar o roadmap](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/97) - Votação
 
-* João Vítor - 2
-* Makaha - 2
-* Lyra - X
-* Ruan - 3
-* Victor Hugo - 3
-* Vinícius - 3
-* Arthur - X
-* Marcos Felipe - X
-* Victor Santos - X
+- João Vítor - 2
+- Makaha - 2
+- Lyra - X
+- Ruan - 3
+- Victor Hugo - 3
+- Vinícius - 3
+- Arthur - X
+- Marcos Felipe - X
+- Victor Santos - X
 
 Resultado Final - 3
 
 [US01 - Scannear planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/83) - Votação
 
-![](img/US01_back.jpg)
+![US01_back](img/US01_back.jpg)
 
 Resultado Final - 8
 
 [US02 - Visualizar minha coleção (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/84) - Votação
 
-![](img/US02_back.png)
+![US02_back](img/US02_back.png)
 
 Resultado Final - 5
 
 [US03 - Visualizar informações da Minha Planta (backend) ](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) - Votação
 
-![](img/US03_back.jpg)
+![US03_back](img/US03_back.jpg)
 
 Resultado Final - 3
