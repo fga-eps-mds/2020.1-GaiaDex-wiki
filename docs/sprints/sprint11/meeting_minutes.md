@@ -49,7 +49,9 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
@@ -63,7 +65,8 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-...
+- US10 - Visualizar configurações da conta (frontend)
+- US26 - Visualizar minha coleção de favoritos (frontend)
 
 ### 3.2 - Antecipando problemas
 

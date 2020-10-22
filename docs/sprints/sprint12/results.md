@@ -1,6 +1,6 @@
-# Resultados da Sprint N
+# Resultados da Sprint 12
 
-- [Resultados da Sprint N](#resultados-da-sprint-n)
+- [Resultados da Sprint 12](#resultados-da-sprint-12)
   - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
     - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
     - [1.2 _Burndown_](#12-burndown)
@@ -23,7 +23,8 @@
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 

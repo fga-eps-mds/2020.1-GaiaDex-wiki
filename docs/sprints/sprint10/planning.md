@@ -1,4 +1,4 @@
-# Planejamento da Sprint N
+# Planejamento da Sprint 10
 
 **Data de Início:** DD/MM/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint N](#planejamento-da-sprint-n)
+- [Planejamento da Sprint 10](#planejamento-da-sprint-10)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
@@ -48,12 +48,17 @@
 
 ### 5.2 Novas issues
 
-1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [Benchmark](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_benchmark](img/pont_benchmark.png)
+    - Resultado final - X
 
-2. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us13_visualizar_perfil_de_outro_usuario_backend](img/pont_us13_visualizar_perfil_de_outro_usuario_backend.png)
+    - Resultado final - X
+
+1. [US09 - Visualizar minha conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+
+    - ![pont_us09_visualizar_minha_conta_frontend](img/pont_us09_visualizar_minha_conta_frontend.png)
+    - Resultado final - X
