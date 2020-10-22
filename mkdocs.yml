@@ -60,32 +60,32 @@ nav:
   - Plano de Gerenciamento de Configuração de Software (GCS): gcs/gcs.md
   - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
   - Plano de Qualidade do Projeto: quality_plan/quality.md
-  - Resultados da Sprint N:
-      - Planejamento da Sprint N: sprints/planning.md
-      - Resultados da Sprint 0:
-          - Planejamento da Sprint 0: sprints/sprint0/planning.md
-          - Resultados da Sprint 0: sprints/sprint0/results.md
-      - Resultados da Sprint 1:
-          - Planejamento da Sprint 1: sprints/sprint1/planning.md
-          - Resultados da Sprint 1: sprints/sprint1/results.md
-      - Resultados da Sprint 2:
-          - Planejamento da Sprint 2: sprints/sprint2/planning.md
-          - Resultados da Sprint 2: sprints/sprint2/results.md
-      - Resultados da Sprint 3:
-          - Planejamento da Sprint 3: sprints/sprint3/planning.md
-          - Resultados da Sprint 3: sprints/sprint3/results.md
-      - Resultados da Sprint 4:
-          - Planejamento da Sprint 4: sprints/sprint4/planning.md
-          - Resultados da Sprint 4: sprints/sprint4/results.md
-      - Resultados da Sprint 5:
-          - Planejamento da Sprint 5: sprints/sprint5/planning.md
-          - Resultados da Sprint 5: sprints/sprint5/results.md
-      - Resultados da Sprint N: sprints/results.md
-      - Sprint 6:
-          - Planejamento da Sprint 6: sprints/sprint6/planning.md
   - Roadmap de Produto:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
+  - Sprints:
+      - Planejamento da Sprint N: sprints/planning.md
+      - Resultados da Sprint N: sprints/results.md
+      - Sprint 0:
+          - Planejamento da Sprint 0: sprints/sprint0/planning.md
+          - Resultados da Sprint 0: sprints/sprint0/results.md
+      - Sprint 1:
+          - Planejamento da Sprint 1: sprints/sprint1/planning.md
+          - Resultados da Sprint 1: sprints/sprint1/results.md
+      - Sprint 2:
+          - Planejamento da Sprint 2: sprints/sprint2/planning.md
+          - Resultados da Sprint 2: sprints/sprint2/results.md
+      - Sprint 3:
+          - Planejamento da Sprint 3: sprints/sprint3/planning.md
+          - Resultados da Sprint 3: sprints/sprint3/results.md
+      - Sprint 4:
+          - Planejamento da Sprint 4: sprints/sprint4/planning.md
+          - Resultados da Sprint 4: sprints/sprint4/results.md
+      - Sprint 5:
+          - Planejamento da Sprint 5: sprints/sprint5/planning.md
+          - Resultados da Sprint 5: sprints/sprint5/results.md
+      - Sprint 6:
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
   - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
   
 # Style // DONT ERASE THIS COMMENT [used in script "update_mkdocs_yml.py"]
