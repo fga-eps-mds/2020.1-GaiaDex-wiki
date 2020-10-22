@@ -49,7 +49,12 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
@@ -63,7 +68,12 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-...
+- Teste de usabilidade
+- US27 - Alterar informações da minha planta (backend)
+- US19 - Criar comentário em um tópico (frontend)
+- US20 - Editar comentário que fiz em um tópico (frontend)
+- US21 - Remover um comentário que fiz em um tópico (frontend)
+- US22 - Upvote e downvote em um comentário (frontend)
 
 ### 3.2 - Antecipando problemas
 

@@ -182,7 +182,7 @@ Backend:
 * US14 - Bloquear outro usuário (backend)
 * US28 - Definir configurações de notificação (backend)
 
-Frontend: 
+Frontend:
 
 * US14 - Bloquear outro usuário (frontend)
 * US24 - Adicionar planta aos meus Favoritos (frontend)
@@ -202,4 +202,3 @@ Frontend:
 * US06 - Cadastrar/fazer login com conta Google (frontend)
 
 ## Release 2
-

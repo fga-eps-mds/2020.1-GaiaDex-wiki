@@ -1,6 +1,6 @@
-# Resultados da Sprint N
+# Resultados da Sprint 14
 
-- [Resultados da Sprint N](#resultados-da-sprint-n)
+- [Resultados da Sprint 14](#resultados-da-sprint-14)
   - [1. Indicadores de Qualidade do Processo](#1-indicadores-de-qualidade-do-processo)
     - [1.1 Fechamento da _Sprint_](#11-fechamento-da-sprint)
     - [1.2 _Burndown_](#12-burndown)
@@ -23,7 +23,10 @@
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)| 0 | Concluído/Não Concluído/Em andamento |
+| [US05 - Cadastrar/fazer login com conta Facebook (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US06 - Cadastrar/fazer login com conta Google (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US05 - Cadastrar/fazer login com conta Facebook (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US06 - Cadastrar/fazer login com conta Google (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 

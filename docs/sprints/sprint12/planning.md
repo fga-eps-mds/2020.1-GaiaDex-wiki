@@ -1,4 +1,4 @@
-# Planejamento da Sprint N
+# Planejamento da Sprint 12
 
 **Data de Início:** DD/MM/2020  
 
@@ -14,7 +14,7 @@
 
 -------
 
-- [Planejamento da Sprint N](#planejamento-da-sprint-n)
+- [Planejamento da Sprint 12](#planejamento-da-sprint-12)
   - [1. Pareamentos](#1-pareamentos)
   - [2. Objetivos da _Sprint_](#2-objetivos-da-sprint)
   - [3. Mudanças](#3-mudanças)
@@ -48,12 +48,12 @@
 
 ### 5.2 Novas issues
 
-1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us10_visualizar_configuracoes_da_conta_frontend](img/pont_us10_visualizar_configuracoes_da_conta_frontend.png)
+    - Resultado final - X
 
-2. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
+1. [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
 
-    - ![pont_xxx](img/pont_xxx.png)
-    - Resultado final - Y
+    - ![pont_us26_visualizar_minha_colecao_de_favoritos_frontend](img/pont_us26_visualizar_minha_colecao_de_favoritos_frontend.png)
+    - Resultado final - X
