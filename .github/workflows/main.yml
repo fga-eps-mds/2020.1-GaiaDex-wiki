@@ -17,5 +17,17 @@ jobs:
       - run: pip install pyyaml
       - run: python update_mkdocs_yml.py
 
+      - name: Commit files
+        run: |
+          git config --local user.name "guilhermedelyra"
+          git add mkdocs.yml
+          git commit -m "Updating mkdocs.yml file"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
