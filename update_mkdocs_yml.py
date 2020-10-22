@@ -37,7 +37,7 @@ for k1, v1 in d['docs'].items():
 				else:
 						if 'RoadMap de papéis' == artifact_name:
 								artifact_name = 'Roadmap de Produto'
-						if 'Guia de estilo NodeJS:' == artifact_name:
+						if 'Guia de estilo NodeJS' == artifact_name:
 								artifact_name = 'Guia de Estilo'
 						result['- '+artifact_name] = {}
 						for k2, v2 in d['docs'][k1].items():
