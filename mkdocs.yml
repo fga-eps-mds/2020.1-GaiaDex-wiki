@@ -31,33 +31,6 @@ pages:
     - Inicio: index.md
 nav:
   - Inicio: index.md
-  - :
-      - Sprint 0:
-          - Planejamento da Sprint 0: sprints/sprint0/planning.md
-          - Resultados da Sprint 0: sprints/sprint0/results.md
-      - Sprint 1:
-          - Planejamento da Sprint 1: sprints/sprint1/planning.md
-          - Resultados da Sprint 1: sprints/sprint1/results.md
-      - Sprint 2:
-          - Planejamento da Sprint 2: sprints/sprint2/planning.md
-          - Resultados da Sprint 2: sprints/sprint2/results.md
-      - Sprint 3:
-          - Planejamento da Sprint 3: sprints/sprint3/planning.md
-          - Resultados da Sprint 3: sprints/sprint3/results.md
-      - Sprint 4:
-          - Planejamento da Sprint 4: sprints/sprint4/planning.md
-          - Resultados da Sprint 4: sprints/sprint4/results.md
-      - Sprint 5:
-          - Planejamento da Sprint 5: sprints/sprint5/planning.md
-          - Resultados da Sprint 5: sprints/sprint5/results.md
-      - Sprint 6:
-          - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
-          - Planejamento da Sprint 6: sprints/sprint7/planning.md
-          - Resultados da Sprint 6: sprints/sprint7/results.md
-      - Sprint N:
-          - Atas da Reunião DD/MM: sprints/template/meeting_minutes.md
-          - Planejamento da Sprint N: sprints/template/planning.md
-          - Resultados da Sprint N: sprints/template/results.md
   - Backlog de Produto:
       - Backlog de Produto: product_backlog/product_backlog.md
       - Critérios Extras: product_backlog/extra_criterias.md
@@ -78,7 +51,7 @@ nav:
   - Guia de Estilo:
       - Guia de estilo NodeJS: document_style_guide/Nodejs_style_guide.md
       - Guia de estilo React Native: document_style_guide/React_style_guide.md
-  - Inspirações:
+  - Identidade Visual:
       - Identidade Visual: visual_identity/visual_identity.md
       - Inspirações: visual_identity/inspirations.md
       - Moodboards: visual_identity/moodboard.md
@@ -90,6 +63,33 @@ nav:
   - Roadmap de Produto:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
+  - Sprints:
+      - Sprint 0:
+          - Planejamento da Sprint 0: sprints/sprint0/planning.md
+          - Resultados da Sprint 0: sprints/sprint0/results.md
+      - Sprint 1:
+          - Planejamento da Sprint 1: sprints/sprint1/planning.md
+          - Resultados da Sprint 1: sprints/sprint1/results.md
+      - Sprint 2:
+          - Planejamento da Sprint 2: sprints/sprint2/planning.md
+          - Resultados da Sprint 2: sprints/sprint2/results.md
+      - Sprint 3:
+          - Planejamento da Sprint 3: sprints/sprint3/planning.md
+          - Resultados da Sprint 3: sprints/sprint3/results.md
+      - Sprint 4:
+          - Planejamento da Sprint 4: sprints/sprint4/planning.md
+          - Resultados da Sprint 4: sprints/sprint4/results.md
+      - Sprint 5:
+          - Planejamento da Sprint 5: sprints/sprint5/planning.md
+          - Resultados da Sprint 5: sprints/sprint5/results.md
+      - Sprint 6:
+          - Atas da Reunião 15/10: sprints/sprint6/meeting_minutes.md
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
+          - Resultados da Sprint 6: sprints/sprint6/results.md
+      - Sprint N:
+          - Atas da Reunião DD/MM: sprints/template/meeting_minutes.md
+          - Planejamento da Sprint N: sprints/template/planning.md
+          - Resultados da Sprint N: sprints/template/results.md
   - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
   
 # Style // DONT ERASE THIS COMMENT [used in script "update_mkdocs_yml.py"]

@@ -1,3 +1,4 @@
+import json
 from glob import glob
 import yaml
 
@@ -29,6 +30,9 @@ for filepath in glob('docs/**/*.md', recursive=True):
                 d[keys[0]][keys[1]][keys[2]]['name'] = doc_name
                 d[keys[0]][keys[1]][keys[2]
                                     ][doc_name] = filepath.replace('docs/', '')
+
+d['docs']['sprints']['name'] = 'Sprints'
+print(json.dumps(d, indent=4))
 
 result = {}
 
