@@ -3,7 +3,7 @@ name: github pages
 on:
     push:
         branches:
-            - i108_automatizacao_do_mkdocs
+            - develop
 
 jobs:
     deploy:
@@ -33,7 +33,7 @@ jobs:
               uses: ad-m/github-push-action@master
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
-                  branch: i108_automatizacao_do_mkdocs
+                  branch: develop
                   # force: true
 
             - run: pip install mkdocs-material
