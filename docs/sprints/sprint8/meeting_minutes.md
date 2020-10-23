@@ -68,13 +68,13 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-- Teste de usabilidade
-- US27 - Alterar informações da minha planta (backend)
-- US19 - Criar comentário em um tópico (frontend)
-- US20 - Editar comentário que fiz em um tópico (frontend)
-- US21 - Remover um comentário que fiz em um tópico (frontend)
-- US22 - Upvote e downvote em um comentário (frontend)
-
+* Testes exploratórios 5 
+* Configurar CI/CD 13
+* US01 - Scannear planta (frontend) 5 
+* US02 - Visualizar minha coleção (frontend)5
+* US03 - Visualizar informações da Minha Planta (frontend) 8
+* US27 - Alterar informações da minha planta (frontend) 5
+* 
 ### 3.2 - Antecipando problemas
 
 `como está a disponibilidade dos membros nesta sprint? muita prova?`
