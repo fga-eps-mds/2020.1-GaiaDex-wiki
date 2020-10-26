@@ -128,6 +128,7 @@ Frontend:
 
 * Testes exploratórios
 * Configurar CI/CD
+* Refatorar Issues, Roadmap, backlog, arquitetura, criterios de aceitação - 13
 
 Frontend:
 
