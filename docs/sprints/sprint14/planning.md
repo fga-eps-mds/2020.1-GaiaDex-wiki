@@ -48,22 +48,9 @@
 
 ### 5.2 Novas issues
 
-1. [US05 - Cadastrar/fazer login com conta Facebook (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
+1. [US05 - Cadastrar/fazer login com conta Facebook (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US06 - Cadastrar/fazer login com conta Google (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US05 - Cadastrar/fazer login com conta Facebook (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US06 - Cadastrar/fazer login com conta Google (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
 
-    - ![pont_us05_cadastrar_fazer_login_com_conta_facebook_backend](img/pont_us05_cadastrar_fazer_login_com_conta_facebook_backend.png)
-    - Resultado final - X
-
-1. [US06 - Cadastrar/fazer login com conta Google (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us06_cadastrar_fazer_login_com_conta_google_backend](img/pont_us06_cadastrar_fazer_login_com_conta_google_backend.png)
-    - Resultado final - X
-
-1. [US05 - Cadastrar/fazer login com conta Facebook (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us05_cadastrar_fazer_login_com_conta_facebook_frontend](img/pont_us05_cadastrar_fazer_login_com_conta_facebook_frontend.png)
-    - Resultado final - X
-
-1. [US06 - Cadastrar/fazer login com conta Google (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us06_cadastrar_fazer_login_com_conta_google_frontend](img/pont_us06_cadastrar_fazer_login_com_conta_google_frontend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint14.png)

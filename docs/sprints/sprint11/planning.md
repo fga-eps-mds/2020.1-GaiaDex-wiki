@@ -48,17 +48,8 @@
 
 ### 5.2 Novas issues
 
-1. [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
+1. [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
 
-    - ![pont_us24_adicionar_planta_aos_meus_favoritos_backend](img/pont_us24_adicionar_planta_aos_meus_favoritos_backend.png)
-    - Resultado final - X
-
-1. [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_backend](img/pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_backend.png)
-    - Resultado final - X
-
-1. [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us26_visualizar_minha_colecao_de_favoritos_backend](img/pont_us26_visualizar_minha_colecao_de_favoritos_backend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint11.png)

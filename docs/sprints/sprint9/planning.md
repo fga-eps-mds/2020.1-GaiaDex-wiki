@@ -48,32 +48,11 @@
 
 ### 5.2 Novas issues
 
-1. [Teste de usabilidade](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)
+1. [Teste de usabilidade](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) - X
+1. [US27 - Alterar informações da minha planta (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US19 - Criar comentário em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US20 - Editar comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US21 - Remover um comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US22 - Upvote e downvote em um comentário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
 
-    - ![pont_teste_de_usabilidade](img/pont_teste_de_usabilidade.png)
-    - Resultado final - X
-
-1. [US27 - Alterar informações da minha planta (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us27_alterar_informacoes_da_minha_planta_backend](img/pont_us27_alterar_informacoes_da_minha_planta_backend.png)
-    - Resultado final - X
-
-1. [US19 - Criar comentário em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us19_criar_comentario_em_um_topico_frontend](img/pont_us19_criar_comentario_em_um_topico_frontend.png)
-    - Resultado final - X
-
-1. [US20 - Editar comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us20_editar_comentario_que_fiz_em_um_topico_frontend](img/pont_us20_editar_comentario_que_fiz_em_um_topico_frontend.png)
-    - Resultado final - X
-
-1. [US21 - Remover um comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us21_remover_um_comentario_que_fiz_em_um_topico_frontend](img/pont_us21_remover_um_comentario_que_fiz_em_um_topico_frontend.png)
-    - Resultado final - X
-
-1. [US22 - Upvote e downvote em um comentário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us22_upvote_e_downvote_em_um_comentario_frontend](img/pont_us22_upvote_e_downvote_em_um_comentario_frontend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint9.png)

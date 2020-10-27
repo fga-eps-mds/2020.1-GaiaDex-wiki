@@ -11,8 +11,8 @@
     - [2.4.2 - Pontos positivos, negativos e a melhorar, em geral](#242---pontos-positivos-negativos-e-a-melhorar-em-geral)
   - [3 - planejamento](#3---planejamento)
     - [3.1 - De acordo com o Roadmap](#31---de-acordo-com-o-roadmap)
-    - [3.2 - Antecipando problemas](#32---antecipando-problemas)
     - [3.3 - O que mais pode ser adicionado](#33---o-que-mais-pode-ser-adicionado)
+    - [3.2 - Antecipando problemas](#32---antecipando-problemas)
     - [3.4 - Geração dos pareamentos](#34---geração-dos-pareamentos)
     - [3.5 - Votação de riscos](#35---votação-de-riscos)
     - [3.6 - Considerações finais sobre a reunião](#36---considerações-finais-sobre-a-reunião)
@@ -23,6 +23,8 @@
 [Quadro de conhecimentos](https://docs.google.com/spreadsheets/d/1jK_06zaBXD485tWDkwCnQ6xhP0_jICVg1GNkNt1AgUw/edit#gid=0)
 [Votação de riscos](https://docs.google.com/spreadsheets/d/1vfmnsztDCSwHpmeRw8vGGG4ExzWC-EdefWPhXHg358I/edit#gid=0)
 [Visualizador de markdown online](https://jbt.github.io/markdown-editor/)
+[Votação no Google Docs](https://docs.google.com/spreadsheets/d/1Xo6U6UyQQI0scJGQl0HGKC1u85VUKqHtsqUgPYiLOeA/edit?usp=sharing)
+[Votação no Scrum Poker Online](https://www.scrumpoker.online)
 
 ## 1 - discussão geral
 
@@ -65,13 +67,17 @@ por ora, eis o estado:
 
 ...
 
-### 3.2 - Antecipando problemas
+[Votação no Google Docs](https://docs.google.com/spreadsheets/d/1Xo6U6UyQQI0scJGQl0HGKC1u85VUKqHtsqUgPYiLOeA/edit?usp=sharing)
 
-`como está a disponibilidade dos membros nesta sprint? muita prova?`
+[Votação no Scrum Poker Online](https://www.scrumpoker.online)
 
 ### 3.3 - O que mais pode ser adicionado
 
 `quais dividas tecnicas? o que foi discutido que pode ser incluido nesta sprint?`
+
+### 3.2 - Antecipando problemas
+
+`como está a disponibilidade dos membros nesta sprint? muita prova?`
 
 ### 3.4 - Geração dos pareamentos
 
