@@ -48,17 +48,8 @@
 
 ### 5.2 Novas issues
 
-1. [Benchmark](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)
+1. [Benchmark](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) - X
+1. [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US09 - Visualizar minha conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
 
-    - ![pont_benchmark](img/pont_benchmark.png)
-    - Resultado final - X
-
-1. [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us13_visualizar_perfil_de_outro_usuario_backend](img/pont_us13_visualizar_perfil_de_outro_usuario_backend.png)
-    - Resultado final - X
-
-1. [US09 - Visualizar minha conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us09_visualizar_minha_conta_frontend](img/pont_us09_visualizar_minha_conta_frontend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint10.png)

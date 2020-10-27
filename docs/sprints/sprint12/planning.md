@@ -48,12 +48,7 @@
 
 ### 5.2 Novas issues
 
-1. [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
+1. [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
 
-    - ![pont_us10_visualizar_configuracoes_da_conta_frontend](img/pont_us10_visualizar_configuracoes_da_conta_frontend.png)
-    - Resultado final - X
-
-1. [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us26_visualizar_minha_colecao_de_favoritos_frontend](img/pont_us26_visualizar_minha_colecao_de_favoritos_frontend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint12.png)

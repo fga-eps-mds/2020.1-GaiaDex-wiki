@@ -82,7 +82,7 @@ Nessa _Sprint_:
 ## 2 Retrospectiva
 
 | Pontos Positivos | Pontos Negativos |
-| :------------- | :----------: 
+| :------------- | :----------: |
 | Riscos sendo calculados na planilha | Ausência de membros nas dailies |
 | Criação do documento de Atas da Reunião | Comunicação falha de membros para pedir ajuda |
 

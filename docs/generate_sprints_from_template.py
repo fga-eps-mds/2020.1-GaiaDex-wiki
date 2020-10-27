@@ -13,15 +13,10 @@ def planning(filename, list_of_us, sprint_number):
         us_as_filename = unicodedata.normalize('NFKD', us_as_filename).encode('ASCII', 'ignore').decode('ASCII')
         type_of_issue = 'BackEnd' if 'backend' in us else 'FrontEnd' if 'frontend' in us else 'wiki'
 
-        issue = f'''
-1. [{us}](https://github.com/fga-eps-mds/2020.1-GaiaDex-{type_of_issue}/issues/)
-
-    - ![pont_{us_as_filename}](img/pont_{us_as_filename}.png)
-    - Resultado final - X
-'''
-
+        issue = f'1. [{us}](https://github.com/fga-eps-mds/2020.1-GaiaDex-{type_of_issue}/issues/) - X'
         issues.append(issue)
     
+    issues.append(f'\n![Votação de issues](img/issues_sprint{sprint_number}.png)')
     replace_template_issues = '''
 1. [Issue N](https://github.com/fga-eps-mds/2020.1-GaiaDex-)
 
@@ -34,7 +29,7 @@ def planning(filename, list_of_us, sprint_number):
     - Resultado final - Y
 '''
 
-    result = file.replace(replace_template_issues, ''.join(issues))
+    result = file.replace(replace_template_issues, '\n'+'\n'.join(issues)+'\n')
     f = open(filename, 'w')
     f.write(result)
     f.close()
@@ -73,11 +68,14 @@ with open('roadmap/product_roadmap.md', 'r') as product_roadmap:
     us_by_sprints = { k:v for k, v in [(i.split('\n')[0], [z for z in i.split('\n') if z != '' and z[0] ==  '*']) for i in sprints] if int(k) >= 8}
 
     for sprint, list_of_us in us_by_sprints.items():
+        
         base = f'sprints/sprint{sprint}'
 
         planning(f'{base}/planning.md', list_of_us, sprint)
         results_and_meeting_minutes(f'{base}/results.md', list_of_us, sprint)
+        if sprint == '8':
+            continue
         if int(sprint) < 14:
-            results_and_meeting_minutes(f'{base}/meeting_minutes.md', list_of_us, sprint, next_issues=us_by_sprints[str(int(sprint)+1)])
+            results_and_meeting_minutes(f'{base}/meeting_minutes.md', us_by_sprints[str(int(sprint)-1)], sprint, next_issues=list_of_us)
         else:
-            results_and_meeting_minutes(f'{base}/meeting_minutes.md', list_of_us, sprint)
+            results_and_meeting_minutes(f'{base}/meeting_minutes.md', us_by_sprints[str(int(sprint)-1)], sprint)

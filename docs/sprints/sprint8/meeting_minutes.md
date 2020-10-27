@@ -49,12 +49,13 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Testes nas histórias já feitas no backend (Jest)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Cobertura de Testes Code Climate](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Configurar Lint com Guia de Estilo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US15 - Criar tópico em um fórum de planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US18 - Upvote e downvote em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
@@ -68,13 +69,13 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-* Testes exploratórios 5 
-* Configurar CI/CD 13
-* US01 - Scannear planta (frontend) 5 
-* US02 - Visualizar minha coleção (frontend)5
-* US03 - Visualizar informações da Minha Planta (frontend) 8
-* US27 - Alterar informações da minha planta (frontend) 5
-* 
+- Testes exploratórios
+- Configurar CI/CD
+- US01 - Scannear planta (frontend)
+- US02 - Visualizar minha coleção (frontend)
+- US03 - Visualizar informações da Minha Planta (frontend)
+- US27 - Alterar informações da minha planta (frontend)
+
 ### 3.2 - Antecipando problemas
 
 `como está a disponibilidade dos membros nesta sprint? muita prova?`

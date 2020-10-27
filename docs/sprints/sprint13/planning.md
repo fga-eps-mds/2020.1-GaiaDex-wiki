@@ -48,32 +48,11 @@
 
 ### 5.2 Novas issues
 
-1. [US14 - Bloquear outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
+1. [US14 - Bloquear outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US28 - Definir configurações de notificação (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+1. [US14 - Bloquear outro usuário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
+1. [US28 - Definir configurações de notificação (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) - X
 
-    - ![pont_us14_bloquear_outro_usuario_backend](img/pont_us14_bloquear_outro_usuario_backend.png)
-    - Resultado final - X
-
-1. [US28 - Definir configurações de notificação (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)
-
-    - ![pont_us28_definir_configuracoes_de_notificacao_backend](img/pont_us28_definir_configuracoes_de_notificacao_backend.png)
-    - Resultado final - X
-
-1. [US14 - Bloquear outro usuário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us14_bloquear_outro_usuario_frontend](img/pont_us14_bloquear_outro_usuario_frontend.png)
-    - Resultado final - X
-
-1. [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us24_adicionar_planta_aos_meus_favoritos_frontend](img/pont_us24_adicionar_planta_aos_meus_favoritos_frontend.png)
-    - Resultado final - X
-
-1. [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_frontend](img/pont_us25_remover_uma_planta_da_minha_colecao_de_favoritos_frontend.png)
-    - Resultado final - X
-
-1. [US28 - Definir configurações de notificação (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/)
-
-    - ![pont_us28_definir_configuracoes_de_notificacao_frontend](img/pont_us28_definir_configuracoes_de_notificacao_frontend.png)
-    - Resultado final - X
+![Votação de issues](img/issues_sprint13.png)

@@ -11,8 +11,8 @@
     - [2.4.2 - Pontos positivos, negativos e a melhorar, em geral](#242---pontos-positivos-negativos-e-a-melhorar-em-geral)
   - [3 - planejamento](#3---planejamento)
     - [3.1 - De acordo com o Roadmap](#31---de-acordo-com-o-roadmap)
-    - [3.2 - Antecipando problemas](#32---antecipando-problemas)
     - [3.3 - O que mais pode ser adicionado](#33---o-que-mais-pode-ser-adicionado)
+    - [3.2 - Antecipando problemas](#32---antecipando-problemas)
     - [3.4 - Geração dos pareamentos](#34---geração-dos-pareamentos)
     - [3.5 - Votação de riscos](#35---votação-de-riscos)
     - [3.6 - Considerações finais sobre a reunião](#36---considerações-finais-sobre-a-reunião)
@@ -23,6 +23,8 @@
 [Quadro de conhecimentos](https://docs.google.com/spreadsheets/d/1jK_06zaBXD485tWDkwCnQ6xhP0_jICVg1GNkNt1AgUw/edit#gid=0)
 [Votação de riscos](https://docs.google.com/spreadsheets/d/1vfmnsztDCSwHpmeRw8vGGG4ExzWC-EdefWPhXHg358I/edit#gid=0)
 [Visualizador de markdown online](https://jbt.github.io/markdown-editor/)
+[Votação no Google Docs](https://docs.google.com/spreadsheets/d/1Xo6U6UyQQI0scJGQl0HGKC1u85VUKqHtsqUgPYiLOeA/edit?usp=sharing)
+[Votação no Scrum Poker Online](https://www.scrumpoker.online)
 
 ## 1 - discussão geral
 
@@ -49,8 +51,9 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
@@ -64,20 +67,20 @@ por ora, eis o estado:
 
 ### 3.1 - De acordo com o Roadmap
 
-- US14 - Bloquear outro usuário (backend)
-- US28 - Definir configurações de notificação (backend)
-- US14 - Bloquear outro usuário (frontend)
-- US24 - Adicionar planta aos meus Favoritos (frontend)
-- US25 - Remover uma planta da minha coleção de favoritos (frontend)
-- US28 - Definir configurações de notificação (frontend)
+- US10 - Visualizar configurações da conta (frontend)
+- US26 - Visualizar minha coleção de favoritos (frontend)
 
-### 3.2 - Antecipando problemas
+[Votação no Google Docs](https://docs.google.com/spreadsheets/d/1Xo6U6UyQQI0scJGQl0HGKC1u85VUKqHtsqUgPYiLOeA/edit?usp=sharing)
 
-`como está a disponibilidade dos membros nesta sprint? muita prova?`
+[Votação no Scrum Poker Online](https://www.scrumpoker.online)
 
 ### 3.3 - O que mais pode ser adicionado
 
 `quais dividas tecnicas? o que foi discutido que pode ser incluido nesta sprint?`
+
+### 3.2 - Antecipando problemas
+
+`como está a disponibilidade dos membros nesta sprint? muita prova?`
 
 ### 3.4 - Geração dos pareamentos
 
