@@ -68,7 +68,11 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 Comentário sobre a evolução dos conhecimentos.
 <br>
 
-### 1.7 Revisão da _Sprint_
+### 1.7 EVM
+
+![](img/evm.jpg)
+
+### 1.8 Revisão da _Sprint_
 
 Nessa _Sprint_ houveram os problemas:
 

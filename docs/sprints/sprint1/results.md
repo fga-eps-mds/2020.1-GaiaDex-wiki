@@ -69,7 +69,6 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![](img/knowledge_box.jpg)
 
-
 ### 1.7 EVM
 
 ![](img/evm.jpg)
