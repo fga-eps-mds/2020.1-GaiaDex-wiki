@@ -8,7 +8,7 @@
   - [1.5 Quadro de Horas](#15-quadro-de-horas)
   - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
   - [1.7 EVM](#17-EVM)
-  - [1.7 Revisão da _Sprint_](#18-revisão-da-sprint)
+  - [1.8 Revisão da _Sprint_](#18-revisão-da-sprint)
   
 [2 Retrospectiva](#2-retrospectiva)
   - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master) 
