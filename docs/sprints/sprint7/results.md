@@ -44,10 +44,11 @@
 | [Pesquisa sobre refatoração no Backend](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/102) | 2 pontos | não feito |
 | [Iniciar doc Post-Mortem](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/103) | 3 pontos | feito |
 | [Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/104) | 2 pontos | feito |
+| [Automatização do mkdocs](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/108) | 13 pontos | feito |
 | [Readequar issues do FrontEnd para incluir a distinção entre as fases da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/105) | - pontos | não feito |
 | [Refatorar Roadmap do FrontEnd para considerar as diferentes etapas da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/106) | - pontos | não feito |
 
-Dos 82 pontos planejados, 13 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 95 pontos planejados, 26 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 
