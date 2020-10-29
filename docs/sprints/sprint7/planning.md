@@ -8,9 +8,9 @@
 
 **Pontos Planejados**: 28
 
-**Pontos Adicionados**: 47 + X
+**Pontos Adicionados**: 67
 
-**Pontos Totais**: 75 + X
+**Pontos Totais**: 95
 
 -------
 
@@ -98,11 +98,11 @@ Adição do documento de `Atas da Reuniao`.
 
 Essas issues foram discutidas entre o grupo, mas por falha de organização não foram debatidas na pontuação. Portanto, as mesmas serão pontuadas ao final da sprint por intermedio de uma avaliação dos membros que trabalharam nas mesmas.
 
-1. [Pesquisa sobre refatoração no Backend](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/102) - X pontos
-2. [Iniciar doc Post-Mortem](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/103) - X pontos
-3. [Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/104) - X pontos
+1. [Pesquisa sobre refatoração no Backend](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/102) - 2 pontos
+2. [Iniciar doc Post-Mortem](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/103) - 3 pontos
+3. [Evolução do Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/104) - 2 pontos
 4. [Readequar issues do FrontEnd para incluir a distinção entre as fases da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/105) - X pontos
 5. [Refatorar Roadmap do FrontEnd para considerar as diferentes etapas da entrega](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/106) - X pontos
-6. [Automatização do mkdocs](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/108) - X pontos
+6. [Automatização do mkdocs](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/108) - 13 pontos
 7. [Configuração do Codacy e Codeclimate](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/109) - X pontos
 8. [Gerar templates de sprints restantes](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/112) - X pontos
