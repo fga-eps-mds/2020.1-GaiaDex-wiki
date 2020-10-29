@@ -71,7 +71,7 @@ Comentário sobre a evolução dos conhecimentos.
 
 ### 1.7 EVM
 
-![](img/evm.jpg)
+![](img/evm.JPG)
 
 ### 1.8 Revisão da _Sprint_
 
