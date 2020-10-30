@@ -1,8 +1,8 @@
 # Planejamento da Sprint 9
 
-**Data de Início:** DD/MM/2020  
+**Data de Início:** 29/10/2020  
 
-**Data de Término:** DD/MM/2020
+**Data de Término:** 05/11/2020
 
 **Duração:** * 7 dias
 
@@ -28,7 +28,7 @@
 
 ## 1. Pareamentos
 
-![Pareamentos](img/pairing.jpg)
+![Pareamentos](img/pairing_sprint9.jpg)
 
 ## 2. Objetivos da _Sprint_
 

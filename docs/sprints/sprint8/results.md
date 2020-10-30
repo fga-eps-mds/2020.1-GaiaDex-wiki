@@ -56,11 +56,11 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ### 1.5 Quadro de Horas
 
-![hours](img/hours.jpg)
+![hours](img/hours_sprint8.png)
 
 ### 1.6 Quadro de Conhecimento
 
-![knowledge_box](img/knowledge_box.jpg)
+![knowledge_box](img/knowledge_sprint8.png)
 
 Comentário sobre a evolução dos conhecimentos.
 
@@ -73,9 +73,7 @@ Nessa _Sprint_:
 
 ## 2 Retrospectiva
 
-| Pontos Positivos | Pontos a melhorar | Pontos Negativos |
-| :------------- | :----------: | :---------: |
-| x |  |  |
+![review_sprint8](img/review_sprint8.png)
 
 ### 2.1 Análise do _Scrum Master_
 
