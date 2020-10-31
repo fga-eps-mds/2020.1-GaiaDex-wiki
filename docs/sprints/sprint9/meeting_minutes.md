@@ -127,6 +127,7 @@ por ora, eis o estado:
 | [US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Não concluído |
 | [US18 - Upvote e downvote em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/88) | 2 pontos | Concluido |
 | [Refatorar docs pro novo frontend e backend]() | 13 pontos | Não concluido |
+| [Atualizar EVM](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/117) | 5 pontos | Concluído |
 | [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)| 5 pontos | Não concluído |
 | [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Não concluído |
 | [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Em andamento |
