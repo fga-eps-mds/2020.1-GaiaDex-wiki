@@ -34,25 +34,17 @@ Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, 
 
 ### 1.2 _Burndown_
 
-![burndown](img/burndown.jpg)
+![burndown](img/burndown.png)
 
 ### 1.3 Gráfico de _commits_
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits_wiki.png)
-
-Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
-
-![commits_back](img/commits_back.png)
-
-Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
-
-![commits_front](img/commits_front.png)
+![commits_wiki](img/commits_wiki_sprint8.png)
 
 ### 1.4 _Velocity_
 
-![velocity](img/velocity.jpg)
+![velocity](img/velocity_sprint8.png)
 
 ### 1.5 Quadro de Horas
 
@@ -68,8 +60,8 @@ Comentário sobre a evolução dos conhecimentos.
 
 Nessa _Sprint_:
 
-- acontecimento 1
-- acontecimento 2
+- Um dos membros do time de MDS adoeçeu
+- Um dos membros do time de MDS teve dificuldades com o ambiente de desenvolvimento do projeto.
 
 ## 2 Retrospectiva
 
@@ -77,8 +69,6 @@ Nessa _Sprint_:
 
 ### 2.1 Análise do _Scrum Master_
 
-`Parágrafo a respeito da sprint`
+Nesta sprint, os o time de EPS evoluiu bastante nos conhecimentos nas tecnologias utilizadas no projeto. Uma boa parcela das dívidas técnicas foram finalizadas.
 
-`Parágrafo a respeito do time`
-
-`Parágrafo a respeito das entregas`
+Há um receio em meio ao time de EPS de que nem tudo poderá ser entregue de maneira muito refinada ao final do _deadline_ do projeto.
