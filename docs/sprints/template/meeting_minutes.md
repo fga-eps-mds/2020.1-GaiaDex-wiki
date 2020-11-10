@@ -61,6 +61,8 @@ por ora, eis o estado:
 
 `pontos positivos = o que foi de bom | pontos negativos = ruim, não da mais pra mudar | pontos a melhorar = ruim mas circunstancial |`
 
+[link](https://docs.google.com/spreadsheets/d/1kDTcWfatq5wJZsTfCOO8gg_eS5i9acqY1u2PPzg_-TY/edit#gid=0)
+
 ## 3 - planejamento
 
 ### 3.1 - De acordo com o Roadmap
@@ -81,7 +83,9 @@ por ora, eis o estado:
 
 ### 3.4 - Geração dos pareamentos
 
-`autoexplicativo` [link](https://www.randomlists.com/team-generator?grp=2&items=felipe%0Aruan%0Asamuel%0Avinicius%0Agabriel%0A)
+`autoexplicativo` [link](https://www.randomlists.com/team-generator?grp=3&items=marcos_felipe%0Aruan%0Avictor_samuel%0Avinicius%0Amarcos_gabriel%0Avictor_hugo%0Aarthur_sena)
+
+`autoexplicativo` [link](https://www.randomlists.com/team-generator?grp=3&items=makaha%0Aguilherme%0Ajoao)
 
 ### 3.5 - Votação de riscos
 
