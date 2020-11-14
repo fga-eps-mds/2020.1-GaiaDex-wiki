@@ -1,8 +1,8 @@
 # Planejamento da Sprint 11
 
-**Data de Início:** DD/MM/2020  
+**Data de Início:** 12/11/2020  
 
-**Data de Término:** DD/MM/2020
+**Data de Término:** 19/11/2020
 
 **Duração:** * 7 dias
 
@@ -48,11 +48,10 @@
 
 ### 5.2 Novas issues
 
-1. [Benchmark](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/123) - X
-2. [Atualizar EVM tradicional até sprint 10](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/124) - X
-3. [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) - X
-4. [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
-5. [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
-6. [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
-7. [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)- X
-8. [US09 - Visualizar minha conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) -X
+1. [Atualizar EVM tradicional até sprint 10](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/124) - X
+2. [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) - X
+3. [US09 - Visualizar minha conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) -X
+4. [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/)- X
+5. [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+6. [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
+7. [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) - X
