@@ -6,6 +6,7 @@
 | ----------------------------| --------------------------- | ------------------------------------  | ----------------------|
 |19/03/2020|0.1| Adição de Scrum Master, DevOps e Arquiteto |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 |26/08/2020|0.1| Adição de Product Owner |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
+|17/11/2020|1.0| Mudança dos papéis de EPS |[João Vítor](http://github.com/joaovitorml), [Rafael Makaha](http://github.com/rafaelmakaha) |
 
 ## Objetivo
 
@@ -19,9 +20,9 @@ O Product Owner será responsável por:
 * Priorização de requisitos;
 * Roadmap;
 * Gerar histórias no Backlog do produto;
-* [Termo de Abertura do Projeto] ();
+* Termo de Abertura do Projeto;
 
-### Scrum Master (Makaha)
+### Scrum Master (João Vítor)
 
 O(A) Scrum Master será responsável por:
 
@@ -34,17 +35,7 @@ O(A) Scrum Master será responsável por:
 * Registrar [dailies]();
 * Gerar e atualizar o [Burndown de Risco]();
 * Realizar o planejamento das [sprints](./product_roadmap.md) seguintes.
-
-### Arquiteto(a) (João Vitor Morandi)
-
-O(A) arquiteto(a) será responsável por:
-
-* Gerar [Documento de Arquitetura]();
-* Gerar [Diagrama de Pacotes]();
-* Gerar [Diagrama de Classes]();
-* Configurar o Banco de Dados.
-
-### DevOps (Time EPS)
+### DevOps (Rafael Makaha)
 
 O(A) DevOps será responśavel por:
 
@@ -55,3 +46,11 @@ O(A) DevOps será responśavel por:
 * Configurar ferramentas de qualidade de código;
 * Configurar integração contínua;
 * Configurar éntrega conítnua.
+### Arquiteto(a) (Time EPS)
+
+O(A) arquiteto(a) será responsável por:
+
+* Gerar [Documento de Arquitetura]();
+* Gerar [Diagrama de Pacotes]();
+* Gerar [Diagrama de Classes]();
+* Configurar o Banco de Dados.
