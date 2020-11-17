@@ -29,54 +29,54 @@
 [US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 5 pontos | Em andamento  |
 [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 pontos | Em andamento |
 [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 pontos | Não Concluído |
-[US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) | 3 pontos | Revisar PR |
+[US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) | 3 pontos | Concluído |
 [Testes](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 pontos | Em andamento | 
 [US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) | 3 pontos | Revisar PR |
 [US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Revisar PR |
 [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)| 5 pontos | Não Concluído |
 [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Em andamento |
-[US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Revisar PR |
+[US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Concluído |
 [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Não Concluído |
 [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 pontos | Não Concluído |
 [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Não Concluído |
 [Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Não Concluído |
-[US27 - Alterar informações da minha planta (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 3 pontos | Revisar PR |
+[US27 - Alterar informações da minha planta (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 3 pontos | Concluído |
 [US19 - Criar comentário em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 pontos | Em andamento |
 [US20 - Editar comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 pontos | Em andamento |
 [US21 - Remover um comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 2 pontos | Em andamento |
 [US22 - Upvote e downvote em um comentário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 1 pontos | Em andamento |
 
-Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 112 pontos planejados, 11 foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 
-![burndown](img/burndown.jpg)
+Não há burndown de risco pois nenhuma issue nova foi definida nessa sprint.
 
 ### 1.3 Gráfico de _commits_
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits_wiki.png)
+![commits_wiki](img/commits.jpg)
 
-Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
+<!-- Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ![commits_back](img/commits_back.png)
 
 Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
-![commits_front](img/commits_front.png)
+![commits_front](img/commits_front.png) -->
 
 ### 1.4 _Velocity_
 
-![velocity](img/velocity.jpg)
+![velocity](img/velocity.png)
 
 ### 1.5 Quadro de Horas
 
-![hours](img/hours.jpg)
+![hours](img/hours.png)
 
 ### 1.6 Quadro de Conhecimento
 
-![knowledge_box](img/knowledge_box.jpg)
+![knowledge_box](img/knowledge_box.png)
 
 Comentário sobre a evolução dos conhecimentos.
 
@@ -84,19 +84,14 @@ Comentário sobre a evolução dos conhecimentos.
 
 Nessa _Sprint_:
 
-- acontecimento 1
-- acontecimento 2
+- Não houve nenhum acontecimento marcante a relatar
 
 ## 2 Retrospectiva
 
-| Pontos Positivos | Pontos a melhorar | Pontos Negativos |
-| :------------- | :----------: | :---------: |
-| x |  |  |
+![retrospectiva](img/retrospectiva.png)
 
 ### 2.1 Análise do _Scrum Master_
 
-`Parágrafo a respeito da sprint`
+A sprint foi pouco produtiva, com poucas dívidas técnicas resolvidas, apesar de não terem sido adicionadas novas issues.
 
-`Parágrafo a respeito do time`
-
-`Parágrafo a respeito das entregas`
+O time de MDS produziu bastante, porém o time de EPS não revisou os PRs, resultando assim na baixa produtividade do time como um todo.
