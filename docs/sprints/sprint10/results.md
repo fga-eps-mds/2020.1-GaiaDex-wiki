@@ -8,7 +8,8 @@
     - [1.4 _Velocity_](#14-velocity)
     - [1.5 Quadro de Horas](#15-quadro-de-horas)
     - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
-    - [1.7 Revisão da _Sprint_](#17-revisão-da-sprint)
+    - [1.7 EVM](#17-evm)
+    - [1.8 Revisão da _Sprint_](#18-revisão-da-sprint)
   - [2 Retrospectiva](#2-retrospectiva)
     - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
   
@@ -31,8 +32,8 @@
 [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 pontos | Não Concluído |
 [US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) | 3 pontos | Concluído |
 [Testes](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 pontos | Em andamento | 
-[US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) | 3 pontos | Revisar PR |
-[US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Revisar PR |
+[US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) | 3 pontos | Em andamento |
+[US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Em andamento |
 [Testes exploratórios](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/)| 5 pontos | Não Concluído |
 [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Em andamento |
 [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Concluído |
@@ -80,7 +81,13 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 Comentário sobre a evolução dos conhecimentos.
 
-### 1.7 Revisão da _Sprint_
+### 1.7 EVM
+
+![](img/evm_sprint10.jpg)
+
+Como nessa sprint não haviam sido definidos novos pontos, foi colocado no EVM que eram esperados pelo menos 22 pontos concluídos oriundos de dívidas técnicas.
+
+### 1.8 Revisão da _Sprint_
 
 Nessa _Sprint_:
 

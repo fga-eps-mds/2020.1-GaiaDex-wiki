@@ -41,7 +41,21 @@ Pontos a serem discutidos na reunião:
 
 ### 2.2 - "o que eu fiz"
 
-`passaremos a fala pra cada membro fazer um resumo de como foi a experiencia durante essa sprint [quase uma 'super daily']`
+lyra: projeto a parte para testar deploy, mas ainda sem trazer para o projeto. Reestruturação do frontend. Bug watchmen.
+
+João Vítor: review e planning sprint reunião passada e pré-planejamento e pré-review da reunião atual
+
+Makaha: pareamento com marcos e ruan para fehcar dividas tecnicas, faltando apenas review
+
+ruan: pareamento com marcos e makaha
+
+arthur: testes das historias de topico, faltou reunião passada. Faltando aceitação do PR (pr 114)
+
+victor hugo: problema do bug no watchmen atrasou o desenvolvimento. Teve prova na semana. Pareando com o Lyra
+
+victor samuel: esperando aceitação do pr para poder implementar os testes das issues desse pr
+
+vinicius: fazendo testes, trabalhou nas rotas que estavam faltando
 
 ### 2.3 - estado das issues
 
