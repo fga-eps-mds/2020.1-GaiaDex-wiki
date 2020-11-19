@@ -31,27 +31,24 @@ pages:
     - Inicio: index.md
 nav:
   - Inicio: index.md
-  - Backlog de Produto:
+  - Critérios de Aceitação:
       - Backlog de Produto: product_backlog/product_backlog.md
       - Critérios Extras: product_backlog/extra_criterias.md
       - Critérios de Aceitação: product_backlog/acceptance_criteria.md
-      - Potencial - Backlog de Produto:
+      - Potencial - Critérios de Aceitação:
           - Potencial -  Critérios Extras: product_backlog/potential_backlog/potential_extra_criterias.md
           - Potencial - Backlog de Produto: product_backlog/potential_backlog/potential_product_backlog.md
           - Potencial - Critérios de Aceitação: product_backlog/potential_backlog/potential_acceptance_criteria.md
   - Documentação do protótipo: prototipo/prototipo.md
   - Documento de Arquitetura: architecture_document/architecture_document.md
   - Documento de Especificação Suplementar: supplementary_document/supplementary_document.md
-  - Documento de Visão:
-      - Documento de Visão: vision_document/vision_document.md
-      - ZeBrand: vision_document/ZeBrand.md
   - EAP: eap/eap.md
   - EVM: evm/evm.md
   - Gerenciamento de Plano de Custo: cost_document/cost_document.md
   - Guia de Estilo:
       - Guia de estilo NodeJS: document_style_guide/Nodejs_style_guide.md
       - Guia de estilo React Native: document_style_guide/React_style_guide.md
-  - Inspirações:
+  - Moodboards:
       - Identidade Visual: visual_identity/visual_identity.md
       - Inspirações: visual_identity/inspirations.md
       - Moodboards: visual_identity/moodboard.md
@@ -61,7 +58,7 @@ nav:
   - Plano de Gerenciamento de Riscos: risk_management/risk_management.md
   - Plano de Qualidade do Projeto: quality_plan/quality.md
   - Post Mortem: post_mortem/post_mortem.md
-  - Roadmap de Produto:
+  - RoadMap de produto:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
   - Sprints:
@@ -124,6 +121,9 @@ nav:
           - Planejamento da Sprint N: sprints/template/planning.md
           - Resultados da Sprint N: sprints/template/results.md
   - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
+  - ZeBrand:
+      - Documento de Visão: vision_document/vision_document.md
+      - ZeBrand: vision_document/ZeBrand.md
   
 # Style // DONT ERASE THIS COMMENT [used in script "update_mkdocs_yml.py"]
 extra_css:
