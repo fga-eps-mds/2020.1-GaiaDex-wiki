@@ -35,7 +35,7 @@ Esta sprint terá foco em eliminar dívidas técnicas
 
 ## 3. Mudanças
 
-Não há mudanças
+Não há mudanças para essa sprint
 
 ## 4. Burndown de Risco
 

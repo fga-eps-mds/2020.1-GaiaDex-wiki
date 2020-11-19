@@ -8,7 +8,8 @@
     - [1.4 _Velocity_](#14-velocity)
     - [1.5 Quadro de Horas](#15-quadro-de-horas)
     - [1.6 Quadro de Conhecimento](#16-quadro-de-conhecimento)
-    - [1.7 Revisão da _Sprint_](#17-revisão-da-sprint)
+    - [1.7 EVM](#17-evm)
+    - [1.8 Revisão da _Sprint_](#18-revisão-da-sprint)
   - [2 Retrospectiva](#2-retrospectiva)
     - [2.1 Análise do _Scrum Master_](#21-análise-do-scrum-master)
   
@@ -71,9 +72,11 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![knowledge_box](img/knowledge_sprint8.png)
 
-Comentário sobre a evolução dos conhecimentos.
+### 1.7 EVM
 
-### 1.7 Revisão da _Sprint_
+![](img/evm_sprint8.jpg)
+
+### 1.8 Revisão da _Sprint_
 
 Nessa _Sprint_:
 
@@ -86,6 +89,6 @@ Nessa _Sprint_:
 
 ### 2.1 Análise do _Scrum Master_
 
-Nesta sprint, os o time de EPS evoluiu bastante nos conhecimentos nas tecnologias utilizadas no projeto. Uma boa parcela das dívidas técnicas foram finalizadas.
+Nesta sprint, o time de EPS evoluiu bastante nos conhecimentos nas tecnologias utilizadas no projeto. Uma boa parcela das dívidas técnicas foram finalizadas.
 
 Há um receio em meio ao time de EPS de que nem tudo poderá ser entregue de maneira muito refinada ao final do _deadline_ do projeto.

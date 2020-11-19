@@ -41,7 +41,21 @@ Pontos a serem discutidos na reunião:
 
 ### 2.2 - "o que eu fiz"
 
-`passaremos a fala pra cada membro fazer um resumo de como foi a experiencia durante essa sprint [quase uma 'super daily']`
+lyra: projeto a parte para testar deploy, mas ainda sem trazer para o projeto. Reestruturação do frontend. Bug watchmen.
+
+João Vítor: review e planning sprint reunião passada e pré-planejamento e pré-review da reunião atual
+
+Makaha: pareamento com marcos e ruan para fehcar dividas tecnicas, faltando apenas review
+
+ruan: pareamento com marcos e makaha
+
+arthur: testes das historias de topico, faltou reunião passada. Faltando aceitação do PR (pr 114)
+
+victor hugo: problema do bug no watchmen atrasou o desenvolvimento. Teve prova na semana. Pareando com o Lyra
+
+victor samuel: esperando aceitação do pr para poder implementar os testes das issues desse pr
+
+vinicius: fazendo testes, trabalhou nas rotas que estavam faltando
 
 ### 2.3 - estado das issues
 
@@ -51,12 +65,21 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Teste de usabilidade](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US27 - Alterar informações da minha planta (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US19 - Criar comentário em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US20 - Editar comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US21 - Remover um comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US22 - Upvote e downvote em um comentário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4) | 5 pontos | Em andamento |
+| [US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5) | 5 pontos | Em andamento |
+| [US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 pontos | Em andamento |
+| [US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 5 pontos | Em andamento |
+| [US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 pontos | Em andamento |
+| [US03 - Visualizar informações da Minha Planta (backend)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/85) | 3 pontos | Em andamento |
+| [Testes do backend](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 pontos | Não concluído |
+| [US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) | 3 pontos | Não concluído |
+| [US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Não concluído |
+| [Refatorar docs pro novo frontend e backend]() | 13 pontos | Não concluido |
+| [Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Não concluído |
+| [US01 - Scannear planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Em andamento |
+| [US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Não concluído |
+| [US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 pontos | Não concluído |
+| [US27 - Alterar informações da minha planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Não concluído |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
