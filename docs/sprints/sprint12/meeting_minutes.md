@@ -30,8 +30,10 @@
 
 Pontos a serem discutidos na reunião:
 
-1. ponto 1
-2. ponto 2
+1. deixar refatoração de documentos para o final, importante agora é o produto
+2. focar no front nas proximas sprints
+3. testes no front (enzima)
+4. sonarqube
 
 ## 2 - review e retrospectiva
 
@@ -41,7 +43,26 @@ Pontos a serem discutidos na reunião:
 
 ### 2.2 - "o que eu fiz"
 
-`passaremos a fala pra cada membro fazer um resumo de como foi a experiencia durante essa sprint [quase uma 'super daily']`
+João Vítor ML: revisão de pr no front e no back com makaha, ajuda no desenvolvimento do front
+
+Makaha: revisão de pr no front e no back com makaha, ajuda no desenvolvimento do front
+
+Marcos Felipe: refatoração no front, issue de tópico no front, visualizar perfil no backend, ajudou victor hugo, refatoração do like, mudanças no back pra receber tópico
+
+Marcos Gabriel: nada
+
+Ruan Moura: não fez a tela com o marcos gabriel, deu uma desanimada mas quer dar um ultimo gás nesse final
+
+Sena: fez bastante coisa do back, com victor Santos e Vinicius 
+
+Victor Hugo: arrochou no final da sprint, fechando as telas do front, pareando também com sena
+
+Victor Santos: pareamento com vinicius e sena pra fazer o pareamento, e tirar duvidas sobre testes com 
+
+Vinícius: dar rebase pra poder merjar em coleção, ajudou no makaha e o marcos felipe no front
+
+Lyra: terminou projeto a parte, mas resolveu fazer feijão com arroz pra garantir. Problemas com outras matérias. Ajudou nas telas de login
+
 
 ### 2.3 - estado das issues
 
@@ -49,19 +70,33 @@ checar nos repositorios quais tasks foram realizadas ou não
 
 por ora, eis o estado:
 
-| Issue       | Pontos     | Status     |
-| :------------- | :----------: | -----------: |
-| [US24 - Adicionar planta aos meus Favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US25 - Remover uma planta da minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US26 - Visualizar minha coleção de favoritos (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| Issue       | Pontos     | Status     | Responsável |
+| :------------- | :----------: | -----------: | ---------: |
+[US04 - Cadastrar minha conta no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/4) | 5 pontos |  Em andamento | Victor Hugo e Marcos Gabriel |
+[US07 - Fazer login no aplicativo (Frontend)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/5) | 5 pontos |  Em andamento | Victor Hugo e Marcos Gabriel |
+[US08 - Fazer logout no aplicativo (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/6) | 5 pontos |  Em andamento | Victor Hugo e Marcos Gabriel |
+[US11 - Alterar os dados cadastrados na minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-BackEnd/issues/9) | 5 pontos | Em andamento  | Victor Hugo e Marcos Gabriel |
+[US12 - Deletar minha conta (FrontEnd)](https://github.com/fga-eps-mds/2020.1-Grupo2-FrontEnd/issues/7) | 5 pontos | Em andamento | Victor Hugo e Marcos Gabriel |
+[Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 pontos | Não Concluído | EPS |
+[Testes no back](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 pontos | Em andamento | Todos |
+[US16 - Editar tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/86) | 3 pontos | Em andamento | Marcos Felipe e Ruan |
+[US17 - Deletar o tópico criado por mim (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/87) | 2 pontos | Em andamento | Marcos Felipe e Ruan |
+[Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Em andamento | Lyra |
+[US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 pontos | Não Concluído | Vinícius, Sena e Victor Samuel |
+[US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 pontos | Não Concluído | Sena e Victor Samuel |
+[Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 pontos | Não Concluído | Lyra |
+[US19 - Criar comentário em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 pontos | Em andamento | Marcos Felipe e Ruan |
+[US20 - Editar comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 pontos | Em andamento | Marcos Felipe e Ruan |
+[US21 - Remover um comentário que fiz em um tópico (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 2 pontos | Em andamento | Marcos Felipe e Ruan |
+[US22 - Upvote e downvote em um comentário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 1 pontos | Em andamento | Marcos Felipe e Ruan |
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
-`perdeu o notebook? teve 3 provas em um dia só?`
+tem no documento de results
 
 ### 2.4.2 - Pontos positivos, negativos e a melhorar, em geral
 
-`pontos positivos = o que foi de bom | pontos negativos = ruim, não da mais pra mudar | pontos a melhorar = ruim mas circunstancial |`
+Tem no documento de result.
 
 ## 3 - planejamento
 
