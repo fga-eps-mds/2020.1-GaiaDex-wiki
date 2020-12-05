@@ -29,6 +29,9 @@
     - [2.13 Variação de Prazos (VP)](#213-variação-de-prazos-vp)
     - [2.14 Índice de Desempenho de Custo (IDC)](#214-índice-de-desempenho-de-custo-idc)
     - [2.15 Índice de Desempenho de Prazos (IDP)](#215-índice-de-desempenho-de-prazos-idp)
+    - [2.16 Pontos Planejados da Release (PPR)](#216-pontos-planejados-da-release-ppr)
+    - [2.17 Percentual Planejado Concluído (PPC)](#217-percentual-planejado-concluido-ppc)
+    - [2.18 Percentual Real Concluído (PRC)](#218-percentual-real-conluido-prc)
   - [3. Gráficos EVM](#3-gráficos-evm)
 
 
@@ -98,6 +101,34 @@ São os trabalhos que foram devidamente encerrados durante a sprint.
 
 É a razão entre o Valor Agregado da Sprint (VAS) e o Valor Planejado da Sprint (VPS). Índice de Desempenho de Prazos (IDP) maior ou igual a 1 indica ritmo eficiente de avanço no cronograma.
 
-## 3. Gráficos EVM
+### 2.16 Pontos Planejados da Release (PPR)
 
-[Link para gráficos no Drive](https://docs.google.com/spreadsheets/d/10vuSwLs7cobxasd3mzD6sRaPbNAktppWo2tsntIRbpQ/edit#gid=0)
+É o somatório dos pontos planejados de todas as sprints de cada Release.
+
+### 2.17 Percentual Planejado Concluído (PPC)
+
+É a razão entre os Pontos Planejados da sprint (PP)
+e os Pontos Planejados da Release (PPR).
+
+### 2.18 Percentual Real Concluído (PRC)
+
+É a razão entre os Pontos Concluídos da sprint (PC) e os Pontos Planejados da Release (PRC).
+
+## 3. EVM - Tabelas e Gráficos
+
+### 3.1 EVM geral, EVM ágil da Release 1 e EVM ágil da Release 2
+
+[Link para tabelas (e gráficos) no Drive](https://docs.google.com/spreadsheets/d/10vuSwLs7cobxasd3mzD6sRaPbNAktppWo2tsntIRbpQ/edit#gid=0)
+
+### 3.4 Gráficos PPC e PRC Release 1
+
+![Graficos_R1](img/grafico_R1.jpg)
+
+### 3.5 Gráficos PPC e PRC Release 2
+
+![Graficos_R2](img/grafico_R2.jpg)
+
+### 3.6 Gráficos de IDC e IDP
+
+![IDC_IDP](img/graficos_PPC_PRC.jpg)
+
