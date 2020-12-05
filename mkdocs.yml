@@ -40,10 +40,10 @@ nav:
   - EAP: eap/eap.md
   - EVM: evm/evm.md
   - Gerenciamento de Plano de Custo: cost_document/cost_document.md
-  - Guia de Estilo:
+  - Guia de estilo React Native:
       - Guia de estilo NodeJS: document_style_guide/Nodejs_style_guide.md
       - Guia de estilo React Native: document_style_guide/React_style_guide.md
-  - Moodboards:
+  - Identidade Visual:
       - Identidade Visual: visual_identity/visual_identity.md
       - Inspirações: visual_identity/inspirations.md
       - Moodboards: visual_identity/moodboard.md
@@ -57,32 +57,28 @@ nav:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
   - Sprints:
+      - Atas da Reunião 15/10:
+          - Atas da Reunião 15/10: sprints/sprint6/meeting_minutes.md
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
+          - Resultados da Sprint 6: sprints/sprint6/results.md
+      - Atas da Reunião 22/10:
+          - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
+          - Planejamento da Sprint 7: sprints/sprint7/planning.md
+          - Resultados da Sprint 7: sprints/sprint7/results.md
+      - Atas da Reunião 29/10:
+          - Atas da Reunião 29/10: sprints/sprint9/meeting_minutes.md
+          - Planejamento da Sprint 9: sprints/sprint9/planning.md
+          - Resultados da Sprint 9: sprints/sprint9/results.md
+      - Atas da Reunião DD/MM:
+          - Atas da Reunião DD/MM: sprints/sprint12/meeting_minutes.md
+          - Planejamento da Sprint 12: sprints/sprint12/planning.md
+          - Resultados da Sprint 12: sprints/sprint12/results.md
       - Sprint 0:
           - Planejamento da Sprint 0: sprints/sprint0/planning.md
           - Resultados da Sprint 0: sprints/sprint0/results.md
       - Sprint 1:
           - Planejamento da Sprint 1: sprints/sprint1/planning.md
           - Resultados da Sprint 1: sprints/sprint1/results.md
-      - Sprint 10:
-          - Atas da Reunião DD/MM: sprints/sprint10/meeting_minutes.md
-          - Planejamento da Sprint 10: sprints/sprint10/planning.md
-          - Resultados da Sprint 10: sprints/sprint10/results.md
-      - Sprint 11:
-          - Atas da Reunião DD/MM: sprints/sprint11/meeting_minutes.md
-          - Planejamento da Sprint 11: sprints/sprint11/planning.md
-          - Resultados da Sprint 11: sprints/sprint11/results.md
-      - Sprint 12:
-          - Atas da Reunião DD/MM: sprints/sprint12/meeting_minutes.md
-          - Planejamento da Sprint 12: sprints/sprint12/planning.md
-          - Resultados da Sprint 12: sprints/sprint12/results.md
-      - Sprint 13:
-          - Atas da Reunião DD/MM: sprints/sprint13/meeting_minutes.md
-          - Planejamento da Sprint 13: sprints/sprint13/planning.md
-          - Resultados da Sprint 13: sprints/sprint13/results.md
-      - Sprint 14:
-          - Atas da Reunião DD/MM: sprints/sprint14/meeting_minutes.md
-          - Planejamento da Sprint 14: sprints/sprint14/planning.md
-          - Resultados da Sprint 14: sprints/sprint14/results.md
       - Sprint 2:
           - Planejamento da Sprint 2: sprints/sprint2/planning.md
           - Resultados da Sprint 2: sprints/sprint2/results.md
@@ -95,26 +91,6 @@ nav:
       - Sprint 5:
           - Planejamento da Sprint 5: sprints/sprint5/planning.md
           - Resultados da Sprint 5: sprints/sprint5/results.md
-      - Sprint 6:
-          - Atas da Reunião 15/10: sprints/sprint6/meeting_minutes.md
-          - Planejamento da Sprint 6: sprints/sprint6/planning.md
-          - Resultados da Sprint 6: sprints/sprint6/results.md
-      - Sprint 7:
-          - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
-          - Planejamento da Sprint 7: sprints/sprint7/planning.md
-          - Resultados da Sprint 7: sprints/sprint7/results.md
-      - Sprint 8:
-          - Atas da Reunião DD/MM: sprints/sprint8/meeting_minutes.md
-          - Planejamento da Sprint 8: sprints/sprint8/planning.md
-          - Resultados da Sprint 8: sprints/sprint8/results.md
-      - Sprint 9:
-          - Atas da Reunião 29/10: sprints/sprint9/meeting_minutes.md
-          - Planejamento da Sprint 9: sprints/sprint9/planning.md
-          - Resultados da Sprint 9: sprints/sprint9/results.md
-      - Sprint N:
-          - Atas da Reunião DD/MM: sprints/template/meeting_minutes.md
-          - Planejamento da Sprint N: sprints/template/planning.md
-          - Resultados da Sprint N: sprints/template/results.md
   - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
   - ZeBrand:
       - Documento de Visão: vision_document/vision_document.md
