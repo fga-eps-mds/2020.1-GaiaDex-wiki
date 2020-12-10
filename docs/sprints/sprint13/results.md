@@ -84,25 +84,16 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![knowledge_box](img/knowledge_box.jpg)
 
-Comentário sobre a evolução dos conhecimentos.
-
 ### 1.7 Revisão da _Sprint_
 
 Nessa _Sprint_:
 
-- acontecimento 1
-- acontecimento 2
+- O CI/CD teve diversos problemas para ser desenvolvido por erros no Github Actions e outros meios utilizados. Nós de EPS estamos trabalhando fortemente para resolver essa dificuldade.
 
 ## 2 Retrospectiva
 
-| Pontos Positivos | Pontos a melhorar | Pontos Negativos |
-| :------------- | :----------: | :---------: |
-| x |  |  |
+![retrospectiva](img/retrospectiva.jpg)
 
 ### 2.1 Análise do _Scrum Master_
 
-`Parágrafo a respeito da sprint`
-
-`Parágrafo a respeito do time`
-
-`Parágrafo a respeito das entregas`
+A equipe de MDS, liderada por Marcos Felipe, se reuniu diversas vezes para fechar as telas que estavam atrasadas no frontend, e com isso conseguiram bater recorde de produtividade.

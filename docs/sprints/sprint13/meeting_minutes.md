@@ -41,7 +41,27 @@ Pontos a serem discutidos na reunião:
 
 ### 2.2 - "o que eu fiz"
 
-`passaremos a fala pra cada membro fazer um resumo de como foi a experiencia durante essa sprint [quase uma 'super daily']`
+super daily
+
+João Vítor ML: revisão de pr, ajudei no ci/cd, review e planning, e ajudou a gerar a release
+
+Lyra: mexeu no protótipo
+
+Makaha: ci/cd, revisão de pr, ajudou na review e planning, gerou a release 
+
+Marcos Felipe: adicionou async storage pra add o token, matou dividas etcnicas, fez tela de notificação, ajudou o victor santos na tela de favoritos, ajudou ruan na tela dele, matou a modificação de like no backend
+
+Marcos Gabriel: tá fazendo teste no front
+
+Ruan Moura: fazendo tela de visualizar perfil, quase finalizado
+
+Sena: reuniu com marcos felipe e vinicius, fez a parte de favoritos
+
+Victor Hugo:
+
+Victor Santos: pareou com marcos felipe pra fazer a tela de favoritos no front, fazendo testes dos favoritos no back
+
+Vinícius: não muito produtiva, participou de uma reunião, mais como copiloto 
 
 ### 2.3 - estado das issues
 
