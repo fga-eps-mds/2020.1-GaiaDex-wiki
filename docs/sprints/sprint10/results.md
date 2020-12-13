@@ -57,7 +57,7 @@ Não há burndown de risco pois nenhuma issue nova foi definida nessa sprint.
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits.jpg)
+![commits_wiki](img/commits_wiki_sprint10.png)
 
 <!-- Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
