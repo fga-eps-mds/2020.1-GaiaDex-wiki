@@ -60,7 +60,7 @@ Dos 115 pontos planejados, 7 foram entregues. Algumas issues não foram fechadas
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits_wiki_sprint11.jpg)
+![commits_wiki](img/commits_wiki_sprint11.png)
 
 Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
@@ -68,7 +68,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
-![commits_front](img/commits_front_sprint11.jpg)
+![commits_front](img/commits_front_sprint11.png)
 
 ### 1.4 _Velocity_
 
@@ -82,7 +82,7 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![knowledge_box](img/knowledge_box.jpg)
 
-Comentário sobre a evolução dos conhecimentos.
+
 
 ### 1.7 EVM
 

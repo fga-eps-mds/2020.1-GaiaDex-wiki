@@ -60,6 +60,10 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![commits_wiki](img/commits_wiki_sprint7.png)
 
+Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
+
+![commits_wiki](img/commits_back_sprint7.png)
+
 ### 1.4 _Velocity_
 
 ![velocity](img/velocity_sprint7.png)
@@ -72,7 +76,7 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![knowledge_box](img/knowledge_sprint7.png)
 
-Comentário sobre a evolução dos conhecimentos.
+
 
 ### 1.7 EVM
 

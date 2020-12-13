@@ -51,12 +51,20 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [US14 - Bloquear outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US28 - Definir configurações de notificação (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US14 - Bloquear outro usuário (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US28 - Definir configurações de notificação (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) | 5 | Não Concluído |
+| [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 2 | Em andamento |
+[Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 | Não Concluído |
+[Testes no back](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 | Em andamento | 
+[Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Em andamento |
+[US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Não Concluído |
+[US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 | Não Concluído |
+[Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Não Concluído |
+[US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Em andamento |
+[US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Em andamento |
+[Testes no front](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 13 | Em andamento|
+| [Adicionar Sonarqube ao projeto](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 21 | Em andamento
+| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Em andamento |
+| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Em andamento
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
