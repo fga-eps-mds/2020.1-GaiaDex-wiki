@@ -64,7 +64,10 @@ Dos 84 pontos planejados, 25 foram entregues. Algumas issues não foram fechadas
 Commits na wiki:
 ![](img/commits_wiki.png)
 
-Não houveram novos commits no Backend e Frontend.
+Commits no backend:
+![](img/commits_back_sprint4.png)
+
+Não houveram novos commits no Frontend.
 
 ### 1.4 _Velocity_
 

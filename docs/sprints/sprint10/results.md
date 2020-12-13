@@ -59,11 +59,11 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![commits_wiki](img/commits_wiki_sprint10.png)
 
-<!-- Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
+Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
-![commits_back](img/commits_back.png)
+![commits_back](img/commits_back_sprint10.png)
 
-Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
+<!-- Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![commits_front](img/commits_front.png) -->
 
