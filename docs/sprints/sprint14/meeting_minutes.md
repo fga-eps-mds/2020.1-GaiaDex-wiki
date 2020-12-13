@@ -41,7 +41,27 @@ Pontos a serem discutidos na reunião:
 
 ### 2.2 - "o que eu fiz"
 
-`passaremos a fala pra cada membro fazer um resumo de como foi a experiencia durante essa sprint [quase uma 'super daily']`
+super daily
+
+João Vítor ML: revisão de pr no front e no back, review e planning, evm agil
+
+Lyra: mexeu no prototipo, tá quase pronto, refatorou o back pra passar no sonarqube, falta só a cobertura de testes. Uqer depois disso fazer um dashboard no github pages.
+
+Makaha: ci/cd, o do back tá pronto, o do front ainda não subiu, quando uma build é gerada, está quebrando, tem que debugar o front
+
+Marcos Felipe: boa parte das telas do front, por exemplo, topicos, comentarios e configurações de conta
+
+Marcos Gabriel: fez alguns testes do front
+
+Ruan Moura: ajudou o Marcos Felipe nas telas do front
+
+Sena: enrolado com outras matérias, ficou um bom tempo em call no dia anterior, porém sem mexer em nada
+
+Victor Hugo: deu uma olhada no conteúdo e nos testes do front
+
+Victor Santos: teste de coleção e minhas plantas no back, participou da call de ontem sobre o front 
+
+Vinícius: tentou dar uma entendida em testes no front, deu um push na branch de teste no front 
 
 ### 2.3 - estado das issues
 
@@ -51,20 +71,20 @@ por ora, eis o estado:
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) | 5 | Não Concluído |
-| [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 2 | Em andamento |
+| [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) | 5 | Concluído |
 [Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 | Não Concluído |
-[Testes no back](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 | Em andamento | 
-[Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Em andamento |
-[US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Não Concluído |
-[US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 | Não Concluído |
-[Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Não Concluído |
-[US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Em andamento |
-[US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Em andamento |
-[Testes no front](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 13 | Em andamento|
-| [Adicionar Sonarqube ao projeto](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 21 | Em andamento
-| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Em andamento |
-| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Em andamento
+[Teste do scanner no back](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 | Concluído | 
+[Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Concluído |
+[US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+[US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 | Concluído |
+[Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Concluído |
+[US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Concluído |
+[US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+[Testes no front](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 13 | Concluído|
+| [Adicionar Sonarqube ao projeto](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 21 | Concluído
+| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Concluído
+| [Tela de Explorar](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Concluído
 
 ### 2.4.1 - Quais problemas houveram (no contexto do projeto)
 
