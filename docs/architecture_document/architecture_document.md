@@ -9,6 +9,7 @@
 | 13/09 |  1.0   | Criação do Documento | [Victor Hugo](http://github.com/V100K) e [Rafael Makaha](http://github.com/rafaelmakaha)
 | 27/09 |  1.1   | Atualização de diagrama de classes e backend pkg | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
 | 27/09 |  1.2   | Atualização do nome do projeto: *GaiaDex* | [Victor Hugo](http://github.com/V100K), [Rafael Makaha](http://github.com/rafaelmakaha) e [Ruan Moura](http://github.com/ruanmoura)
+| 13/12 | 2.0 | Refatoração do dos diagramas de classe e de pacotes | [João Vítor](http://github.com/joaovitorml) e [Rafael Makaha](http://github.com/rafaelmakaha)|
 
 
 ## Sumário
@@ -113,11 +114,11 @@ O desenvolvimento deverá estar de acordo as boas práticas de programação e r
 
 BackEnd:
 
-![Backend](img/pkg_back.png)
+![Backend](img/pkg_back.jpg)
 
 FrontEnd:
 
-![Frontend](img/pkg_front.png)
+![Frontend](img/pkg_front.jpg)
 
 ## **5. Visão de Implementação**
 
