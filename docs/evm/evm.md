@@ -33,6 +33,11 @@
     - [2.17 Percentual Planejado Concluído (PPC)](#217-percentual-planejado-concluido-ppc)
     - [2.18 Percentual Real Concluído (PRC)](#218-percentual-real-conluido-prc)
   - [3. Gráficos EVM](#3-gráficos-evm)
+    - [3.1 EVM](#31-evm)
+    - [3.2 Gráficos PPC e PRC Release 1](#32-)
+    - [3.3 Gráficos PPC e PRC Release 2](#33-)
+    - [3.4 Gráficos de IDC e IDP](#34-)
+    - [3.5 Gráfico de VC e VP](#35-)
 
 
 ## 1. Introdução
@@ -116,19 +121,28 @@ e os Pontos Planejados da Release (PPR).
 
 ## 3. EVM - Tabelas e Gráficos
 
-### 3.1 EVM geral, EVM ágil da Release 1 e EVM ágil da Release 2
+### 3.1 EVM
 
 [Link para tabelas (e gráficos) no Drive](https://docs.google.com/spreadsheets/d/10vuSwLs7cobxasd3mzD6sRaPbNAktppWo2tsntIRbpQ/edit#gid=0)
 
-### 3.4 Gráficos PPC e PRC Release 1
+### 3.2 Gráficos PPC e PRC Release 1
 
 ![Graficos_R1](img/grafico_R1.jpg)
 
-### 3.5 Gráficos PPC e PRC Release 2
+### 3.3 Gráficos PPC e PRC Release 2
 
 ![Graficos_R2](img/grafico_R2.jpg)
 
-### 3.6 Gráficos de IDC e IDP
+### 3.4 Gráficos de IDC e IDP
 
-![IDC_IDP](img/graficos_PPC_PRC.jpg)
+- IDC
 
+![IDC](img/grafico_IDC.jpg)
+
+- IDP
+
+![IDP](img/grafico_IDP.jpg)
+
+### 3.5 Gráfico de VC e VP
+
+![VC_VP](img/graficos_VC_VP.jpg)
