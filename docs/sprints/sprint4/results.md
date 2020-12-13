@@ -67,7 +67,8 @@ Commits na wiki:
 Commits no backend:
 ![](img/commits_back_sprint4.png)
 
-Não houveram novos commits no Frontend.
+Commits no frontend:
+![](img/commits_front_sprint4.png)
 
 ### 1.4 _Velocity_
 

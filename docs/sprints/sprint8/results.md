@@ -62,7 +62,11 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
-![commits_wiki](img/commits_back_sprint8.png)
+![commits_back](img/commits_back_sprint8.png)
+
+Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
+
+![commits_front](img/commits_front_sprint8.png)
 
 ### 1.4 _Velocity_
 

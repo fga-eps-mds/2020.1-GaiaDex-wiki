@@ -68,7 +68,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
-![commits_front](img/commits_front_sprint11.jpg)
+![commits_front](img/commits_front_sprint11.png)
 
 ### 1.4 _Velocity_
 
