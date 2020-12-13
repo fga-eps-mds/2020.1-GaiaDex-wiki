@@ -70,12 +70,12 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ![](img/knowledge_box.jpg)
 
-Comentário sobre a evolução dos conhecimentos.
+
 <br>
 
 ### 1.7 EVM
 
-![](img/evm.JPG)
+![](img/evm.jpg)
 
 ### 1.8 Revisão da _Sprint_
 

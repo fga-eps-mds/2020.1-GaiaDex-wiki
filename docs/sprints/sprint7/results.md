@@ -76,7 +76,7 @@ Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
 ![knowledge_box](img/knowledge_sprint7.png)
 
-Comentário sobre a evolução dos conhecimentos.
+
 
 ### 1.7 EVM
 

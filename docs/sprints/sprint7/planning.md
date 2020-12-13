@@ -40,7 +40,7 @@ Adição do documento de `Atas da Reuniao`.
 
 ## 4. Burndown de Risco
 
-![risk_burndown](img/risk_burndown.JPG)
+![risk_burndown](img/risk_burndown.jpg)
 
 ## 5. Issues da _Sprint_ e Pontuação
 

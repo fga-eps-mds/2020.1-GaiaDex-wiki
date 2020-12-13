@@ -79,7 +79,7 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![knowledge_box](img/knowledge_box.png)
 
-Comentário sobre a evolução dos conhecimentos.
+
 
 ### 1.7 EVM
 
