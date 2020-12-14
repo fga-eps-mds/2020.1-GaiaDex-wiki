@@ -127,7 +127,7 @@ e os Pontos Planejados da Release (PPR).
 
 ### 3.2 Gráficos PPC e PRC Release 1
 
-![Graficos_R1](img/grafico_R1.jpg)
+![Graficos_R1](img/grafico_R1.JPG)
 
 ### 3.3 Gráficos PPC e PRC Release 2
 
