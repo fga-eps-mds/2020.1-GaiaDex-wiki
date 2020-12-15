@@ -24,12 +24,22 @@
 
 | Issue       | Pontos     | Status     |
 | :------------- | :----------: | -----------: |
-| [US05 - Cadastrar/fazer login com conta Facebook (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US06 - Cadastrar/fazer login com conta Google (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US05 - Cadastrar/fazer login com conta Facebook (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
-| [US06 - Cadastrar/fazer login com conta Google (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 0 | Concluído/Não Concluído/Em andamento |
+| [Fazer EVM ágil](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/125) | 5 | Concluído |
+| [US13 - Visualizar perfil de outro usuário (backend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/) | 2 | Cancelado |
+[Refatorar critérios de aceitação](https://github.com/fga-eps-mds/2020.1-Grupo2-wiki/issues/96) | 3 | Cancelado|
+[Testes no back](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/issues/113) | 5 | Concluído | 
+[Configurar CI/CD](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Concluído |
+[US02 - Visualizar minha coleção (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+[US03 - Visualizar informações da Minha Planta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 8 | Concluído |
+[Finalizar Protótipo](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 13 | Concluído |
+[US10 - Visualizar configurações da conta (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Concluído|
+[US26 - Visualizar minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+[Testes no front](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 13 | Concluído|
+| [Adicionar Sonarqube ao projeto](https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/issues/) | 21 | Concluído
+| [US24 - Adicionar planta aos meus Favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 5 | Concluído |
+| [US25 - Remover uma planta da minha coleção de favoritos (frontend)](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/issues/) | 3 | Concluído
 
-Dos N pontos planejados, M foram entregues. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
+Dos 109 pontos planejados, 104 foram entregues e 5 foram cancelados. Algumas issues não foram fechadas, pois estão incompletas e serão adicionadas como dívidas técnicas para a próxima sprint.
 
 ### 1.2 _Burndown_
 
@@ -55,35 +65,31 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ### 1.5 Quadro de Horas
 
-![hours](img/hours.jpg)
+![hours](img/hours.png)
 
 ### 1.6 Quadro de Conhecimento
 
 ![knowledge_box](img/knowledge_box.jpg)
 
-
-
 ### 1.7 EVM
 
-![](img/evm_sprint13.jpg)
+![](img/evm_sprint14.jpg)
 
 ### 1.8 Revisão da _Sprint_
 
 Nessa _Sprint_:
 
-- acontecimento 1
-- acontecimento 2
+- Houve uma reunião para realizar o pós-mortem, mas ela foi adiada na metade por falta de tempo
+- A homologação do back quebrou devido a branch de testes ter sido aceita
 
 ## 2 Retrospectiva
 
-| Pontos Positivos | Pontos a melhorar | Pontos Negativos |
-| :------------- | :----------: | :---------: |
-| x |  |  |
+![](img/retrospectiva.jpg)
 
 ### 2.1 Análise do _Scrum Master_
 
-`Parágrafo a respeito da sprint`
+A sprint foi muito boa no quesito produtividade, nós de EPS fechamos os documentos necessários e MDS conseguiu fechar as últimas telas do front e os testes.
 
-`Parágrafo a respeito do time`
+A maioria do time se empenhou para terminar tudo o que precisava.
 
-`Parágrafo a respeito das entregas`
+Todas a telas foram entregues, e todas as issues concluídas, com exceção de algumas descartadas e a de critérios de aceitação, que serão mantidos.
