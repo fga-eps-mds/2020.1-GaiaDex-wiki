@@ -1,0 +1,1938 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Artefatos de MDS e EPS, 2020.1">
+      
+      
+      
+        <link rel="canonical" href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/product_backlog/acceptance_criteria/">
+      
+      
+        <meta name="author" content="GaiaDex">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Critérios de Aceitação - GaiaDex</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.196e0c26.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#2094f3">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/style/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="blue" data-md-color-accent="purple">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#criterios-de-aceitacao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/" title="GaiaDex" class="md-header-nav__button md-logo" aria-label="GaiaDex">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            GaiaDex
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Critérios de Aceitação
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header-nav__source">
+        
+<a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/" title="Ir ao repositório" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GaiaDex
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/" title="GaiaDex" class="md-nav__button md-logo" aria-label="GaiaDex">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    GaiaDex
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/" title="Ir ao repositório" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GaiaDex
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." class="md-nav__link">
+      Inicio
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    <label class="md-nav__link" for="nav-2">
+      Critérios de Aceitação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Critérios de Aceitação" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon"></span>
+        Critérios de Aceitação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../product_backlog/" class="md-nav__link">
+      Backlog de Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Critérios de Aceitação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Critérios de Aceitação
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#us01-scannear-planta" class="md-nav__link">
+    US01 - Scannear planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us02-visualizar-minha-colecao" class="md-nav__link">
+    US02 - Visualizar minha coleção
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us03-visualizar-informacoes-da-minha-planta" class="md-nav__link">
+    US03 - Visualizar informações da Minha Planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us04-cadastrar-minha-conta-no-aplicativo" class="md-nav__link">
+    US04 - Cadastrar minha conta no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us05-cadastrarfazer-login-com-conta-facebook" class="md-nav__link">
+    US05 - Cadastrar/fazer login com conta Facebook
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us06-cadastrarfazer-login-com-conta-google" class="md-nav__link">
+    US06 - Cadastrar/fazer login com conta Google
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us07-fazer-login-no-aplicativo" class="md-nav__link">
+    US07 - Fazer login no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us08-fazer-logout-no-aplicativo" class="md-nav__link">
+    US08 - Fazer logout no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us09-visualizar-minha-conta" class="md-nav__link">
+    US09 - Visualizar minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us10-visualizar-configuracoes-da-conta" class="md-nav__link">
+    US10 - Visualizar configurações da conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us11-alterar-os-dados-cadastrados-na-minha-conta" class="md-nav__link">
+    US11 - Alterar os dados cadastrados na minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us12-deletar-minha-conta" class="md-nav__link">
+    US12 - Deletar minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us13-visualizar-perfil-de-outro-usuario" class="md-nav__link">
+    US13 - Visualizar perfil de outro usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us14-bloquear-outro-usuario" class="md-nav__link">
+    US14 - Bloquear outro usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us15-criar-topico-em-um-forum-de-planta" class="md-nav__link">
+    US15 - Criar tópico em um fórum de planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us16-editar-topico-criado-por-mim" class="md-nav__link">
+    US16 - Editar tópico criado por mim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us17-deletar-o-topico-criado-por-mim" class="md-nav__link">
+    US17 - Deletar o tópico criado por mim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us18-upvote-e-downvote-em-um-topico" class="md-nav__link">
+    US18 - Upvote e downvote em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us19-criar-comentario-em-um-topico" class="md-nav__link">
+    US19 - Criar comentário em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us20-editar-comentario-que-fiz-em-um-topico" class="md-nav__link">
+    US20 - Editar comentário que fiz em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us21-remover-um-comentario-que-fiz-em-um-topico" class="md-nav__link">
+    US21 - Remover um comentário que fiz em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us22-upvote-e-downvote-em-um-comentario" class="md-nav__link">
+    US22 - Upvote e downvote em um comentário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us23-visualizar-informacoes-sobre-a-planta" class="md-nav__link">
+    US23 - Visualizar informações sobre a planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us24-adicionar-planta-aos-meus-favoritos" class="md-nav__link">
+    US24 - Adicionar planta aos meus Favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us25-remover-uma-planta-da-minha-colecao-de-favoritos" class="md-nav__link">
+    US25 - Remover uma planta da minha coleção de favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us26-visualizar-minha-colecao-de-favoritos" class="md-nav__link">
+    US26 - Visualizar minha coleção de favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us27-adicionar-apelido-a-minha-planta" class="md-nav__link">
+    US27 - Adicionar apelido à minha planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us28-definir-configuracoes-de-notificacao" class="md-nav__link">
+    US28 - Definir configurações de notificação
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../prototipo/prototipo/" class="md-nav__link">
+      Documentação do protótipo
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../architecture_document/architecture_document/" class="md-nav__link">
+      Documento de Arquitetura
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../supplementary_document/supplementary_document/" class="md-nav__link">
+      Documento de Especificação Suplementar
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../eap/eap/" class="md-nav__link">
+      EAP
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../evm/evm/" class="md-nav__link">
+      EVM
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../cost_document/cost_document/" class="md-nav__link">
+      Gerenciamento de Plano de Custo
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9" >
+    <label class="md-nav__link" for="nav-9">
+      Guia de estilo React Native
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Guia de estilo React Native" data-md-level="1">
+      <label class="md-nav__title" for="nav-9">
+        <span class="md-nav__icon md-icon"></span>
+        Guia de estilo React Native
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../document_style_guide/Nodejs_style_guide/" class="md-nav__link">
+      Guia de estilo NodeJS
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../document_style_guide/React_style_guide/" class="md-nav__link">
+      Guia de estilo React Native
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" >
+    <label class="md-nav__link" for="nav-10">
+      Identidade Visual
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Identidade Visual" data-md-level="1">
+      <label class="md-nav__title" for="nav-10">
+        <span class="md-nav__icon md-icon"></span>
+        Identidade Visual
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/visual_identity/" class="md-nav__link">
+      Identidade Visual
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/inspirations/" class="md-nav__link">
+      Inspirações
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/moodboard/" class="md-nav__link">
+      Moodboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/roadmap_prototype/" class="md-nav__link">
+      Roadmap do Protótipo
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../communication_plan/communication_plan/" class="md-nav__link">
+      Plano de Comunicações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../gcs/gcs/" class="md-nav__link">
+      Plano de Gerenciamento de Configuração de Software (GCS)
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../risk_management/risk_management/" class="md-nav__link">
+      Plano de Gerenciamento de Riscos
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../quality_plan/quality/" class="md-nav__link">
+      Plano de Qualidade do Projeto
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../post_mortem/post_mortem/" class="md-nav__link">
+      Post Mortem
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-16" type="checkbox" id="nav-16" >
+    <label class="md-nav__link" for="nav-16">
+      RoadMap de produto
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="RoadMap de produto" data-md-level="1">
+      <label class="md-nav__title" for="nav-16">
+        <span class="md-nav__icon md-icon"></span>
+        RoadMap de produto
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../roadmap/roles_roadmap/" class="md-nav__link">
+      RoadMap de papéis
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../roadmap/product_roadmap/" class="md-nav__link">
+      RoadMap de produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17" type="checkbox" id="nav-17" >
+    <label class="md-nav__link" for="nav-17">
+      Sprints
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprints" data-md-level="1">
+      <label class="md-nav__title" for="nav-17">
+        <span class="md-nav__icon md-icon"></span>
+        Sprints
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-1" type="checkbox" id="nav-17-1" >
+    <label class="md-nav__link" for="nav-17-1">
+      Atas da Reunião 15/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 15/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-1">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 15/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 15/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/planning/" class="md-nav__link">
+      Planejamento da Sprint 6
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/results/" class="md-nav__link">
+      Resultados da Sprint 6
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-2" type="checkbox" id="nav-17-2" >
+    <label class="md-nav__link" for="nav-17-2">
+      Atas da Reunião 22/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 22/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-2">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 22/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 22/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/planning/" class="md-nav__link">
+      Planejamento da Sprint 7
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/results/" class="md-nav__link">
+      Resultados da Sprint 7
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-3" type="checkbox" id="nav-17-3" >
+    <label class="md-nav__link" for="nav-17-3">
+      Atas da Reunião 29/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 29/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-3">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 29/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 29/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/planning/" class="md-nav__link">
+      Planejamento da Sprint 9
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/results/" class="md-nav__link">
+      Resultados da Sprint 9
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-4" type="checkbox" id="nav-17-4" >
+    <label class="md-nav__link" for="nav-17-4">
+      Atas da Reunião DD/MM
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião DD/MM" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-4">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião DD/MM
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião DD/MM
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/planning/" class="md-nav__link">
+      Planejamento da Sprint 12
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/results/" class="md-nav__link">
+      Resultados da Sprint 12
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-5" type="checkbox" id="nav-17-5" >
+    <label class="md-nav__link" for="nav-17-5">
+      Sprint 0
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 0" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-5">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 0
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint0/planning/" class="md-nav__link">
+      Planejamento da Sprint 0
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint0/results/" class="md-nav__link">
+      Resultados da Sprint 0
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-6" type="checkbox" id="nav-17-6" >
+    <label class="md-nav__link" for="nav-17-6">
+      Sprint 1
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 1" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-6">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint1/planning/" class="md-nav__link">
+      Planejamento da Sprint 1
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint1/results/" class="md-nav__link">
+      Resultados da Sprint 1
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-7" type="checkbox" id="nav-17-7" >
+    <label class="md-nav__link" for="nav-17-7">
+      Sprint 2
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 2" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-7">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint2/planning/" class="md-nav__link">
+      Planejamento da Sprint 2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint2/results/" class="md-nav__link">
+      Resultados da Sprint 2
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-8" type="checkbox" id="nav-17-8" >
+    <label class="md-nav__link" for="nav-17-8">
+      Sprint 3
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 3" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-8">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 3
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint3/planning/" class="md-nav__link">
+      Planejamento da Sprint 3
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint3/results/" class="md-nav__link">
+      Resultados da Sprint 3
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-9" type="checkbox" id="nav-17-9" >
+    <label class="md-nav__link" for="nav-17-9">
+      Sprint 4
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 4" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-9">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 4
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint4/planning/" class="md-nav__link">
+      Planejamento da Sprint 4
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint4/results/" class="md-nav__link">
+      Resultados da Sprint 4
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-10" type="checkbox" id="nav-17-10" >
+    <label class="md-nav__link" for="nav-17-10">
+      Sprint 5
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 5" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-10">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 5
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint5/planning/" class="md-nav__link">
+      Planejamento da Sprint 5
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint5/results/" class="md-nav__link">
+      Resultados da Sprint 5
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../project_opening_term/project_opening_term/" class="md-nav__link">
+      Termo de Abertura do Projeto
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19" >
+    <label class="md-nav__link" for="nav-19">
+      ZeBrand
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="ZeBrand" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon"></span>
+        ZeBrand
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../vision_document/vision_document/" class="md-nav__link">
+      Documento de Visão
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../vision_document/ZeBrand/" class="md-nav__link">
+      ZeBrand
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#us01-scannear-planta" class="md-nav__link">
+    US01 - Scannear planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us02-visualizar-minha-colecao" class="md-nav__link">
+    US02 - Visualizar minha coleção
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us03-visualizar-informacoes-da-minha-planta" class="md-nav__link">
+    US03 - Visualizar informações da Minha Planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us04-cadastrar-minha-conta-no-aplicativo" class="md-nav__link">
+    US04 - Cadastrar minha conta no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us05-cadastrarfazer-login-com-conta-facebook" class="md-nav__link">
+    US05 - Cadastrar/fazer login com conta Facebook
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us06-cadastrarfazer-login-com-conta-google" class="md-nav__link">
+    US06 - Cadastrar/fazer login com conta Google
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us07-fazer-login-no-aplicativo" class="md-nav__link">
+    US07 - Fazer login no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us08-fazer-logout-no-aplicativo" class="md-nav__link">
+    US08 - Fazer logout no aplicativo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us09-visualizar-minha-conta" class="md-nav__link">
+    US09 - Visualizar minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us10-visualizar-configuracoes-da-conta" class="md-nav__link">
+    US10 - Visualizar configurações da conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us11-alterar-os-dados-cadastrados-na-minha-conta" class="md-nav__link">
+    US11 - Alterar os dados cadastrados na minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us12-deletar-minha-conta" class="md-nav__link">
+    US12 - Deletar minha conta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us13-visualizar-perfil-de-outro-usuario" class="md-nav__link">
+    US13 - Visualizar perfil de outro usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us14-bloquear-outro-usuario" class="md-nav__link">
+    US14 - Bloquear outro usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us15-criar-topico-em-um-forum-de-planta" class="md-nav__link">
+    US15 - Criar tópico em um fórum de planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us16-editar-topico-criado-por-mim" class="md-nav__link">
+    US16 - Editar tópico criado por mim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us17-deletar-o-topico-criado-por-mim" class="md-nav__link">
+    US17 - Deletar o tópico criado por mim
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us18-upvote-e-downvote-em-um-topico" class="md-nav__link">
+    US18 - Upvote e downvote em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us19-criar-comentario-em-um-topico" class="md-nav__link">
+    US19 - Criar comentário em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us20-editar-comentario-que-fiz-em-um-topico" class="md-nav__link">
+    US20 - Editar comentário que fiz em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us21-remover-um-comentario-que-fiz-em-um-topico" class="md-nav__link">
+    US21 - Remover um comentário que fiz em um tópico
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us22-upvote-e-downvote-em-um-comentario" class="md-nav__link">
+    US22 - Upvote e downvote em um comentário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us23-visualizar-informacoes-sobre-a-planta" class="md-nav__link">
+    US23 - Visualizar informações sobre a planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us24-adicionar-planta-aos-meus-favoritos" class="md-nav__link">
+    US24 - Adicionar planta aos meus Favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us25-remover-uma-planta-da-minha-colecao-de-favoritos" class="md-nav__link">
+    US25 - Remover uma planta da minha coleção de favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us26-visualizar-minha-colecao-de-favoritos" class="md-nav__link">
+    US26 - Visualizar minha coleção de favoritos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us27-adicionar-apelido-a-minha-planta" class="md-nav__link">
+    US27 - Adicionar apelido à minha planta
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#us28-definir-configuracoes-de-notificacao" class="md-nav__link">
+    US28 - Definir configurações de notificação
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/edit/master/docs/product_backlog/acceptance_criteria.md" title="Editar esta página" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="criterios-de-aceitacao">Critérios de Aceitação</h1>
+<table>
+<thead>
+<tr>
+<th align="center">versão</th>
+<th align="center">data</th>
+<th align="center">autor(es)</th>
+<th align="center">descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0.1</td>
+<td align="center">11/09/2020</td>
+<td align="center"><a href="https://github.com/guilhermedelyra">@guilhermedelyra</a> e <a href="https://github.com/joaovitorml">@joaovitorml</a></td>
+<td align="center">Criação do documento</td>
+</tr>
+<tr>
+<td align="center">0.2</td>
+<td align="center">13/09/2020</td>
+<td align="center"><a href="https://github.com/guilhermedelyra">@guilhermedelyra</a> e <a href="https://github.com/joaovitorml">@joaovitorml</a></td>
+<td align="center">Adição dos critérios das issues das sprints 2 e 3 (us01, us05, us08..11, us22..30)</td>
+</tr>
+<tr>
+<td align="center">0.3</td>
+<td align="center">15/09/2020</td>
+<td align="center"><a href="https://github.com/rafaelmakaha">@rafaelmakaha</a>, <a href="https://github.com/guilhermedelyra">@guilhermedelyra</a> e <a href="https://github.com/joaovitorml">@joaovitorml</a></td>
+<td align="center">Remoção de <a href="./extras.md">critérios extras</a></td>
+</tr>
+</tbody>
+</table>
+<p>Este artefato diz respeito a uma lista de critérios necessários para que as <em>histórias de usuário</em> sejam consideradas concluídas.
+<a href="../product_backlog/">Clique aqui para visualizar as histórias de usuário.</a></p>
+<h3 id="us01-scannear-planta">US01 - Scannear planta</h3>
+<ul>
+<li>[ ] O usuário poderá acessar a câmera do celular</li>
+<li>[ ] O usuário poderá scannear a planta por meio da câmera do celular</li>
+<li>[ ] O sistema deve identificar a planta scanneada</li>
+<li>[ ] O sistema deve retornar ao usuário informações sobre a planta scanneada</li>
+</ul>
+<h3 id="us02-visualizar-minha-colecao">US02 - Visualizar minha coleção</h3>
+<ul>
+<li>[ ] Visualizar widgets de todas as plantas coletadas</li>
+<li>[ ] O widget deve mostrar o apelido da planta</li>
+<li>[ ] O widget deve redirecionar para a tela de Minha Planta caso seja tocado</li>
+<li>[ ] O widget deve mostrar ícone genérico de planta, acima do apelido da mesma</li>
+<li>[ ] Visualizar mensagem de nenhuma planta coletada caso não existam plantas coletadas</li>
+</ul>
+<h3 id="us03-visualizar-informacoes-da-minha-planta">US03 - Visualizar informações da Minha Planta</h3>
+<ul>
+<li>[ ] Visualizar nome dado pelo usuário a essa planta</li>
+<li>[ ] Visualizar data de quando ela foi adicionada a coleção</li>
+<li>[ ] O usuário deve poder alterar o apelido da planta</li>
+<li>[ ] O usuário deve poder re-configurar regras de notificação para lembrá-lo de regar/fertilizar a planta</li>
+<li>[ ] O usuário deve poder excluir a mesma</li>
+</ul>
+<h3 id="us04-cadastrar-minha-conta-no-aplicativo">US04 - Cadastrar minha conta no aplicativo</h3>
+<ul>
+<li>[ ] O usuário deve fornecer o username/apelido desejado</li>
+<li>[ ] O usuário deve fornecer o email</li>
+<li>[ ] O usuário deve fornecer a senha</li>
+<li>[ ] O usuário deve fornecer a confirmação de senha</li>
+<li>[ ] O sistema deve validar os dados fornecidos pelo usuário</li>
+<li>[ ] Em caso de invalidação, o sistema deve informar ao usuário quais dados não são válidos.</li>
+<li>[ ] Em caso de invalidação, o sistema deve informar ao usuário o motivo pelo qual aquele dado não é válido.</li>
+</ul>
+<h3 id="us05-cadastrarfazer-login-com-conta-facebook">US05 - Cadastrar/fazer login com conta Facebook</h3>
+<ul>
+<li>[ ] O usuário poderá realizar login com Facebook.</li>
+<li>[ ] O sistema deve pedir permissão ao usuário para acessar as informações do Facebook.</li>
+<li>[ ] O sistema deve mostrar uma mensagem de erro caso o login não seja realizado.</li>
+</ul>
+<h3 id="us06-cadastrarfazer-login-com-conta-google">US06 - Cadastrar/fazer login com conta Google</h3>
+<ul>
+<li>[ ] O usuário poderá realizar login com Google.</li>
+<li>[ ] O sistema deve pedir permissão ao usuário para acessar as informações do Google.</li>
+<li>[ ] O sistema deve mostrar uma mensagem de erro caso o login não seja realizado.</li>
+</ul>
+<h3 id="us07-fazer-login-no-aplicativo">US07 - Fazer login no aplicativo</h3>
+<ul>
+<li>[ ] O sistema deve válidar os dados utilizados pelo usuário no login.</li>
+<li>[ ] Em caso de falha de login por dados invalidos, o sistema deve informar que há dados invalidos (sem explicitar quais são).</li>
+<li>[ ] Em caso de login valido, o sistema deve redirecionar o usuário à tela principal.</li>
+<li>[ ] O sistema deve manter a sessão do usuário válida, até que ele decida deslogar.</li>
+</ul>
+<h3 id="us08-fazer-logout-no-aplicativo">US08 - Fazer logout no aplicativo</h3>
+<ul>
+<li>[ ] O sistema deve invalidar a sessão do usuário</li>
+<li>[ ] O sistema deve redirecionar o usuário à tela de login</li>
+</ul>
+<h3 id="us09-visualizar-minha-conta">US09 - Visualizar minha conta</h3>
+<ul>
+<li>[ ] O usuário poderá visualizar o nome cadastrado</li>
+<li>[ ] O usuário poderá visualizar o email cadastrado</li>
+<li>[ ] O usuário poderá visualizar a foto de perfil utilizada</li>
+<li>[ ] O usuário poderá visualizar o menu de configurações</li>
+</ul>
+<h3 id="us10-visualizar-configuracoes-da-conta">US10 - Visualizar configurações da conta</h3>
+<ul>
+<li>[ ] O usuário poderá visualizar as Politicas de Privacidade do aplicativo</li>
+<li>[ ] O usuário poderá visualizar os Termos de Uso</li>
+<li>[ ] O usuário poderá visualizar botão de Ajuda</li>
+<li>[ ] O usuário poderá visualizar o botão de Privacidade</li>
+</ul>
+<h3 id="us11-alterar-os-dados-cadastrados-na-minha-conta">US11 - Alterar os dados cadastrados na minha conta</h3>
+<ul>
+<li>[ ] O usuário poderá alterar seu username</li>
+<li>[ ] O usuário poderá alterar seu email</li>
+<li>[ ] O usuário poderá alterar sua foto de perfil</li>
+<li>[ ] O usuário poderá alterar sua senha</li>
+<li>[ ] O sistema deve validar as modificações fornecidas pelo usuário</li>
+</ul>
+<h3 id="us12-deletar-minha-conta">US12 - Deletar minha conta</h3>
+<ul>
+<li>[ ] O sistema deve perguntar ao usuário se ele <em>realmente</em> gostaria de deletar a conta ou não</li>
+<li>[ ] O sistema deve invalidar a sessão do usuário</li>
+<li>[ ] O sistema deve remover todos os dados pessoais do usuario do banco de dados</li>
+</ul>
+<h3 id="us13-visualizar-perfil-de-outro-usuario">US13 - Visualizar perfil de outro usuário</h3>
+<ul>
+<li>[ ] O usuário poderá visualizar o nome do outro usuário</li>
+<li>[ ] O usuário poderá visualizar a foto de perfil do outro usuário</li>
+</ul>
+<h3 id="us14-bloquear-outro-usuario">US14 - Bloquear outro usuário</h3>
+<ul>
+<li>[ ] O sistema deve perguntar ao usuário se ele <em>realmente</em> gostaria de bloquear o outro usuário</li>
+<li>[ ] O sistema deverá adicionar o outro usuário à lista de bloqueio deste usuário</li>
+<li>[ ] O sistema deverá garantir que o usuário nunca verá nada que dê indicios da existencia do outro usuário (perfil, comentarios, posts...), e vice-versa</li>
+</ul>
+<h3 id="us15-criar-topico-em-um-forum-de-planta">US15 - Criar tópico em um fórum de planta</h3>
+<ul>
+<li>[ ] O usuário deve definir um titulo para o tópico</li>
+<li>[ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio</li>
+<li>[ ] O usuário poderá inserir uma descrição do tópico</li>
+</ul>
+<h3 id="us16-editar-topico-criado-por-mim">US16 - Editar tópico criado por mim</h3>
+<ul>
+<li>[ ] O usuário poderá editar o nome do tópico</li>
+<li>[ ] O usuário poderá editar o conteúdo do tópico</li>
+<li>[ ] O sistema deve validar o titulo do tópico, de forma a garantir que este não está vazio</li>
+</ul>
+<h3 id="us17-deletar-o-topico-criado-por-mim">US17 - Deletar o tópico criado por mim</h3>
+<ul>
+<li>[ ] O sistema deve perguntar ao usuário se ele <em>realmente</em> gostaria de deletar o tópico ou não</li>
+<li>[ ] O sistema deve deletar o tópico e todos os comentários realizados dentro do mesmo</li>
+</ul>
+<h3 id="us18-upvote-e-downvote-em-um-topico">US18 - Upvote e downvote em um tópico</h3>
+<ul>
+<li>[ ] O usuário, excetuando-se o criador do próprio tópico, poderá dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos</li>
+<li>[ ] O usuário poderá desfazer qualquer uma das ações</li>
+<li>[ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes</li>
+</ul>
+<h3 id="us19-criar-comentario-em-um-topico">US19 - Criar comentário em um tópico</h3>
+<ul>
+<li>[ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio</li>
+</ul>
+<h3 id="us20-editar-comentario-que-fiz-em-um-topico">US20 - Editar comentário que fiz em um tópico</h3>
+<ul>
+<li>[ ] O sistema deve validar o conteúdo do comentario, de forma a garantir que este não está vazio</li>
+</ul>
+<h3 id="us21-remover-um-comentario-que-fiz-em-um-topico">US21 - Remover um comentário que fiz em um tópico</h3>
+<ul>
+<li>[ ] O sistema deve perguntar ao usuário se ele <em>realmente</em> gostaria de deletar o comentário ou não</li>
+<li>[ ] O sistema deve trocar o conteudo da mensagem por algo explicativo (ex: "comentário removido pelo usuário")</li>
+<li>[ ] O sistema deve manter a existência dos comentários em resposta ao comentário removido</li>
+</ul>
+<h3 id="us22-upvote-e-downvote-em-um-comentario">US22 - Upvote e downvote em um comentário</h3>
+<ul>
+<li>[ ] O usuário, excetuando-se o criador do próprio comentário, poderá dar uma avaliação positiva ou negativa por intermedio de dois botões auto-explicativos</li>
+<li>[ ] O usuário poderá desfazer qualquer uma das ações</li>
+<li>[ ] O sistema deve mostrar a diferença (subtração) entre upvotes e downvotes</li>
+</ul>
+<h3 id="us23-visualizar-informacoes-sobre-a-planta">US23 - Visualizar informações sobre a planta</h3>
+<ul>
+<li>[ ] O usuário poderá visualizar o nome da família desta planta</li>
+<li>[ ] O usuário poderá visualizar o nome do gênero desta planta</li>
+<li>[ ] O usuário poderá visualizar o nome da espécie desta planta</li>
+<li>[ ] O usuário poderá visualizar o nome comum da planta</li>
+<li>[ ] O usuário poderá visualizar uma imagem de “perfil” da planta</li>
+</ul>
+<h3 id="us24-adicionar-planta-aos-meus-favoritos">US24 - Adicionar planta aos meus Favoritos</h3>
+<ul>
+<li>[ ] O usuário deverá apertar em um botão no card de planta para adicionar a mesma aos favoritos</li>
+<li>[ ] O sistema deverá enviar a referida planta a coleção de favoritos</li>
+</ul>
+<h3 id="us25-remover-uma-planta-da-minha-colecao-de-favoritos">US25 - Remover uma planta da minha coleção de favoritos</h3>
+<ul>
+<li>[ ] O botão de enviar aos favoritos irá se transformar em botão de remover dos favoritos se a referida planta já estiver na coleção de favoritos</li>
+<li>[ ] O sistema deverá remover a referida planta da coleção de favoritos</li>
+</ul>
+<h3 id="us26-visualizar-minha-colecao-de-favoritos">US26 - Visualizar minha coleção de favoritos</h3>
+<ul>
+<li>[ ] O usuário poderá abrir os cards de planta diretamente da aba de favoritos</li>
+<li>[ ] Cada widget das plantas adicionadas à coleção de favoritos deverá mostrar seu Nome Comum</li>
+<li>[ ] Cada widget das plantas adicionadas à coleção de favoritos deverá mostrar seu nome científico</li>
+<li>[ ] Cada widget das plantas adicionadas à coleção de favoritos deverá mostrar seu status de extinção</li>
+<li>[ ] Cada widget das plantas adicionadas à coleção de favoritos deverá mostrar um botão que redireciona, também, ao card de planta</li>
+</ul>
+<h3 id="us27-adicionar-apelido-a-minha-planta">US27 - Adicionar apelido à minha planta</h3>
+<ul>
+<li>[ ] O usuário deverá adicionar um apelido a sua planta após o processo de scanneamento da mesma</li>
+<li>[ ] O usuário poderá alterar o apelido da planta a qualquer momento em sua coleção</li>
+<li>[ ] O sistema deverá garantir que o apelido é válido</li>
+</ul>
+<h3 id="us28-definir-configuracoes-de-notificacao">US28 - Definir configurações de notificação</h3>
+<ul>
+<li>[ ] O usuário deve poder configurar regras de notificação para lembrá-lo de regar/fertilizar a planta</li>
+</ul>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../product_backlog/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Backlog de Produto
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../prototipo/prototipo/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                Documentação do protótipo
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

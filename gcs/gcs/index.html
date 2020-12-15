@@ -1,0 +1,1662 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Artefatos de MDS e EPS, 2020.1">
+      
+      
+      
+        <link rel="canonical" href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/gcs/gcs/">
+      
+      
+        <meta name="author" content="GaiaDex">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Plano de Gerenciamento de Configuração de Software (GCS) - GaiaDex</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.196e0c26.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#2094f3">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/style/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="blue" data-md-color-accent="purple">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#plano-de-gerenciamento-de-configuracao-de-software-gcs" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/" title="GaiaDex" class="md-header-nav__button md-logo" aria-label="GaiaDex">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            GaiaDex
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Plano de Gerenciamento de Configuração de Software (GCS)
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header-nav__source">
+        
+<a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/" title="Ir ao repositório" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GaiaDex
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://fga-eps-mds.github.io/2020.1-GaiaDex-wiki/" title="GaiaDex" class="md-nav__button md-logo" aria-label="GaiaDex">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    GaiaDex
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/" title="Ir ao repositório" class="md-source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GaiaDex
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." class="md-nav__link">
+      Inicio
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+    <label class="md-nav__link" for="nav-2">
+      Critérios de Aceitação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Critérios de Aceitação" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon"></span>
+        Critérios de Aceitação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../product_backlog/product_backlog/" class="md-nav__link">
+      Backlog de Produto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../product_backlog/acceptance_criteria/" class="md-nav__link">
+      Critérios de Aceitação
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../prototipo/prototipo/" class="md-nav__link">
+      Documentação do protótipo
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../architecture_document/architecture_document/" class="md-nav__link">
+      Documento de Arquitetura
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../supplementary_document/supplementary_document/" class="md-nav__link">
+      Documento de Especificação Suplementar
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../eap/eap/" class="md-nav__link">
+      EAP
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../evm/evm/" class="md-nav__link">
+      EVM
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../cost_document/cost_document/" class="md-nav__link">
+      Gerenciamento de Plano de Custo
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9" >
+    <label class="md-nav__link" for="nav-9">
+      Guia de estilo React Native
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Guia de estilo React Native" data-md-level="1">
+      <label class="md-nav__title" for="nav-9">
+        <span class="md-nav__icon md-icon"></span>
+        Guia de estilo React Native
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../document_style_guide/Nodejs_style_guide/" class="md-nav__link">
+      Guia de estilo NodeJS
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../document_style_guide/React_style_guide/" class="md-nav__link">
+      Guia de estilo React Native
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" >
+    <label class="md-nav__link" for="nav-10">
+      Identidade Visual
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Identidade Visual" data-md-level="1">
+      <label class="md-nav__title" for="nav-10">
+        <span class="md-nav__icon md-icon"></span>
+        Identidade Visual
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/visual_identity/" class="md-nav__link">
+      Identidade Visual
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/inspirations/" class="md-nav__link">
+      Inspirações
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/moodboard/" class="md-nav__link">
+      Moodboards
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../visual_identity/roadmap_prototype/" class="md-nav__link">
+      Roadmap do Protótipo
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../communication_plan/communication_plan/" class="md-nav__link">
+      Plano de Comunicações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Plano de Gerenciamento de Configuração de Software (GCS)
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Plano de Gerenciamento de Configuração de Software (GCS)
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sumario" class="md-nav__link">
+    Sumário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-politicas-de-repositorio" class="md-nav__link">
+    1. Políticas de Repositório
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Políticas de Repositório">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-politica-de-commits" class="md-nav__link">
+    1.1 Política de Commits
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-politica-de-branches" class="md-nav__link">
+    1.2 Política de Branches
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-padrao-para-criacao-e-uso-das-branches" class="md-nav__link">
+    1.3 Padrão para criação e uso das branches
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-automatizacao-de-fechamento-de-issue" class="md-nav__link">
+    1.4 Automatização de Fechamento de Issue
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-pull-requests-tempestivos-e-permanentes" class="md-nav__link">
+    1.5 Pull Requests tempestivos e permanentes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-conflitos-nos-pull-requests" class="md-nav__link">
+    1.6 Conflitos nos Pull Requests
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-validacoes-de-produto" class="md-nav__link">
+    1.7 Validações de produto
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-integracao-continua-e-entrega-continua" class="md-nav__link">
+    2. Integração Contínua e Entrega Contínua
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Integração Contínua e Entrega Contínua">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-integracao-continua" class="md-nav__link">
+    2.1. Integração Contínua
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-entrega-continua" class="md-nav__link">
+    2.2. Entrega Contínua
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-pipeline" class="md-nav__link">
+    2.3. Pipeline
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../risk_management/risk_management/" class="md-nav__link">
+      Plano de Gerenciamento de Riscos
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../quality_plan/quality/" class="md-nav__link">
+      Plano de Qualidade do Projeto
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../post_mortem/post_mortem/" class="md-nav__link">
+      Post Mortem
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-16" type="checkbox" id="nav-16" >
+    <label class="md-nav__link" for="nav-16">
+      RoadMap de produto
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="RoadMap de produto" data-md-level="1">
+      <label class="md-nav__title" for="nav-16">
+        <span class="md-nav__icon md-icon"></span>
+        RoadMap de produto
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../roadmap/roles_roadmap/" class="md-nav__link">
+      RoadMap de papéis
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../roadmap/product_roadmap/" class="md-nav__link">
+      RoadMap de produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17" type="checkbox" id="nav-17" >
+    <label class="md-nav__link" for="nav-17">
+      Sprints
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprints" data-md-level="1">
+      <label class="md-nav__title" for="nav-17">
+        <span class="md-nav__icon md-icon"></span>
+        Sprints
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-1" type="checkbox" id="nav-17-1" >
+    <label class="md-nav__link" for="nav-17-1">
+      Atas da Reunião 15/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 15/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-1">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 15/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 15/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/planning/" class="md-nav__link">
+      Planejamento da Sprint 6
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint6/results/" class="md-nav__link">
+      Resultados da Sprint 6
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-2" type="checkbox" id="nav-17-2" >
+    <label class="md-nav__link" for="nav-17-2">
+      Atas da Reunião 22/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 22/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-2">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 22/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 22/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/planning/" class="md-nav__link">
+      Planejamento da Sprint 7
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint7/results/" class="md-nav__link">
+      Resultados da Sprint 7
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-3" type="checkbox" id="nav-17-3" >
+    <label class="md-nav__link" for="nav-17-3">
+      Atas da Reunião 29/10
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião 29/10" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-3">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião 29/10
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião 29/10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/planning/" class="md-nav__link">
+      Planejamento da Sprint 9
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint9/results/" class="md-nav__link">
+      Resultados da Sprint 9
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-4" type="checkbox" id="nav-17-4" >
+    <label class="md-nav__link" for="nav-17-4">
+      Atas da Reunião DD/MM
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas da Reunião DD/MM" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-4">
+        <span class="md-nav__icon md-icon"></span>
+        Atas da Reunião DD/MM
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/meeting_minutes/" class="md-nav__link">
+      Atas da Reunião DD/MM
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/planning/" class="md-nav__link">
+      Planejamento da Sprint 12
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint12/results/" class="md-nav__link">
+      Resultados da Sprint 12
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-5" type="checkbox" id="nav-17-5" >
+    <label class="md-nav__link" for="nav-17-5">
+      Sprint 0
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 0" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-5">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 0
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint0/planning/" class="md-nav__link">
+      Planejamento da Sprint 0
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint0/results/" class="md-nav__link">
+      Resultados da Sprint 0
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-6" type="checkbox" id="nav-17-6" >
+    <label class="md-nav__link" for="nav-17-6">
+      Sprint 1
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 1" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-6">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint1/planning/" class="md-nav__link">
+      Planejamento da Sprint 1
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint1/results/" class="md-nav__link">
+      Resultados da Sprint 1
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-7" type="checkbox" id="nav-17-7" >
+    <label class="md-nav__link" for="nav-17-7">
+      Sprint 2
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 2" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-7">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint2/planning/" class="md-nav__link">
+      Planejamento da Sprint 2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint2/results/" class="md-nav__link">
+      Resultados da Sprint 2
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-8" type="checkbox" id="nav-17-8" >
+    <label class="md-nav__link" for="nav-17-8">
+      Sprint 3
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 3" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-8">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 3
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint3/planning/" class="md-nav__link">
+      Planejamento da Sprint 3
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint3/results/" class="md-nav__link">
+      Resultados da Sprint 3
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-9" type="checkbox" id="nav-17-9" >
+    <label class="md-nav__link" for="nav-17-9">
+      Sprint 4
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 4" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-9">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 4
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint4/planning/" class="md-nav__link">
+      Planejamento da Sprint 4
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint4/results/" class="md-nav__link">
+      Resultados da Sprint 4
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-17-10" type="checkbox" id="nav-17-10" >
+    <label class="md-nav__link" for="nav-17-10">
+      Sprint 5
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Sprint 5" data-md-level="2">
+      <label class="md-nav__title" for="nav-17-10">
+        <span class="md-nav__icon md-icon"></span>
+        Sprint 5
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint5/planning/" class="md-nav__link">
+      Planejamento da Sprint 5
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../sprints/sprint5/results/" class="md-nav__link">
+      Resultados da Sprint 5
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../project_opening_term/project_opening_term/" class="md-nav__link">
+      Termo de Abertura do Projeto
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19" >
+    <label class="md-nav__link" for="nav-19">
+      ZeBrand
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="ZeBrand" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon"></span>
+        ZeBrand
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../vision_document/vision_document/" class="md-nav__link">
+      Documento de Visão
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../vision_document/ZeBrand/" class="md-nav__link">
+      ZeBrand
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sumario" class="md-nav__link">
+    Sumário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-politicas-de-repositorio" class="md-nav__link">
+    1. Políticas de Repositório
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Políticas de Repositório">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-politica-de-commits" class="md-nav__link">
+    1.1 Política de Commits
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-politica-de-branches" class="md-nav__link">
+    1.2 Política de Branches
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-padrao-para-criacao-e-uso-das-branches" class="md-nav__link">
+    1.3 Padrão para criação e uso das branches
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-automatizacao-de-fechamento-de-issue" class="md-nav__link">
+    1.4 Automatização de Fechamento de Issue
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-pull-requests-tempestivos-e-permanentes" class="md-nav__link">
+    1.5 Pull Requests tempestivos e permanentes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-conflitos-nos-pull-requests" class="md-nav__link">
+    1.6 Conflitos nos Pull Requests
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-validacoes-de-produto" class="md-nav__link">
+    1.7 Validações de produto
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-integracao-continua-e-entrega-continua" class="md-nav__link">
+    2. Integração Contínua e Entrega Contínua
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Integração Contínua e Entrega Contínua">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-integracao-continua" class="md-nav__link">
+    2.1. Integração Contínua
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-entrega-continua" class="md-nav__link">
+    2.2. Entrega Contínua
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-pipeline" class="md-nav__link">
+    2.3. Pipeline
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/fga-eps-mds/2020.1-GaiaDex-wiki/edit/master/docs/gcs/gcs.md" title="Editar esta página" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="plano-de-gerenciamento-de-configuracao-de-software-gcs">Plano de Gerenciamento de Configuração de Software (GCS)</h1>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Data</th>
+<th align="left">Versão</th>
+<th align="left">Descrição</th>
+<th align="left">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">26/08/2020</td>
+<td align="left">1.0</td>
+<td align="left">Criação e Formatação do tópico 1</td>
+<td align="left"><a href="http://github.com/rafaelmakaha">Rafael Makaha</a></td>
+</tr>
+<tr>
+<td align="left">14/10/2020</td>
+<td align="left">2.0</td>
+<td align="left">Criação e Formatação do tópico 2</td>
+<td align="left"><a href="http://github.com/rafaelmakaha">Rafael Makaha</a> e <a href="http://github.com/joaovitorml">João Vítor</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="sumario">Sumário</h2>
+<ul>
+<li><a href="#plano-de-gerenciamento-de-configuração-de-software-gcs">Plano de Gerenciamento de Configuração de Software (GCS)</a></li>
+<li><a href="#histórico-de-versão">Histórico de Versão</a></li>
+<li><a href="#sumário">Sumário</a></li>
+<li><a href="#1-políticas-de-repositório">1. Políticas de Repositório</a><ul>
+<li><a href="#11-política-de-commits">1.1 Política de Commits</a></li>
+<li><a href="#12-política-de-branches">1.2 Política de Branches</a></li>
+<li><a href="#13-padrão-para-criação-e-uso-das-branches">1.3 Padrão para criação e uso das branches</a></li>
+<li><a href="#14-automatização-de-fechamento-de-issue">1.4 Automatização de Fechamento de Issue</a></li>
+<li><a href="#15-pull-requests-tempestivos-e-permanentes">1.5 Pull Requests tempestivos e permanentes</a></li>
+<li><a href="#16-conflitos-nos-pull-requests">1.6 Conflitos nos Pull Requests</a></li>
+<li><a href="#17-validações-de-produto">1.7 Validações de produto</a></li>
+</ul>
+</li>
+<li><a href="#2-integração-contínua-e-entrega-contínua">2. Integração Contínua e Entrega Contínua</a><ul>
+<li><a href="#21-integração-contínua">2.1. Integração Contínua</a></li>
+<li><a href="#22-entrega-contínua">2.2. Entrega Contínua</a></li>
+<li><a href="#23-pipeline">2.3. Pipeline</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="1-politicas-de-repositorio">1. Políticas de Repositório</h2>
+<h3 id="11-politica-de-commits">1.1 Política de Commits</h3>
+<p>Adota-se para este projeto padrões para o comentário e execução dos commits. O idioma padrão para efetuar commits neste repositório é o inglês. As mensagens devem ser sucintas e expressarem de forma clara e objetiva a ação do commit.</p>
+<p>Como exemplo, considere o trabalho da construção de uma tela inicial da aplicação. O commit deverá ser efetuado como segue:</p>
+<pre><code>git commit -m &quot;Create new home Screen&quot;
+</code></pre>
+<p>Atente ainda para os seguintes aspectos:
+* O commit deve iniciar com letras maiúsculas.
+* O commit deve iniciar com verbo no infinitivo.
+Exemplos:<br />
+-"Fix login auth error"<br />
+-"Create User model"<br />
+-"Refactor profile View"<br />
+-"Translate flat pages"</p>
+<h3 id="12-politica-de-branches">1.2 Política de Branches</h3>
+<p>O repositório possui uma branch <code>master</code>, que possui objetivo de manter a versão estável do projeto.
+Possui também uma branch para desenvolvimento chamada <code>devel</code>, cujo objetivo é manter-se atualizada.
+Desta forma nenhum commit deve ser efetuado diretamente nestas branchs. As alterações devem ser criadas inicialmente em branchs de funcionalidades ou de configuração e correção, toda branch de funcionalidade deve ser criada a partir da branch devel. </p>
+<p>A imagem a seguir, ilustra como deve ser a organização das branchs e os eventos de criação e merge de acordo com o <a href="https://leanpub.com/git-flow/read">Git Flow</a>.
+<img alt="" src="https://leanpub.com/site_images/git-flow/git-workflow-release-cycle-2feature.png" /></p>
+<p>Como pode ser visto, após a etapa de desenvolvimento em uma branch de funcionalidade ser concluída, deve ser submetido um pull request em caso de alguma revisão ou merge da mesma. O pull request deve ser conferido por um membro da equipe e se estiver em conformidade, então o pull request é aceito. </p>
+<h3 id="13-padrao-para-criacao-e-uso-das-branches">1.3 Padrão para criação e uso das branches</h3>
+<p>Deve-se criar novas branches para trabalho seguindo padrão <a href="https://datasift.github.io/gitflow/IntroducingGitFlow.html">GitFlow</a>. Estas devem ser criadas a partir da branch <strong>develop</strong>, e devem seguir a nomenclatura padrão abaixo, redigidas no idioma inglês. </p>
+<p>O código das branchs deve estar sincronizado com alguma Issue do repositório, sendo então o nome padrão para as branchs no formato:<br />
+<strong>i401_validate_username</strong><br />
+<strong>i397_create_cluster_group</strong></p>
+<h3 id="14-automatizacao-de-fechamento-de-issue">1.4 Automatização de Fechamento de Issue</h3>
+<p>Caso termine sua funcionalidade e deseje fechar a Issue automaticamente é possivel através das palavras chaves na descrição do commit ou pull request:<br />
+<code>resolves: #numeroDaIssue</code><br />
+Em caso de múltiplas issues é necessário replicar o comando:<br />
+<code>resolves: #numeroDaIssue</code><br />
+<code>resolves: #numeroDaIssue2</code><br />
+<code>resolves: #numeroDaIssue3</code>  </p>
+<h3 id="15-pull-requests-tempestivos-e-permanentes">1.5 Pull Requests tempestivos e permanentes</h3>
+<p>Nesse projeto adotamos a política dos pull requests tempestivos e permanentes, ou seja, a partir do primeiro commit deve ser criado o pull request de merge da branch da issue com a develop. Esse pull request é, portanto, tempestivo - criado no primeiro commit - e permanente - permanece aberto enquanto o trabalho da issue estiver sendo executado. Além disso, sugere-se, para alterações no frontend, o envio também de prints ou gifs que ajudem a entender o trabalho realizado.</p>
+<p>O autor do pull request deve assignar o grupo de revisão: https://github.com/orgs/ejplatform/teams/revision</p>
+<h3 id="16-conflitos-nos-pull-requests">1.6 Conflitos nos Pull Requests</h3>
+<p>A branch do PR deve estar sempre atualizado com a branch de desenvolvimento (develop) em caso de conflitos, deve-se realizar um rebase na branch com a develop</p>
+<ul>
+<li>Exceções: commits que podem ser feitos diretamente na devel</li>
+<li>Fix de conteúdo e css (não arquiteturais)</li>
+<li>Tradução</li>
+<li>Cobertura de teste</li>
+<li>Atualizar assets</li>
+<li>Commits de melhoramentos/bugfix de pipeline (que precisam ser commitados na branch do pipeline)</li>
+</ul>
+<h3 id="17-validacoes-de-produto">1.7 Validações de produto</h3>
+<p>As validações de produto acontecem motivadas pelos PRs do develop para a master. Sempre que um revisor fizer o merge dos PRs vindos das branches de issue pra develop, gera um PR correspondente pra master, acionando a validação de produto, focada na release.</p>
+<h2 id="2-integracao-continua-e-entrega-continua">2. Integração Contínua e Entrega Contínua</h2>
+<h3 id="21-integracao-continua">2.1. Integração Contínua</h3>
+<p>O projeto é composto por dois repositórios de códigos e um de documentação. Os repositórios de código são um backend - referente a API do projeto - e um frontend mobile.</p>
+<p>Ambos respositórios utilizam a linguagem JavaScript para desenvolvimento. Mas se diferem nos frameworks utilizados, onde o backend utiliza NodeJS em conjunto com as bibliotecas de testes Jest e Supertest; e o frontend utiliza React Native em conjunto com as bibliotecas de testes Jest e Enzyme.</p>
+<p>Será utilizado o Github Actions para a realização da Integração Contínua por meio do workflow disponível na ferramenta e sua facilidade de utilização.</p>
+<h3 id="22-entrega-continua">2.2. Entrega Contínua</h3>
+<p>A Entrega Contínua é realizada, também, por meio do Github Actions. As alterações realizadas nas branches Develop e Master seguirão um fluxo de trabalho para a realização de uma Build de homologação e uma Build de Produção, respectivamente.</p>
+<h3 id="23-pipeline">2.3. Pipeline</h3>
+<!-- Adicionar pipelines -->
+<p><img alt="" src="#" /></p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../../communication_plan/communication_plan/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Plano de Comunicações
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../risk_management/risk_management/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                Plano de Gerenciamento de Riscos
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
