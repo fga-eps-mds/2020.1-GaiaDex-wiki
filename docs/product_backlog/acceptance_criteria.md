@@ -125,6 +125,18 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 | [Pull request](https://github.com/fga-eps-mds/2020.1-GaiaDex-BackEnd/pulls?q=is%3Apr+is%3Aclosed+92) | [Pull request](https://github.com/fga-eps-mds/2020.1-GaiaDex-FrontEnd/pull/118) |
 
 - [x] Notificação de novo topico, like e comentario
+- [ ] O usuário poderá visualizar as Politicas de Privacidade do aplicativo
+- [ ] O usuário poderá visualizar os Termos de Uso
+- [ ] O usuário poderá visualizar botão de Ajuda
+- [ ] O usuário poderá visualizar o botão de Privacidade
+
+### US11 - Alterar os dados cadastrados na minha conta
+
+- [ ] O usuário poderá alterar seu username
+- [ ] O usuário poderá alterar seu email
+- [ ] O usuário poderá alterar sua foto de perfil
+- [ ] O usuário poderá alterar sua senha
+- [ ] O sistema deve validar as modificações fornecidas pelo usuário
 
 ### US12 - Deletar minha conta
 
@@ -136,6 +148,11 @@ Este artefato diz respeito a uma lista de critérios necessários para que as _h
 - [x] O sistema deve perguntar ao usuário se ele _realmente_ gostaria de deletar a conta ou não
 - [x] O sistema deve invalidar a sessão do usuário
 - [x] O sistema deve remover todos os dados pessoais do usuario do banco de dados
+
+### US13 - Visualizar perfil de outro usuário
+
+- [ ] O usuário poderá visualizar o nome do outro usuário
+- [ ] O usuário poderá visualizar a foto de perfil do outro usuário
 
 ### US15 - Criar tópico em um fórum de planta
 
