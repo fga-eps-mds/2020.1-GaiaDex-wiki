@@ -58,6 +58,10 @@ Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
 ![](img/commits_wiki_sprint5.png)
 
+Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
+
+![](img/commits_front_sprint5.png)
+
 ### 1.4 _Velocity_
 
 ![](img/velocity.jpg)

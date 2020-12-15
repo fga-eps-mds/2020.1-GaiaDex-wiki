@@ -57,15 +57,15 @@ Não há burndown de risco pois nenhuma issue nova foi definida nessa sprint.
 
 Abaixo segue o gráfico de _commits_ referente a wiki do projeto.
 
-![commits_wiki](img/commits.jpg)
+![commits_wiki](img/commits_wiki_sprint10.png)
 
-<!-- Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
+Abaixo segue o gráfico de _commits_ referente ao backend do projeto.
 
-![commits_back](img/commits_back.png)
+![commits_back](img/commits_back_sprint10.png)
 
 Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
-![commits_front](img/commits_front.png) -->
+![commits_front](img/commits_front_sprint10.png)
 
 ### 1.4 _Velocity_
 
@@ -79,7 +79,7 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ![knowledge_box](img/knowledge_box.png)
 
-Comentário sobre a evolução dos conhecimentos.
+
 
 ### 1.7 EVM
 
