@@ -65,13 +65,11 @@ Abaixo segue o gráfico de _commits_ referente ao frontend do projeto.
 
 ### 1.5 Quadro de Horas
 
-![hours](img/hours.jpg)
+![hours](img/hours.png)
 
 ### 1.6 Quadro de Conhecimento
 
 ![knowledge_box](img/knowledge_box.jpg)
-
-Comentário sobre a evolução dos conhecimentos.
 
 ### 1.7 EVM
 
