@@ -57,6 +57,22 @@ nav:
       - RoadMap de papéis: roadmap/roles_roadmap.md
       - RoadMap de produto: roadmap/product_roadmap.md
   - Sprints:
+      - Atas da Reunião 15/10:
+          - Atas da Reunião 15/10: sprints/sprint6/meeting_minutes.md
+          - Planejamento da Sprint 6: sprints/sprint6/planning.md
+          - Resultados da Sprint 6: sprints/sprint6/results.md
+      - Atas da Reunião 22/10:
+          - Atas da Reunião 22/10: sprints/sprint7/meeting_minutes.md
+          - Planejamento da Sprint 7: sprints/sprint7/planning.md
+          - Resultados da Sprint 7: sprints/sprint7/results.md
+      - Atas da Reunião 29/10:
+          - Atas da Reunião 29/10: sprints/sprint9/meeting_minutes.md
+          - Planejamento da Sprint 9: sprints/sprint9/planning.md
+          - Resultados da Sprint 9: sprints/sprint9/results.md
+      - Atas da Reunião DD/MM:
+          - Atas da Reunião DD/MM: sprints/sprint12/meeting_minutes.md
+          - Planejamento da Sprint 12: sprints/sprint12/planning.md
+          - Resultados da Sprint 12: sprints/sprint12/results.md
       - Sprint 0:
           - Planejamento da Sprint 0: sprints/sprint0/planning.md
           - Resultados da Sprint 0: sprints/sprint0/results.md
@@ -75,33 +91,6 @@ nav:
       - Sprint 5:
           - Planejamento da Sprint 5: sprints/sprint5/planning.md
           - Resultados da Sprint 5: sprints/sprint5/results.md
-      - Sprint 6:
-          - Planejamento da Sprint 6: sprints/sprint6/planning.md
-          - Resultados da Sprint 6: sprints/sprint6/results.md
-      - Sprint 7:
-          - Planejamento da Sprint 7: sprints/sprint7/planning.md
-          - Resultados da Sprint 7: sprints/sprint7/results.md
-      - Sprint 8:
-          - Planejamento da Sprint 8: sprints/sprint8/planning.md
-          - Resultados da Sprint 8: sprints/sprint8/results.md
-      - Sprint 9:
-          - Planejamento da Sprint 9: sprints/sprint9/planning.md
-          - Resultados da Sprint 9: sprints/sprint9/results.md
-      - Sprint 10:
-          - Planejamento da Sprint 10: sprints/sprint10/planning.md
-          - Resultados da Sprint 10: sprints/sprint10/results.md
-      - Sprint 11:
-          - Planejamento da Sprint 11: sprints/sprint11/planning.md
-          - Resultados da Sprint 11: sprints/sprint11/results.md
-      - Sprint 12:
-          - Planejamento da Sprint 12: sprints/sprint12/planning.md
-          - Resultados da Sprint 12: sprints/sprint12/results.md
-      - Sprint 13:
-          - Planejamento da Sprint 13: sprints/sprint13/planning.md
-          - Resultados da Sprint 13: sprints/sprint13/results.md
-      - Sprint 14:
-          - Planejamento da Sprint 14: sprints/sprint14/planning.md
-          - Resultados da Sprint 14: sprints/sprint14/results.md
   - Termo de Abertura do Projeto: project_opening_term/project_opening_term.md
   - ZeBrand:
       - Documento de Visão: vision_document/vision_document.md
