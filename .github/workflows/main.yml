@@ -1,38 +1,38 @@
-name: github pages
+# name: github pages
 
-on:
-    push:
-        branches:
-            - develop
+# on:
+#     push:
+#         branches:
+#             - develop
 
-jobs:
-    deploy:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v2
-            - uses: actions/setup-python@v2
-              with:
-                  python-version: 3.8
+# jobs:
+#     deploy:
+#         runs-on: ubuntu-latest
+#         steps:
+#             - uses: actions/checkout@v2
+#             - uses: actions/setup-python@v2
+#               with:
+#                   python-version: 3.8
 
-            - name: adding dependencies
-              run: |
-                  python -m pip install --upgrade pip
-                  pip install pyyaml
-            - run: python update_mkdocs_yml.py
+#             - name: adding dependencies
+#               run: |
+#                   python -m pip install --upgrade pip
+#                   pip install pyyaml
+#             - run: python update_mkdocs_yml.py
 
-            - name: Commit files
-              run: |
-                  git config --local user.name "Guilherme de Lyra [ghpages action]"
-                  git config --local user.email "guilyra12@gmail.com"
-                  git add mkdocs.yml
-                  git commit -m "Updating mkdocs.yml file"
+#             - name: Commit files
+#               run: |
+#                   git config --local user.name "Guilherme de Lyra [ghpages action]"
+#                   git config --local user.email "guilyra12@gmail.com"
+#                   git add mkdocs.yml
+#                   git commit -m "Updating mkdocs.yml file"
 
-            - name: Push changes
-              uses: ad-m/github-push-action@master
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  branch: develop
-                  # force: true
+#             - name: Push changes
+#               uses: ad-m/github-push-action@master
+#               with:
+#                   github_token: ${{ secrets.GITHUB_TOKEN }}
+#                   branch: develop
+#                   # force: true
 
-            - run: pip install mkdocs-material
-            - run: mkdocs gh-deploy --force
+#             - run: pip install mkdocs-material
+#             - run: mkdocs gh-deploy --force
