@@ -6,7 +6,7 @@
 |:----:|:------------------------:|:-----:|:------:|
 | <img style="border-radius: 50%;" src="https://github.com/rafaelmakaha.png" alt="Rafael" title="Rafael Makaha" width="50" height="50" /> | Rafael Makaha | rafael.makaha@gmail.com | [rafaelmakaha](https://github.com/rafaelmakaha) |
 | <img style="border-radius: 50%;" src="https://github.com/joaovitorml.png" alt="Joao" title="Joao Vitor Morandi" width="50" height="50" /> | João Vitor Morandi | joao.lemos4000@gmail.com | [joaovitorml](https://github.com/joaovitorml) |
-| <img style="border-radius: 50%;" src="https://github.com/guilhermedelyra.jpg" alt="Lyra" title="Guilherme de Lyra" width="50" height="50" /> | Guilherme de Lyra | guilyra12@gmail.com | [guilhermedelyra](https://github.com/guilhermedelyra) |
+| <img style="border-radius: 50%;" src="https://github.com/guilhermedelyra.png" alt="Lyra" title="Guilherme de Lyra" width="50" height="50" /> | Guilherme de Lyra | guilyra12@gmail.com | [guilhermedelyra](https://github.com/guilhermedelyra) |
 
 ## EQUIPE MDS
 
